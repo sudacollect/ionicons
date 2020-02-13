@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="person" transform="translate(48.000000, 32.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M209,256 C256.83,256 303.42,269.5 340.2,294 C381.6,321.6 407.94,360.93 416.38,407.75 C418.32,418.48 415.7,429.09 409.2,436.86 C403.221563,444.026919 394.332325,448.118907 385,448 L33,448 C23.6693282,448.121372 14.7803762,444.033188 8.8,436.87 C2.3,429.1 -0.32,418.49 1.62,407.76 C10.06,360.94 36.4,321.61 77.8,294 C114.58,269.49 161.17,256 209,256 Z M209,0 C239,0 266.18,11.57 285.64,32.58 C305.34,53.85 314.94,82.48 312.67,113.18 C308.16,174.29 261.73,224 209,224 C156.27,224 109.76,174.28 105.32,113.16 C103.08,82.18 112.62,53.49 132.2,32.38 C151.57,11.5 178.84,0 209,0 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

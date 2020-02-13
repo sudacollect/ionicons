@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cloud-offline-sharp" transform="translate(0.000000, 41.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M63.9979677,0.371878706 L470.626793,407.000704 L447.999376,429.628121 L41.3705507,22.9992957 L63.9979677,0.371878706 Z M110.51,137.39 L364.12,391 L136,391 C99.56,391 65.64,378.43 40.49,355.59 C14.38,331.88 0,299 0,263 C0,226.42 13.39,194.88 38.72,171.78 C57.42,154.72 82.5,142.78 110.51,137.39 L110.51,137.39 Z M256,38.9985439 C295.932682,38.8262147 334.362676,54.2139945 363.14,81.9 C390.2,107.96 407.73,143.18 414.25,184.36 C463.56,191.66 512,225.15 512,287 C512,320.39 499.76,347.78 476.59,366.23 C476.32,366.45 476,366.65 475.75,366.86 L475.75,366.86 L172.93,64 C197.1,47.62 225.53,38.9985439 256,38.9985439 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

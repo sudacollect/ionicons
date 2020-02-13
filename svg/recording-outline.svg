@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<title>ionicons-v5-p</title>
+<g>
+	<path d="M128,368c-61.8,0-112-50.2-112-112s50.2-112,112-112s112,50.2,112,112S189.8,368,128,368z M128,176c-44.1,0-80,35.9-80,80
+		s35.9,80,80,80s80-35.9,80-80S172.1,176,128,176z"/>
+</g>
+<g>
+	<path d="M384,368c-61.8,0-112-50.2-112-112s50.2-112,112-112s112,50.2,112,112S445.8,368,384,368z M384,176c-44.1,0-80,35.9-80,80
+		s35.9,80,80,80s80-35.9,80-80S428.1,176,384,176z"/>
+</g>
+<g>
+	<path d="M384,368H128c-8.8,0-16-7.2-16-16s7.2-16,16-16h256c8.8,0,16,7.2,16,16S392.8,368,384,368z"/>
+</g>
+</svg>

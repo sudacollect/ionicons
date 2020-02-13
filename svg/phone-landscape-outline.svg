@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="phone-landscape-outline" transform="translate(0.000000, 112.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M448,0 C483.3,0 512,28.7 512,64 L512,224 C512,259.3 483.3,288 448,288 L64,288 C28.7,288 0,259.3 0,224 L0,64 C0,28.7 28.7,0 64,0 L448,0 Z M448,32 L64,32 C46.576,32 32.28832,46.11344 32.0043088,63.4729712 L32,64 L32,64 L32,81 C45.8,84.6 56,97.1 56,112 L56,176 C56,190.9 45.8,203.4 32,207 L32,224 C32,241.6 46.4,256 64,256 L448,256 C465.6,256 480,241.6 480,224 L480,64 C480,46.4 465.6,32 448,32 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

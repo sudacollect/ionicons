@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="battery-half-outline" transform="translate(16.000000, 128.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M370.3,256 L61.7,256 C27.7,256 0,228.3 0,194.3 L0,61.7 C0,27.7 27.7,-1.42108547e-14 61.7,-1.42108547e-14 L370.3,-1.42108547e-14 C404.3,-1.42108547e-14 432,27.7 432,61.7 L432,194.3 C432,228.3 404.3,256 370.3,256 Z M61.7,32 C45.3,32 32,45.3 32,61.7 L32,194.3 C32,210.7 45.3,224 61.7,224 L370.3,224 C386.7,224 400,210.7 400,194.3 L400,61.7 C400,45.3 386.7,32 370.3,32 L61.7,32 Z" id="Shape"></path>
+            <g id="Group" transform="translate(53.000000, 54.000000)">
+                <path d="M167,0.9 C178,0.9 187,9.9 187,20.9 L187,127 C187,138.1 178,147.1 167,147.1 L20.7,147.1 C9.7,147.1 0.7,138.1 0.7,127.1 L0.7,20.9 C0.7,9.9 9.7,0.9 20.7,0.9 L167,0.9 Z" id="Combined-Shape"></path>
+            </g>
+            <path d="M464,181.3 C455.2,181.3 448,174.1 448,165.3 L448,90.6 C448,81.8 455.2,74.6 464,74.6 C472.8,74.6 480,81.8 480,90.6 L480,165.3 C480,174.2 472.8,181.3 464,181.3 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

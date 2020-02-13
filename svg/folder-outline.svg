@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="folder-outline" transform="translate(16.000000, 64.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M131.9,0 C143,0 153.7,3.3 163,9.4 L190.8,28 C194.8,30.6 199.4,32 204.1,32 L424,32 C454.9,32 480,57.1 480,88 L480,328 C480,358.9 454.9,384 424,384 L56,384 C25.1,384 0,358.9 0,328 L0,56 C0,25.1 25.1,0 56,0 L131.9,0 Z M448,144 L32,144 L32,328 C32,341.2 42.8,352 56,352 L424,352 C437.2,352 448,341.2 448,328 L448,144 Z M131.9,32 L56,32 C42.8,32 32,42.8 32,56 L32,112 L448,112 L448,88 C448,74.8 437.2,64 424,64 L204.1,64 C193,64 182.3,60.7 173,54.6 L145.2,36 C141.2,33.4 136.6,32 131.9,32 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>
