@@ -1,14 +1,14 @@
 @font-face {
-    font-family: "ionicon";
-    src: url("./ionicon.eot?e4d783a6097e156159b5b90c3bbe4a7c?#iefix") format("embedded-opentype"),
-url("./ionicon.woff2?e4d783a6097e156159b5b90c3bbe4a7c") format("woff2"),
-url("./ionicon.woff?e4d783a6097e156159b5b90c3bbe4a7c") format("woff"),
-url("./ionicon.ttf?e4d783a6097e156159b5b90c3bbe4a7c") format("truetype"),
-url("./ionicon.svg?e4d783a6097e156159b5b90c3bbe4a7c#ionicon") format("svg");
+    font-family: "ionicons";
+    src: url("./ionicons.eot?77efd1eb6348053f10e2a062ff750f5f?#iefix") format("embedded-opentype"),
+url("./ionicons.woff2?77efd1eb6348053f10e2a062ff750f5f") format("woff2"),
+url("./ionicons.woff?77efd1eb6348053f10e2a062ff750f5f") format("woff"),
+url("./ionicons.ttf?77efd1eb6348053f10e2a062ff750f5f") format("truetype"),
+url("./ionicons.svg?77efd1eb6348053f10e2a062ff750f5f#ionicons") format("svg");
 }
 
 i[class^="ion-"]:before, i[class*=" ion-"]:before {
-    font-family: ionicon !important;
+    font-family: ionicons !important;
     font-style: normal;
     font-weight: normal !important;
     font-variant: normal;
