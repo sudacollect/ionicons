@@ -1,13 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<title>ionicons-v5-g</title>
-<g>
-	<path d="M343.9,416.2c-5.1,0-10-1.6-14.2-4.7c-0.2-0.2-0.4-0.3-0.7-0.5l-91.5-75l-69.6,0c-13.2,0-24-10.8-24-24V200
-		c0-13.2,10.8-24,24-24h69.6v16l0-16c0,0,0,0,0,0l91.4-75c0.2-0.2,0.4-0.4,0.7-0.5c4.1-3,9.1-4.7,14.2-4.7c0,0,0,0,0,0
-		c13.2,0,24,10.8,24,24v272.4c0,5.1-1.6,10.1-4.7,14.2c-3.8,5.2-9.4,8.5-15.7,9.5C346.4,416.1,345.2,416.2,343.9,416.2z M336,392.2
-		C336,392.2,336,392.2,336,392.2L336,392.2z M176,304h61.6c7.4,0,14.6,2.6,20.3,7.3l78.1,64V136.8l-78.1,64
-		c-5.7,4.7-12.9,7.2-20.3,7.2c0,0,0,0,0,0H176V304z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="volume-off-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">Volume Off</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 342.09961 96.222656 C 337.81186 96.3898 333.54171 97.732729 329.7793 100.5 A 16.0016 16.0016 0 0 0 329.11523 101.01758 L 237.66602 176 A 16.0016 16.0016 0 0 0 237.65039 176 L 168 176 C 154.93468 176 144 186.93468 144 200 L 144 312 C 144 325.06532 154.93468 336 168 336 L 237.64258 336 A 16.0016 16.0016 0 0 0 237.64453 336.00195 L 329.11523 411.00195 A 16.0016 16.0016 0 0 0 329.7793 411.51953 C 344.84681 422.6018 368.03612 410.84283 368 392.13867 L 368 119.83008 A 16.0016 16.0016 0 0 0 368 119.82031 C 367.99201 105.80882 354.96285 95.721224 342.09961 96.222656 z M 336 136.75195 L 336 375.26758 L 257.9375 311.25977 L 257.93555 311.25781 C 252.22041 306.57006 245.04999 304.00372 237.6582 304 A 16.0016 16.0016 0 0 0 237.65039 304 L 176 304 L 176 208 L 237.63281 208 C 245.02062 208.00755 252.19313 205.45377 257.91406 200.7793 A 16.0016 16.0016 0 0 0 257.93555 200.76172 L 336 136.75195 z "
+     id="path4" />
 </svg>

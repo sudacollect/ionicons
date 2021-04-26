@@ -1,16 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<title>ionicons-v5-c</title>
-<g>
-	<path d="M464,400c-5.5,0-10.9-1.5-15.9-4.5L259.3,282.5c-9.2-5.5-14.7-15.4-14.7-26.5s5.5-21,14.7-26.5l188.9-113
-		c9.6-5.8,21.3-6,31.1-0.4c10.4,5.9,16.8,17.1,16.8,29.5v221c0,12.3-6.4,23.6-16.8,29.5C474.5,398.7,469.2,400,464,400z M277.3,256
-		l186.5,111.7c0.1-0.3,0.2-0.6,0.2-1.1v-221c0-0.5-0.1-0.9-0.2-1.1L277.3,256z"/>
-</g>
-<g>
-	<path d="M235.5,400c-5.5,0-10.9-1.5-15.9-4.5L30.7,282.5C21.5,277,16,267.1,16,256s5.5-21,14.7-26.5l188.9-113
-		c9.6-5.8,21.3-6,31.1-0.4c10.3,5.9,16.8,17.1,16.8,29.5v221c0,12.3-6.4,23.6-16.8,29.5C245.9,398.7,240.7,400,235.5,400z M48.7,256
-		l186.5,111.7c0.1-0.3,0.2-0.6,0.2-1.1v-221c0-0.5-0.1-0.9-0.2-1.1L48.7,256z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="play-back-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">Play Back</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 236.41992 112.19141 C 230.6911 112.00621 224.8012 113.34288 219.58594 116.4707 L 219.57617 116.47656 L 30.714844 229.4707 L 30.712891 229.4707 C 10.868562 241.34723 10.868562 270.65277 30.712891 282.5293 L 219.58203 395.59766 C 230.03547 401.85843 243.17845 400.91723 252.31641 394.98242 C 261.45613 389.04647 267.42969 378.38041 267.42969 366.51953 L 267.42969 287.40625 L 448.15234 395.59766 C 458.60578 401.85843 471.74877 400.91723 480.88672 394.98242 C 490.02644 389.04647 496 378.38041 496 366.51953 L 496 145.51953 C 496 133.65865 490.02741 122.99081 480.87891 117.05664 C 471.73593 111.12606 458.5805 110.20523 448.13672 116.48242 L 267.42969 224.59766 L 267.42969 145.51953 C 267.42969 133.66266 261.46329 122.99459 252.31445 117.05859 C 247.74004 114.09059 242.16069 112.37699 236.41992 112.19141 z M 235.21094 144.41016 C 235.31736 144.65104 235.42969 144.93032 235.42969 145.51953 L 235.42969 366.51953 C 235.42969 367.1206 235.31517 367.41537 235.20508 367.65625 L 48.699219 256 L 235.21094 144.41016 z M 463.78125 144.41016 C 463.88792 144.65077 464 144.93116 464 145.51953 L 464 366.51953 C 464 367.1206 463.88548 367.41537 463.77539 367.65625 L 277.26758 256 L 463.78125 144.41016 z M 275.7168 255.07031 C 275.72088 255.07276 275.7186 255.07374 275.72266 255.07617 L 275.7168 255.07227 L 275.7168 255.07031 z "
+     id="path4" />
 </svg>

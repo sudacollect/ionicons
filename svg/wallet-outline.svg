@@ -1,18 +1,63 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<title>ionicons-v5-r</title>
-<g>
-	<path d="M416,448H96c-35.3,0-64-28.7-64-64V192c0-35.3,28.7-64,64-64h320c35.3,0,64,28.7,64,64v192C480,419.3,451.3,448,416,448z
-		 M96,160c-17.6,0-32,14.4-32,32v192c0,17.6,14.4,32,32,32h320c17.6,0,32-14.4,32-32V192c0-17.6-14.4-32-32-32H96z"/>
-</g>
-<g>
-	<path d="M64,208H32v-49c0-31.7,22.5-58.9,53.6-64.9c0.1,0,0.2,0,0.3-0.1l263.2-44.9c4-0.8,8.1-1.1,12.2-1.1c0,0,0,0,0,0
-		c17.6,0,34.2,6.9,46.7,19.3c12.5,12.5,19.3,29,19.3,46.7v30h-32v-30c0-18.7-15.3-34-34-34c0,0,0,0,0,0c-2.1,0-4.3,0.2-6.4,0.6
-		c-0.1,0-0.2,0-0.3,0.1L91.5,125.6C75.5,128.7,64,142.7,64,159V208z"/>
-</g>
-<g>
-	<path d="M368,320c-17.7,0-32-14.3-32-32s14.3-32,32-32s32,14.3,32,32S385.7,320,368,320z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="wallet-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg10" />
+  <title
+     id="title2">Wallet</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 96 128 C 60.820756 128 32 156.82076 32 192 L 32 384 C 32 419.17924 60.820756 448 96 448 L 416 448 C 451.17924 448 480 419.17924 480 384 L 480 192 C 480 156.82076 451.17924 128 416 128 L 96 128 z M 96 160 L 416 160 C 434.00476 160 448 173.99524 448 192 L 448 384 C 448 402.00476 434.00476 416 416 416 L 96 416 C 77.995244 416 64 402.00476 64 384 L 64 192 C 64 173.99524 77.995244 160 96 160 z "
+     id="rect4" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 363.95312 48.076172 C 359.05328 47.872199 354.04648 48.222635 349.00391 49.183594 L 349.30859 49.128906 L 85.947266 94.078125 A 16.0016 16.0016 0 0 0 85.644531 94.132812 C 54.601231 100.04869 31.97857 127.40976 32 159.01172 L 32 208 L 64 208 L 64 159 A 16.0016 16.0016 0 0 0 64 158.98828 C 63.988862 142.56445 75.479384 128.66148 91.607422 125.57422 L 354.69141 80.671875 A 16.0016 16.0016 0 0 0 354.99609 80.617188 C 376.26798 76.563426 395.35241 92.35116 395.35938 114.00586 L 395.35938 144 L 427.35938 144 L 427.35938 114 A 16.0016 16.0016 0 0 0 427.35938 113.99414 C 427.34781 78.060877 398.25206 49.50398 363.95312 48.076172 z "
+     id="path6" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;stroke:none;opacity:1"
+     d="m 368,320 c -12.94278,0 -24.61122,-7.79659 -29.56392,-19.75395 -4.9527,-11.95732 -2.21423,-25.72043 6.93765,-34.87232 9.15189,-9.15188 22.915,-11.89035 34.87232,-6.93765 C 392.20341,263.38878 400,275.05722 400,288 c 0,17.67311 -14.32689,32 -32,32 z"
+     id="path8" />
 </svg>

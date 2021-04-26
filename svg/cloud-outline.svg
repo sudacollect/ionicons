@@ -1,14 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<title>ionicons-v5-f</title>
-<g>
-	<path d="M396,432H136c-36.4,0-70.4-12.6-95.5-35.4C14.4,372.9,0,340,0,304c0-36.6,13.4-68.1,38.7-91.2
-		c19.9-18.2,47.1-30.6,77.4-35.4c9.4-24.6,25.2-46.9,45.2-63.6C187.8,91.7,220.5,80,256,80c40.4,0,78.4,15.2,107.1,42.9
-		c27.1,26.1,44.6,61.3,51.1,102.5c49.3,7.3,97.8,40.8,97.8,102.6c0,33.4-12.2,60.8-35.4,79.2C456.2,423.4,428.4,432,396,432z
-		 M256,112c-27.9,0-53.5,9.1-74.2,26.3c-18,15-31.7,35.7-38.5,58.3c-1.9,6.2-7.3,10.6-13.7,11.3C57.6,215.1,32,262.3,32,304
-		c0,26.9,10.7,51.3,30,68.9c19.2,17.5,45.5,27.1,74,27.1h260c75.8,0,84-50.4,84-72c0-22.1-8.6-39.9-25.6-52.9
-		c-14.5-11.1-34.6-18.1-55.2-19.1c-7.9-0.4-14.3-6.5-15.1-14.4c-3.9-39.1-18.8-72.2-43.1-95.6C318.2,124.1,288,112,256,112z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="cloud-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">Cloud</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 256 80 C 184.24891 80 135.34085 127.322 116.09766 177.46094 C 87.076419 182.03493 59.804901 193.54021 38.716797 212.77539 C 15.144249 234.27672 0 265.74101 0 304 C 0 378.72727 62.565657 432 136 432 L 396 432 C 426.16085 432 454.78922 424.58286 476.58984 407.22656 C 498.39046 389.87026 512 362.24301 512 328 C 512 293.36471 495.71485 266.42205 473.84375 249.69727 C 455.87985 235.96031 434.61921 228.40349 414.0918 225.41016 C 399.81303 136.69595 333.22439 80 256 80 z M 256 112 C 321.04237 112 375.84899 158.69629 384.07812 241.58008 A 16.0016 16.0016 0 0 0 399.16797 255.97852 C 417.80471 256.94936 439.02735 263.35698 454.40625 275.11719 C 469.78515 286.8774 480 302.81529 480 328 C 480 354.31699 471.10954 370.68966 456.66016 382.19336 C 442.21078 393.69706 420.83915 400 396 400 L 136 400 C 77.434343 400 32 361.27273 32 304 C 32 273.84899 42.855751 252.31414 60.283203 236.41797 C 77.710655 220.52179 102.42825 210.63628 129.5918 207.91992 A 16.0016 16.0016 0 0 0 143.30664 196.66211 C 156.09596 154.67519 194.45121 112 256 112 z "
+     id="path4" />
 </svg>

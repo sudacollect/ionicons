@@ -1,13 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
-    <title>Artboard</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="arrow-back-circle-outline" transform="translate(64.000000, 64.000000)" fill="#000000" fill-rule="nonzero">
-            <path d="M174.022366,100.730388 C180.246401,94.45774 190.376964,94.4183314 196.649612,100.642366 C202.83514,106.779956 202.959372,116.716313 196.993344,123.00604 L196.737634,123.269612 L128.539,191.999999 L196.737634,260.730388 C202.875224,266.915916 202.922146,276.852939 196.907365,283.096059 L196.649612,283.357634 C190.464084,289.495224 180.527061,289.542146 174.283941,283.527365 L174.022366,283.269612 L94.6423663,203.269612 C88.5397252,197.119306 88.4537725,187.251258 94.3845082,180.996227 L94.6423663,180.730388 L174.022366,100.730388 Z" id="Path"></path>
-            <path d="M278,176 C286.836556,176 294,183.163444 294,192 C294,200.731359 287.006099,207.829205 278.314871,207.996964 L278,208 L117.03,208 C108.193444,208 101.03,200.836556 101.03,192 C101.03,183.268641 108.023901,176.170795 116.715129,176.003036 L117.03,176 L278,176 Z" id="Path"></path>
-            <path d="M192,-16 C77.163444,-16 -16,77.163444 -16,192 C-16,306.836556 77.163444,400 192,400 C306.836556,400 400,306.836556 400,192 C400,77.163444 306.836556,-16 192,-16 Z M192,16 C289.163444,16 368,94.836556 368,192 C368,289.163444 289.163444,368 192,368 C94.836556,368 16,289.163444 16,192 C16,94.836556 94.836556,16 192,16 Z" id="Path"></path>
-        </g>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="arrow-back-circle-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title2">Arrow Back Circle</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 249.43945 160 A 16 16 0 0 0 238.02148 164.73047 L 158.64258 244.73047 A 16.0016 16.0016 0 0 0 158.64258 267.26953 L 238.02148 347.26953 A 16 16 0 0 0 260.65039 347.35742 A 16 16 0 0 0 260.73828 324.73047 L 208.41602 272 L 342 272 A 16 16 0 0 0 358 256 A 16 16 0 0 0 342 240 L 208.41602 240 L 260.73828 187.26953 A 16 16 0 0 0 260.65039 164.64258 A 16 16 0 0 0 249.43945 160 z "
+     id="path4" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 256 48 C 141.34591 48 48 141.34591 48 256 C 48 370.65409 141.34591 464 256 464 C 370.65409 464 464 370.65409 464 256 C 464 141.34591 370.65409 48 256 48 z M 256 80 C 353.34591 80 432 158.65409 432 256 C 432 353.34591 353.34591 432 256 432 C 158.65409 432 80 353.34591 80 256 C 80 158.65409 158.65409 80 256 80 z "
+     id="path6" />
 </svg>

@@ -1,11 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
-    <title>Artboard</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="flashlight-outline" transform="translate(32.000000, 32.000000)" fill="#000000" fill-rule="nonzero">
-            <path d="M328.42044,12.0227101 L436.02044,119.52271 C445.92044,129.42271 449.92044,142.02271 447.22044,155.02271 C445.12044,164.92271 439.42044,174.62271 430.02044,184.02271 L418.02044,195.92271 C388.72044,225.22271 348.62044,228.22271 324.62044,230.02271 C317.42044,230.62271 305.42044,236.92271 298.42044,243.92271 L109.72044,432.72271 C99.5204403,442.92271 86.7204403,448.02271 73.7204403,448.02271 C59.0204403,448.02271 43.8204403,441.62271 31.2204403,429.02271 L19.0204403,416.82271 C8.22044033,406.02271 1.52044033,392.62271 0.220440332,379.02271 C-1.17955967,363.92271 4.12044033,349.42271 15.2204403,338.32271 L204.02044,149.62271 C211.02044,142.62271 217.32044,130.62271 217.92044,123.52271 L218.12044,121.12271 C219.92044,95.1227101 222.52044,59.6227101 252.02044,30.0227101 L263.92044,18.0227101 C273.32044,8.62271014 283.02044,2.82271014 292.92044,0.822710142 C305.82044,-1.87728986 318.52044,2.12271014 328.42044,12.0227101 Z M250.22044,123.42271 L250.02044,125.82271 C248.72044,143.12271 237.12044,162.02271 226.82044,172.22271 L37.9204403,361.02271 C33.5204403,365.42271 31.6204403,370.42271 32.1204403,376.12271 C32.7204403,382.22271 36.1204403,388.72271 41.6204403,394.22271 L53.8204403,406.42271 C62.3204403,414.92271 76.2204403,421.02271 87.0204403,410.12271 L275.82044,221.32271 C286.32044,210.82271 304.82044,199.52271 322.12044,198.12271 C337.27851,196.956705 356.247134,195.55548 373.411904,188.014226 L259.806582,74.409312 C252.531039,90.4490078 251.306612,107.673215 250.22044,123.42271 Z M192.72044,235.32271 C203.766135,235.32271 212.72044,244.277015 212.72044,255.32271 C212.72044,266.368405 203.766135,275.32271 192.72044,275.32271 C181.674745,275.32271 172.72044,266.368405 172.72044,255.32271 C172.72044,244.277015 181.674745,235.32271 192.72044,235.32271 Z M300.92044,32.0227101 C300.42044,32.0227101 299.92044,32.1227101 299.52044,32.2227101 C296.02044,32.9227101 291.32044,36.0227101 286.72044,40.7227101 L279.052,48.454 L399.57,168.972 L407.22044,161.32271 C411.92044,156.62271 415.02044,151.92271 415.72044,148.42271 C416.02044,147.12271 416.42044,145.22271 413.22044,142.12271 L305.82044,34.7227101 C303.62044,32.5227101 302.02044,32.0227101 300.92044,32.0227101 Z" id="Combined-Shape"></path>
-        </g>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="flashlight-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg10" />
+  <title
+     id="title2">Flashlight</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 334.08594 32.189453 C 330.96199 32.007594 327.87735 32.218431 324.9375 32.832031 C 313.17812 35.28643 303.91492 42.0982 295.97266 50.058594 L 295.96875 50.064453 L 284.01367 62.070312 C 253.46722 92.63585 251.74454 130.94997 249.9707 155.51758 C 249.56479 161.03827 242.06004 175.68215 236.10547 181.63672 L 47.269531 370.35352 C 36.007104 381.60453 30.893832 396.81245 32.226562 411.04688 C 33.559449 425.28297 40.554817 438.38294 50.996094 448.82422 L 63.167969 460.99609 L 63.169922 460.99805 C 73.570197 471.39196 86.62376 478.40393 100.85938 479.76562 C 115.09499 481.12732 130.34926 476.03059 141.65039 464.73633 L 141.65234 464.73633 L 330.48242 275.93359 L 330.48438 275.93359 C 336.44125 269.97671 350.96855 262.50462 356.71875 262.05078 L 356.65234 262.05469 C 381.72049 260.17987 420.68528 257.27175 450.0332 227.92383 L 461.96875 215.98828 C 469.9168 208.04627 476.72187 198.78523 479.17188 187.0293 C 481.62188 175.27336 477.60842 161.20217 467.95312 151.54688 L 467.95312 151.54492 L 360.43164 44.042969 L 360.42969 44.041016 C 353.18486 36.801695 343.45777 32.735031 334.08594 32.189453 z M 334.30078 63.908203 C 335.12606 64.169964 336.06543 64.933948 337.81055 66.677734 L 445.32617 174.17383 C 448.81088 177.65853 448.3832 177.92094 447.8457 180.5 C 447.30821 183.07906 444.55351 188.15357 439.35156 193.35156 L 439.34766 193.35352 L 427.40625 205.29688 C 407.47417 225.22895 378.93943 228.29935 354.26758 230.14453 L 354.23438 230.14648 L 354.20117 230.15039 C 335.37137 231.63655 319.37859 241.78352 307.85547 253.30664 L 119.02734 442.10547 C 113.89938 447.22939 109.40432 448.43784 103.9082 447.91211 C 98.411318 447.38631 91.75074 444.31936 85.791016 438.36328 L 73.623047 426.19727 C 67.644323 420.21854 64.600551 413.56086 64.085938 408.06445 C 63.571324 402.56804 64.8019 398.06883 69.886719 392.99023 L 69.888672 392.98828 L 258.73242 204.26562 L 258.73438 204.26367 C 270.23772 192.76032 280.50977 176.79383 281.88867 157.83008 L 281.88867 157.82617 L 281.88867 157.82227 C 283.71437 132.53628 284.97353 106.36436 306.66406 84.673828 L 306.67578 84.662109 L 318.63672 72.650391 C 323.83082 67.447539 328.89821 64.693991 331.47461 64.15625 C 332.76367 63.8872 333.4755 63.646442 334.30078 63.908203 z "
+     id="path4" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;stroke:none;opacity:1"
+     d="m 244.67999,287.28 c 0,11.04569 -8.9543,20 -20,20 -11.04569,0 -20,-8.95431 -20,-20 0,-11.0457 8.95431,-20 20,-20 11.0457,0 20,8.9543 20,20 z"
+     id="circle6" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 289.12109 65 A 16 16 0 0 0 277.68555 69.685547 A 16 16 0 0 0 277.68555 92.314453 L 419.68555 234.31445 A 16 16 0 0 0 442.31445 234.31445 A 16 16 0 0 0 442.31445 211.68555 L 300.31445 69.685547 A 16 16 0 0 0 289.12109 65 z "
+     id="path8" />
 </svg>

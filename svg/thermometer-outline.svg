@@ -1,19 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<title>ionicons-v5-q</title>
-<g>
-	<path d="M255.9,496c-28,0-54.6-10.3-75.4-29.3c-22.1-20.2-35-47.7-36.4-77.6c-1.7-38.5,16.5-75.6,47.9-97.8V80
-		c0-35.3,28.7-64,64-64c35.3,0,64,28.7,64,64v211.3c30.2,21.3,48,55.6,48,92.7c0,60-47,109.1-106.9,111.8
-		C259.4,495.9,257.6,496,255.9,496z M213,315.7c-24,15.7-38.2,43.2-36.9,71.9c1,21.3,10.2,41,26,55.4s36.2,21.8,57.6,20.8
-		c42.8-2,76.3-37,76.4-79.9c0-27.6-13.8-53.2-37-68.3c-6.9-4.4-11-12-11-20.2V80c0-17.6-14.4-32-32-32c-17.6,0-32,14.4-32,32v215.5
-		C224,303.8,219.9,311.3,213,315.7z"/>
-</g>
-<g>
-	<path d="M256,400c-8.8,0-16-7.2-16-16V112c0-8.8,7.2-16,16-16c8.8,0,16,7.2,16,16v272C272,392.8,264.8,400,256,400z"/>
-</g>
-<g>
-	<circle cx="256" cy="384" r="48"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="thermometer-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title2">Thermometer</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 256 16 C 220.84329 16 192 44.84329 192 80 L 192 291.51953 C 160.61622 313.76982 142.38391 350.41562 144.11523 389.04688 L 144.11719 389.05273 L 144.11719 389.06055 C 146.88559 449.66974 197.87044 497.29053 258.52734 495.92188 C 319.18425 494.55322 367.96818 444.68019 368 384.00781 L 368 384.00586 C 368.01573 347.1201 349.94873 312.72868 320 291.50586 L 320 80 C 320 44.84329 291.15671 16 256 16 z M 256 48 C 273.86263 48 288 62.137374 288 80 L 288 295.5293 L 288 295.53711 C 288.00903 303.73132 292.23725 311.40321 299.16016 315.78711 L 298.98633 315.67578 C 322.10152 330.7325 336.01177 356.40761 336 383.99414 C 335.97607 427.63279 301.43247 462.94528 257.80469 463.92969 C 214.17691 464.9141 178.07619 431.19472 176.08398 387.60156 C 176.08395 387.60091 176.08401 387.60026 176.08398 387.59961 C 174.79588 358.74952 188.82507 331.42884 213.02344 315.66602 L 212.86914 315.76562 C 219.77178 311.38024 223.98724 303.72281 224 295.54492 L 224 295.5332 L 224 80 C 224 62.137374 238.13737 48 256 48 z M 256 96 A 16 16 0 0 0 240 112 L 240 384 A 16 16 0 0 0 256 400 A 16 16 0 0 0 272 384 L 272 112 A 16 16 0 0 0 256 96 z "
+     id="path4" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;stroke:none;opacity:1"
+     d="m 304,384 c 0,26.50967 -21.49033,48 -48,48 -26.50967,0 -48,-21.49033 -48,-48 0,-26.50967 21.49033,-48 48,-48 26.50967,0 48,21.49033 48,48 z"
+     id="circle6" />
 </svg>

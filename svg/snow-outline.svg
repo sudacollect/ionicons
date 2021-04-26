@@ -1,42 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<title>ionicons-v5-q</title>
-<g>
-	<path d="M256,496c-8.8,0-16-7.2-16-16V32c0-8.8,7.2-16,16-16c8.8,0,16,7.2,16,16v448C272,488.8,264.8,496,256,496z"/>
-</g>
-<g>
-	<path d="M256.2,112c-0.1,0-0.3,0-0.4,0c-23.1,0-45.9-6.3-65.7-18.3c-7.6-4.6-10-14.4-5.4-22c4.6-7.6,14.4-10,22-5.4
-		c14.9,9,32,13.7,49.4,13.7c0.1,0,0.1,0,0.2,0c17.4,0,34.5-4.7,49.3-13.7c7.6-4.6,17.4-2.1,22,5.4s2.1,17.4-5.4,22
-		C302.1,105.7,279.4,112,256.2,112z"/>
-</g>
-<g>
-	<path d="M313.7,448c-2.8,0-5.6-0.7-8.2-2.3c-30.5-18.3-68.4-18.3-99,0c-7.6,4.5-17.4,2.1-22-5.5c-4.5-7.6-2.1-17.4,5.5-22
-		c40.7-24.4,91.2-24.4,131.9,0c7.6,4.5,10,14.4,5.5,22C324.4,445.2,319.1,448,313.7,448z"/>
-</g>
-<g>
-	<path d="M62,384c-5.5,0-10.9-2.9-13.9-8c-4.4-7.7-1.8-17.4,5.9-21.9l388-224c7.7-4.4,17.4-1.8,21.9,5.9c4.4,7.7,1.8,17.4-5.9,21.9
-		l-388,224C67.5,383.3,64.7,384,62,384z"/>
-</g>
-<g>
-	<path d="M437.3,234c-2.6,0-5.3-0.6-7.7-2c-41.5-23-66.8-66.8-65.9-114.3c0.2-8.8,7.5-15.9,16.3-15.7c8.8,0.2,15.9,7.4,15.7,16.3
-		c-0.6,35.6,18.3,68.5,49.5,85.7c7.7,4.3,10.5,14,6.2,21.8C448.3,231,442.9,234,437.3,234z"/>
-</g>
-<g>
-	<path d="M132.4,410c-0.1,0-0.2,0-0.3,0c-8.8-0.2-15.9-7.4-15.7-16.3c0.6-35.6-18.3-68.5-49.5-85.7c-7.7-4.3-10.5-14-6.2-21.8
-		c4.3-7.7,14-10.5,21.8-6.2c41.5,23,66.8,66.8,65.9,114.3C148.3,403,141.1,410,132.4,410z"/>
-</g>
-<g>
-	<path d="M450,384c-2.7,0-5.5-0.7-8-2.1l-388-224c-7.7-4.4-10.3-14.2-5.9-21.9c4.4-7.7,14.2-10.3,21.9-5.9l388,224
-		c7.7,4.4,10.3,14.2,5.9,21.9C460.9,381.1,455.5,384,450,384z"/>
-</g>
-<g>
-	<path d="M74.7,234c-5.6,0-11.1-3-14-8.2c-4.3-7.7-1.5-17.5,6.2-21.8c31.1-17.3,50.1-50.1,49.5-85.7c-0.2-8.8,6.9-16.1,15.7-16.3
-		c0.1,0,0.2,0,0.3,0c8.7,0,15.8,7,16,15.7C149.3,165.2,124,209,82.5,232C80,233.4,77.4,234,74.7,234z"/>
-</g>
-<g>
-	<path d="M379.6,410c-8.7,0-15.8-7-16-15.7C362.7,346.8,388,303,429.5,280c7.7-4.3,17.5-1.5,21.8,6.2c4.3,7.7,1.5,17.5-6.2,21.8
-		c-31.1,17.3-50.1,50.1-49.5,85.7c0.2,8.8-6.9,16.1-15.7,16.3C379.7,410,379.6,410,379.6,410z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="snow-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">Snow</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 256 16 A 16 16 0 0 0 240 32 L 240 78.519531 C 228.22567 76.536787 216.84742 72.50996 206.53906 66.296875 A 16 16 0 0 0 184.57617 71.740234 A 16 16 0 0 0 190.02148 93.703125 C 205.33598 102.93352 222.37369 108.77078 240 110.97656 L 240 228.28906 L 138.39648 169.62695 C 145.19837 153.47143 148.75698 135.84677 148.4375 117.71875 A 16 16 0 0 0 132.1582 102.00195 A 16 16 0 0 0 116.44336 118.28125 C 116.65861 130.49495 114.40493 142.33811 110.29297 153.40234 L 70.009766 130.14453 A 16 16 0 0 0 48.154297 136 A 16 16 0 0 0 54.009766 157.85547 L 94.298828 181.11719 C 86.777092 190.21093 77.651427 198.0845 66.970703 204.00781 A 16 16 0 0 0 60.738281 225.75977 A 16 16 0 0 0 82.490234 231.99219 C 98.340457 223.20198 111.81714 211.30779 122.40039 197.3418 L 224.00195 256 L 122.40039 314.6582 C 111.81714 300.69221 98.340457 288.79802 82.490234 280.00781 A 16 16 0 0 0 60.738281 286.24023 A 16 16 0 0 0 66.970703 307.99219 C 77.651427 313.9155 86.777092 321.78907 94.298828 330.88281 L 54.009766 354.14453 A 16 16 0 0 0 48.154297 376 A 16 16 0 0 0 70.009766 381.85547 L 110.29297 358.59766 C 114.40493 369.66189 116.65861 381.50505 116.44336 393.71875 A 16 16 0 0 0 132.1582 409.99805 A 16 16 0 0 0 148.4375 394.28125 C 148.75698 376.15323 145.19837 358.52857 138.39648 342.37305 L 240 283.71094 L 240 401.04297 C 222.61524 403.2268 205.57898 408.95283 190.04297 418.2832 A 16 16 0 0 0 184.56445 440.23828 A 16 16 0 0 0 206.51758 445.7168 C 216.98603 439.42982 228.36556 435.46438 240 433.49609 L 240 480 A 16 16 0 0 0 256 496 A 16 16 0 0 0 272 480 L 272 433.49609 C 283.63444 435.46438 295.01397 439.42982 305.48242 445.7168 A 16 16 0 0 0 327.43555 440.23828 A 16 16 0 0 0 321.95703 418.2832 C 306.42102 408.95283 289.38476 403.2268 272 401.04297 L 272 283.71094 L 373.60352 342.37305 C 366.80163 358.52857 363.24302 376.15323 363.5625 394.28125 A 16 16 0 0 0 379.8418 409.99805 A 16 16 0 0 0 395.55664 393.71875 C 395.34139 381.50505 397.59507 369.66189 401.70703 358.59766 L 441.99023 381.85547 A 16 16 0 0 0 463.8457 376 A 16 16 0 0 0 457.99023 354.14453 L 417.70117 330.88281 C 425.22291 321.78907 434.34857 313.9155 445.0293 307.99219 A 16 16 0 0 0 451.26172 286.24023 A 16 16 0 0 0 429.50977 280.00781 C 413.65954 288.79802 400.18286 300.69221 389.59961 314.6582 L 287.99805 256 L 389.59961 197.3418 C 400.18286 211.30779 413.65954 223.20198 429.50977 231.99219 A 16 16 0 0 0 451.26172 225.75977 A 16 16 0 0 0 445.0293 204.00781 C 434.34857 198.0845 425.22291 190.21093 417.70117 181.11719 L 457.99023 157.85547 A 16 16 0 0 0 463.8457 136 A 16 16 0 0 0 441.99023 130.14453 L 401.70703 153.40234 C 397.59507 142.33811 395.34139 130.49495 395.55664 118.28125 A 16 16 0 0 0 379.8418 102.00195 A 16 16 0 0 0 363.5625 117.71875 C 363.24302 135.84677 366.80163 153.47143 373.60352 169.62695 L 272 228.28906 L 272 110.97656 C 289.62631 108.77078 306.66402 102.93352 321.97852 93.703125 A 16 16 0 0 0 327.42383 71.740234 A 16 16 0 0 0 305.46094 66.296875 C 295.15258 72.50996 283.77433 76.536787 272 78.519531 L 272 32 A 16 16 0 0 0 256 16 z "
+     id="path4" />
 </svg>

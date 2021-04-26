@@ -1,27 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<title>ionicons-v5-q</title>
-<g>
-	<path d="M256,432c-1.1,0-2.2-0.1-3.2-0.3c-1.5-0.3-37.3-7.7-73.8-19.7c-57.4-18.9-83-37.7-83-60.9V104c0.1-39.6,32.4-71.9,72-72
-		h12.3c5.5-9.6,15.9-16,27.7-16h96c11.8,0,22.2,6.4,27.7,16H344c39.7,0,72,32.3,72,72v247c0,23.3-25.6,42.1-83,60.9
-		c-36.5,12-72.3,19.4-73.8,19.7C258.2,431.9,257.1,432,256,432z M128,350.5c0.8,1.6,8.9,14.4,65.3,32.4
-		c27.1,8.6,53.7,14.7,62.7,16.7c9-2,35.6-8.1,62.7-16.7c56.4-18,64.5-30.8,65.3-32.4V104c0-22.1-17.9-40-40-40h-24
-		c-8.8,0-16-7.2-16-16h-96c0,8.8-7.2,16-16,16h-24c-22,0.1-39.9,18-40,40V350.5z M384.1,350.4L384.1,350.4L384.1,350.4z
-		 M127.9,350.4L127.9,350.4L127.9,350.4z M256,368c-35.3,0-64-28.7-64-64s28.7-64,64-64c35.3,0,64,28.7,64,64S291.3,368,256,368z
-		 M256,272c-17.6,0-32,14.4-32,32s14.4,32,32,32c17.6,0,32-14.4,32-32S273.6,272,256,272z M336,224H176c-17.6,0-32-14.4-32-32v-64
-		c0-17.6,14.4-32,32-32h160c17.6,0,32,14.4,32,32v64C368,209.6,353.6,224,336,224z M176,128v64h160v-64H176z"/>
-</g>
-<g>
-	<path d="M368,480H144c-8.8,0-16-7.2-16-16s7.2-16,16-16h224c8.8,0,16,7.2,16,16S376.8,480,368,480z"/>
-</g>
-<g>
-	<path d="M384,496c-4.1,0-8.2-1.6-11.3-4.7l-48-48c-6.2-6.2-6.2-16.4,0-22.6c6.2-6.2,16.4-6.2,22.6,0l48,48c6.2,6.2,6.2,16.4,0,22.6
-		C392.2,494.4,388.1,496,384,496z"/>
-</g>
-<g>
-	<path d="M128,496c-4.1,0-8.2-1.6-11.3-4.7c-6.2-6.2-6.2-16.4,0-22.6l48-48c6.2-6.2,16.4-6.2,22.6,0c6.2,6.2,6.2,16.4,0,22.6l-48,48
-		C136.2,494.4,132.1,496,128,496z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="train-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">Train</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 208 16 C 196.34529 16 186.12197 22.519887 180.52539 32 L 168 32 A 16.0016 16.0016 0 0 0 167.95508 32 C 128.44879 32.112394 96.112394 64.448791 96 103.95508 A 16.0016 16.0016 0 0 0 96 104 L 96 351 C 96 360.85159 100.91062 368.90725 106.52734 374.88477 C 112.14406 380.86228 118.93223 385.56202 126.53516 389.92578 C 141.74102 398.65331 160.44155 405.83448 179.00195 411.9375 C 216.12276 424.14354 252.76758 431.66992 252.76758 431.66992 A 16.0016 16.0016 0 0 0 259.23242 431.66992 C 259.23242 431.66992 295.87724 424.14354 332.99805 411.9375 C 351.55845 405.83448 370.25898 398.65331 385.46484 389.92578 C 393.06777 385.56202 399.85594 380.86228 405.47266 374.88477 C 411.08938 368.90725 416 360.85159 416 351 L 416 104 C 416 64.425012 383.57499 32 344 32 L 331.47461 32 C 325.87803 22.519887 315.65471 16 304 16 L 208 16 z M 208 48 L 304 48 A 16.0016 16.0016 0 0 0 320 64 L 344 64 C 366.2809 64 384 81.719096 384 104 L 384 351 C 384 349.97341 384.41062 350.56736 382.15234 352.9707 C 379.89406 355.37405 375.43223 358.7872 369.53516 362.17188 C 357.74102 368.94122 340.44155 375.80458 323.00195 381.53906 C 290.68092 392.16685 260.62713 398.6025 256 399.58203 C 251.37287 398.6025 221.31908 392.16685 188.99805 381.53906 C 171.55845 375.80458 154.25898 368.94122 142.46484 362.17188 C 136.56777 358.7872 132.10594 355.37405 129.84766 352.9707 C 127.58938 350.56736 128 349.97341 128 351 L 128 104.04492 C 128.06338 81.76827 145.76827 64.063376 168.04492 64 L 192 64 A 16.0016 16.0016 0 0 0 208 48 z M 176 96 C 158.5164 96 144 110.5164 144 128 L 144 192 C 144 209.4836 158.5164 224 176 224 L 336 224 C 353.4836 224 368 209.4836 368 192 L 368 128 C 368 110.5164 353.4836 96 336 96 L 176 96 z M 176 128 L 336 128 L 336 192 L 176 192 L 176 128 z M 252.75 240.09961 C 237.22951 240.90041 222.16533 247.32686 210.74609 258.74609 C 192.47532 277.01687 186.98309 304.6195 196.87109 328.49219 C 206.75911 352.3649 230.16035 368 256 368 C 291.15671 368 320 339.15671 320 304 C 320 278.16035 304.3649 254.75911 280.49219 244.87109 C 271.53993 241.16309 262.06229 239.61913 252.75 240.09961 z M 254.36133 272.02539 C 259.00947 271.79038 263.74636 272.57177 268.24609 274.43555 C 280.24544 279.40565 288 291.01132 288 304 C 288 321.86263 273.86263 336 256 336 C 243.01132 336 231.40565 328.24544 226.43555 316.24609 C 221.46547 304.24679 224.19012 290.55988 233.375 281.375 C 239.11555 275.63445 246.61443 272.41708 254.36133 272.02539 z M 176.12109 416 A 16 16 0 0 0 164.68555 420.68555 L 132.77148 452.60156 L 116.68555 468.68555 A 16 16 0 0 0 116.68555 491.31445 A 16 16 0 0 0 139.31445 491.31445 L 150.62891 480 L 361.37109 480 L 372.68555 491.31445 A 16 16 0 0 0 395.31445 491.31445 A 16 16 0 0 0 395.31445 468.68555 L 379.39844 452.77148 L 347.31445 420.68555 A 16 16 0 0 0 324.68555 420.68555 A 16 16 0 0 0 324.68555 443.31445 L 329.37109 448 L 182.62891 448 L 187.31445 443.31445 A 16 16 0 0 0 187.31445 420.68555 A 16 16 0 0 0 176.12109 416 z "
+     id="path4" />
 </svg>

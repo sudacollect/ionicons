@@ -1,15 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
-    <title>Artboard</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="american-football-outline" transform="translate(14.000000, 14.000000)" fill="#000000" fill-rule="nonzero">
-            <path d="M108,108 C218,-1.9 367.4,-33.8 442.6,41.5 C517.8,116.8 486,266.1 376,376 C266,485.9 116.6,517.8 41.4,442.5 C-33.8,367.2 -2,218 108,108 Z M35.1333129,303.039808 C27.428294,350.172031 36.5469381,392.346938 64.1,419.9 C91.6530619,447.453062 133.827969,456.571706 180.960192,448.866687 Z M270.647335,42.8523409 L267.591394,43.8203576 C221.5719,58.72488 173.27,88.13 130.7,130.7 C87.1751918,174.224808 57.4124401,223.741523 42.8393704,270.684392 C46.3056343,271.012317 49.6866957,272.458969 52.4,275 L208.8,431.4 C211.506535,434.106535 213.031564,437.57533 213.375089,441.140875 C260.300619,426.562226 309.793714,396.806286 353.3,353.3 C396.824808,309.775192 426.58756,260.258477 441.16063,213.315608 C437.69427,212.987642 434.313266,211.540995 431.6,209 L431.3,208.7 L275.3,52.6 C272.539749,49.8835628 270.988861,46.4184725 270.647335,42.8523409 Z M419.9,64.1 C392.362939,36.5629394 350.221012,27.4388914 303.121918,35.119906 L448.867015,180.95819 C456.571448,133.826774 447.452672,91.6526716 419.9,64.1 Z" id="Combined-Shape"></path>
-            <path d="M308.7,152.6 C314.9,146.4 325.1,146.4 331.3,152.6 C337.5,158.8 337.5,168.7 331.6,175 L331.3,175.3 L175.3,331.4 C169.1,337.6 158.9,337.6 152.7,331.4 C146.5,325.2 146.5,315.3 152.4,309 L152.7,308.7 L308.7,152.6 Z" id="Path"></path>
-            <path d="M208.4,208.4 C214.6,202.2 224.5,202.2 230.8,208.1 L231.1,208.4 L275.7,253 C281.9,259.2 281.9,269.4 275.7,275.6 C269.5,281.8 259.6,281.8 253.3,275.9 L253,275.6 L208.4,231 C202.1,224.8 202.1,214.6 208.4,208.4 Z" id="Path_1_"></path>
-            <path d="M253,163.8 C259.2,157.6 269.1,157.6 275.4,163.5 L275.7,163.8 L320.3,208.4 C326.5,214.6 326.5,224.8 320.3,231 C314.1,237.2 304.2,237.2 297.9,231.3 L297.6,231 L253,186.4 C246.7,180.2 246.7,170 253,163.8 Z" id="Path_2_"></path>
-            <path d="M163.8,253 C170,246.8 179.9,246.8 186.2,252.7 L186.5,253 L231.1,297.6 C237.3,303.8 237.3,314 231.1,320.2 C224.9,326.4 215,326.4 208.7,320.5 L208.4,320.2 L163.8,275.6 C157.5,269.4 157.5,259.2 163.8,253 Z" id="Path_5_"></path>
-        </g>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg839"
+   sodipodi:docname="american-football-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata845">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs843" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1135"
+     inkscape:window-height="622"
+     id="namedview841"
+     showgrid="false"
+     inkscape:zoom="0.3"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="268"
+     inkscape:window-y="1165"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg839"
+     inkscape:document-rotation="0" />
+  <title
+     id="title833">American Football</title>
+  <path
+     id="ellipse835"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 349.55469 14.550781 C 333.35813 14.432141 316.61787 16.241929 299.72461 19.847656 C 239.6597 32.66803 176.2729 67.818898 122.04492 122.04688 C 67.816945 176.27485 32.666075 239.66165 19.845703 299.72656 C 7.0253379 359.79148 16.901709 417.93296 55.484375 456.51562 C 94.067041 495.09829 152.20852 504.97466 212.27344 492.1543 C 272.33835 479.33392 335.72515 444.18305 389.95312 389.95508 C 444.1811 335.7271 479.33197 272.3403 492.15234 212.27539 C 504.97271 152.21048 495.09634 94.068994 456.51367 55.486328 C 428.78238 27.755037 390.9459 14.853972 349.55469 14.550781 z M 349.02539 46.458984 C 383.51884 46.573417 412.9333 57.161813 433.88477 78.113281 C 461.05646 105.28497 470.79159 146.69527 462.86133 194.95312 L 317.04688 49.138672 C 328.09429 47.323226 338.78465 46.42501 349.02539 46.458984 z M 284.67578 56.865234 A 16 16 0 0 0 289.28711 66.632812 L 445.36719 222.71289 A 16 16 0 0 0 455.13477 227.32422 C 440.57799 274.12473 410.78562 323.86477 367.32422 367.32617 C 323.86337 410.78703 274.12421 440.57974 227.32422 455.13672 A 16 16 0 0 0 222.71289 445.36719 L 66.632812 289.28711 A 16 16 0 0 0 56.863281 284.67383 C 71.420479 237.87441 101.21163 188.13407 144.67188 144.67383 C 188.13322 101.21248 237.87533 71.42203 284.67578 56.865234 z M 333.82422 161.96094 A 16 16 0 0 0 322.72656 166.64648 L 300.59375 188.77734 L 289.61328 177.79688 A 16 16 0 0 0 266.98633 177.79688 A 16 16 0 0 0 266.98633 200.42383 L 277.96875 211.40625 L 256 233.37305 L 245.01367 222.38672 A 16 16 0 0 0 222.38672 222.38672 A 16 16 0 0 0 222.38672 245.01367 L 233.37305 256 L 211.40625 277.96875 L 200.42383 266.98633 A 16 16 0 0 0 177.79688 266.98633 A 16 16 0 0 0 177.79688 289.61328 L 188.77734 300.59375 L 166.64648 322.72656 A 16 16 0 0 0 166.64648 345.35352 A 16 16 0 0 0 189.27344 345.35352 L 211.40625 323.22266 L 222.38672 334.20312 A 16 16 0 0 0 245.01367 334.20312 A 16 16 0 0 0 245.01367 311.57617 L 234.03125 300.59375 L 256 278.62695 L 266.98633 289.61328 A 16 16 0 0 0 289.61328 289.61328 A 16 16 0 0 0 289.61328 266.98633 L 278.62695 256 L 300.59375 234.03125 L 311.57617 245.01367 A 16 16 0 0 0 334.20312 245.01367 A 16 16 0 0 0 334.20312 222.38672 L 323.22266 211.40625 L 345.35352 189.27344 A 16 16 0 0 0 345.35352 166.64648 A 16 16 0 0 0 333.82422 161.96094 z M 49.136719 317.04492 L 194.95508 462.86328 C 146.69558 470.79469 105.28374 461.05913 78.111328 433.88672 C 50.938873 406.71426 41.205238 365.30452 49.136719 317.04492 z " />
 </svg>

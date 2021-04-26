@@ -1,11 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
-    <title>Artboard</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="shirt-outline" transform="translate(16.000000, 32.000000)" fill="#000000" fill-rule="nonzero">
-            <path d="M298.6,0.1 C304,0.1 309.4,1 314.5,2.8 L320.181823,4.78710261 C320.654131,4.86948028 321.127216,4.97355788 321.6,5.1 C322.859316,5.44075619 324.044003,5.92199151 325.141053,6.52256809 L469.4,57 C476.9,59.6 481.3,67.3 479.8,75.1 L463.2,163.1 C461.9,170 456.2,175.2 449.3,176 L400.4,181.5 C396.3,182 393.2,185.6 393.3,189.7 L400.1,431.6 C400.2,435.9 398.6,440.1 395.6,443.2 C392.5,446.3 388.3,448 384,448 L96,448 C91.7,448 87.5,446.3 84.5,443.2 C81.5,440.1 79.9,435.9 80,431.6 L86.8,189.7 C86.9,185.5 83.8,181.9 79.7,181.5 L30.8,176 C23.8,175.2 18.2,170 16.9,163.1 L0.3,75.1 C-1.2,67.3 3.3,59.6 10.7,57 L155.277351,6.41014449 C156.312734,5.86098196 157.423816,5.41826153 158.6,5.1 C159.009635,4.98915771 159.419966,4.89550191 159.830233,4.81858488 L165.6,2.8 C170.7,1 176,0.1 181.5,0.1 C183.3,0.1 185.1,0.4 186.8,1 C187,1.1 207.8,8.1 240.1,8.1 C272.4,8.1 293.2,1.1 293.4,1 C295.1,0.4 296.8,0.1 298.6,0.1 Z M153.216181,40.9204743 L34.3,82.6 L46.2,145.5 L83.3,149.7 C103.8,152 119.4,170 118.8,190.7 L112.5,416 L367.6,416 L361.3,190.5 C360.7,169.9 376.3,151.9 396.8,149.6 L434,145.4 L445.9,82.5 L326.979069,40.9905294 C318.757145,58.5395978 305.434955,73.143202 288.3,83.1 C273.3,91.7 256.8,96.1 240.2,96.1 C231.9,96.1 223.6,95 215.4,92.8 C187.827364,85.4915904 165.151825,66.2508162 153.216181,40.9204743 Z M294.514628,33.7321819 L294.460839,33.7447426 C283.82954,36.39145 264.686,40 239.9,40 C215.472889,40 196.526021,36.4951934 185.806314,33.8603027 C194.312376,47.4179782 207.746959,57.5677403 223.6,61.8 C240.1,66.2 257.4,63.9 272.2,55.3 C281.435822,49.9332387 289.036044,42.5414496 294.514628,33.7321819 Z" id="Combined-Shape"></path>
-        </g>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="shirt-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">Shirt</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 197.43945 32 C 192.03678 32.000153 186.67242 32.913095 181.57422 34.701172 L 173.60938 37.488281 L 173.59961 37.492188 A 16 16 0 0 0 173.20312 37.630859 L 26.714844 88.898438 A 16.0016 16.0016 0 0 0 16.277344 106.9707 L 32.908203 194.9707 A 16.0016 16.0016 0 0 0 46.833984 207.89844 L 95.710938 213.41797 C 99.992867 213.90255 102.93811 217.30407 102.80664 221.61133 A 16.0016 16.0016 0 0 0 102.80664 221.65039 L 96.005859 463.55078 A 16.0016 16.0016 0 0 0 112 480 L 400 480 A 16.0016 16.0016 0 0 0 415.99414 463.55078 L 409.19336 221.65039 A 16.0016 16.0016 0 0 0 409.19336 221.61133 C 409.06193 217.30539 412.00535 213.90418 416.28516 213.41797 L 465.16602 207.89844 A 16.0016 16.0016 0 0 0 479.0918 194.9707 L 495.72266 106.9707 A 16.0016 16.0016 0 0 0 485.28516 88.898438 L 338.74609 37.613281 A 16 16 0 0 0 338.47656 37.517578 L 330.42578 34.701172 C 325.32758 32.913095 319.96322 32.000153 314.56055 32 A 16.0016 16.0016 0 0 0 309.25781 32.904297 C 309.25781 32.904297 289.39505 40 256 40 C 222.60495 40 202.74219 32.904297 202.74219 32.904297 A 16.0016 16.0016 0 0 0 197.43945 32 z M 201.66016 65.644531 C 212.2352 68.280564 230.97805 72 256 72 C 281.02195 72 299.7648 68.280564 310.33984 65.644531 C 298.92285 84.178153 278.68154 96.089844 256 96.089844 C 233.31846 96.089844 213.07715 84.178153 201.66016 65.644531 z M 169.17383 72.945312 C 184.78288 106.07984 218.40145 128.08984 256 128.08984 C 293.59855 128.08984 327.21712 106.07984 342.82617 72.945312 L 461.72266 114.55469 L 449.8418 177.42578 L 412.69531 181.62109 A 16.0016 16.0016 0 0 0 412.69141 181.62109 C 392.15367 183.94533 376.58266 201.91799 377.20703 222.57617 L 383.54297 448 L 128.45703 448 L 134.79297 222.57617 C 135.41734 201.91799 119.84633 183.94533 99.308594 181.62109 A 16.0016 16.0016 0 0 0 99.304688 181.62109 L 62.158203 177.42578 L 50.277344 114.55469 L 169.17383 72.945312 z "
+     id="path4" />
 </svg>

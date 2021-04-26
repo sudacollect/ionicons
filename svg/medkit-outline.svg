@@ -1,20 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<title>ionicons-v5-n</title>
-<g>
-	<path d="M432,480H80c-35.3,0-64-28.7-64-64V160c0-35.3,28.7-64,64-64h352c35.3,0,64,28.7,64,64v256C496,451.3,467.3,480,432,480z
-		 M80,128c-17.6,0-32,14.4-32,32v256c0,17.6,14.4,32,32,32h352c17.6,0,32-14.4,32-32V160c0-17.6-14.4-32-32-32H80z"/>
-</g>
-<g>
-	<path d="M368,128c-8.8,0-16-7.2-16-16V80c0-8.8-7.2-16-16-16H176c-8.8,0-16,7.2-16,16v32c0,8.8-7.2,16-16,16s-16-7.2-16-16V80
-		c0-26.5,21.5-48,48-48h160c26.5,0,48,21.5,48,48v32C384,120.8,376.8,128,368,128z"/>
-</g>
-<g>
-	<path d="M256,384c-8.8,0-16-7.2-16-16V208c0-8.8,7.2-16,16-16c8.8,0,16,7.2,16,16v160C272,376.8,264.8,384,256,384z"/>
-</g>
-<g>
-	<path d="M336,304H176c-8.8,0-16-7.2-16-16s7.2-16,16-16h160c8.8,0,16,7.2,16,16S344.8,304,336,304z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="medkit-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title2">Medkit</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 80 96 C 44.820756 96 16 124.82076 16 160 L 16 416 C 16 451.17924 44.820756 480 80 480 L 432 480 C 467.17924 480 496 451.17924 496 416 L 496 160 C 496 124.82076 467.17924 96 432 96 L 80 96 z M 80 128 L 432 128 C 450.00476 128 464 141.99524 464 160 L 464 416 C 464 434.00476 450.00476 448 432 448 L 80 448 C 61.995244 448 48 434.00476 48 416 L 48 160 C 48 141.99524 61.995244 128 80 128 z "
+     id="rect4" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 176 32 C 149.67985 32 128 53.679846 128 80 L 128 112 A 16 16 0 0 0 144 128 A 16 16 0 0 0 160 112 L 160 80 C 160 70.97393 166.97393 64 176 64 L 336 64 C 345.02607 64 352 70.97393 352 80 L 352 112 A 16 16 0 0 0 368 128 A 16 16 0 0 0 384 112 L 384 80 C 384 53.679846 362.32015 32 336 32 L 176 32 z M 256 192 A 16 16 0 0 0 240 208 L 240 272 L 176 272 A 16 16 0 0 0 160 288 A 16 16 0 0 0 176 304 L 240 304 L 240 368 A 16 16 0 0 0 256 384 A 16 16 0 0 0 272 368 L 272 304 L 336 304 A 16 16 0 0 0 352 288 A 16 16 0 0 0 336 272 L 272 272 L 272 208 A 16 16 0 0 0 256 192 z "
+     id="path6" />
 </svg>

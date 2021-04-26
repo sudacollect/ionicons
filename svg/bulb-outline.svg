@@ -1,28 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<title>ionicons-v5-h</title>
-<g>
-	<path d="M304,400c-8.8,0-16-7.2-16-16v-24c0-33.6,30.1-62.1,52.1-82.9c1.7-1.6,3.3-3.1,4.9-4.6C370.5,248,384,214.7,384,176
-		c0-34.5-13.2-66.7-37.2-90.7C322.8,61.2,290.5,48,256,48c-0.1,0-0.2,0-0.4,0c-70.2,0-127.4,57-127.6,127.2v0.7
-		c0,37.9,14.2,73,39,96.4c1.4,1.3,2.8,2.6,4.3,4c22.3,20.8,52.8,49.4,52.8,83.6v24c0,8.8-7.2,16-16,16s-16-7.2-16-16v-24
-		c0-20.4-24.6-43.4-42.6-60.3c-1.5-1.4-2.9-2.8-4.4-4.1c-31.2-29.4-49-73-49-119.6v-0.9C96.2,87.3,167.8,16,255.6,16
-		c0.2,0,0.3,0,0.5,0c43,0,83.3,16.6,113.4,46.7C399.5,92.8,416,133,416,176c0,47.6-16.9,89-48.9,119.6c-1.6,1.5-3.3,3.1-5,4.7
-		C344.3,317.1,320,340.1,320,360v24C320,392.8,312.8,400,304,400z"/>
-</g>
-<g>
-	<path d="M288,496h-64c-8.8,0-16-7.2-16-16s7.2-16,16-16h64c8.8,0,16,7.2,16,16S296.8,496,288,496z"/>
-</g>
-<g>
-	<path d="M304,448h-96c-8.8,0-16-7.2-16-16s7.2-16,16-16h96c8.8,0,16,7.2,16,16S312.8,448,304,448z"/>
-</g>
-<g>
-	<path d="M256,400c-8.8,0-16-7.2-16-16V256c0-8.8,7.2-16,16-16c8.8,0,16,7.2,16,16v128C272,392.8,264.8,400,256,400z"/>
-</g>
-<g>
-	<path d="M256,272c-9.5,0-20.5-3.3-32.8-9.9c-8.2-4.4-14.1-8.8-14.8-9.3c-7.1-5.3-8.6-15.3-3.3-22.4c5.3-7.1,15.3-8.6,22.4-3.3
-		c7,5.2,20.9,12.8,28.5,12.8c7.5,0,21.5-7.7,28.5-12.9c7.1-5.2,17.1-3.8,22.4,3.3c5.3,7.1,3.8,17.1-3.3,22.4
-		C299.2,256,276.7,272,256,272z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="bulb-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title2">Bulb</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 256.02148 16.001953 C 167.74022 15.768654 95.767578 87.741929 96.001953 176.02344 C 96.007878 221.88543 113.24979 265.64751 145.01758 295.63477 C 155.43313 305.46684 167.84834 316.71923 177.1875 328.27344 C 186.52666 339.82765 192 351.11109 192 360 L 192 384 A 16 16 0 0 0 208 400 A 16 16 0 0 0 224 384 L 224 360 C 224 339.58891 213.64756 322.47649 202.07422 308.1582 C 190.50088 293.83991 176.91687 281.74316 166.98242 272.36523 C 142.37567 249.13765 128 213.80941 128 176 A 16.0016 16.0016 0 0 0 128 175.95508 C 127.80211 105.01282 185.01282 47.802113 255.95508 48 A 16.0016 16.0016 0 0 0 256 48 C 327.76537 48 384 104.49733 384 176 C 384 215.66318 370.63368 247.87457 344.94336 272.43359 A 16.0016 16.0016 0 0 0 344.94141 272.4375 C 334.98075 281.96487 321.42442 294.11819 309.88086 308.41016 C 298.3373 322.70212 288 339.69954 288 360 L 288 384 A 16 16 0 0 0 304 400 A 16 16 0 0 0 320 384 L 320 360 C 320 351.30046 325.43395 340.08311 334.77539 328.51758 C 344.11683 316.95204 356.55925 305.60513 367.05859 295.5625 C 399.0463 264.98178 416 223.11532 416 176 C 416 87.509916 344.78597 16.013666 256.02148 16.001953 z M 256 240 A 16 16 0 0 0 240 256 L 240 384 A 16 16 0 0 0 256 400 A 16 16 0 0 0 272 384 L 272 256 A 16 16 0 0 0 256 240 z M 208 416 A 16 16 0 0 0 192 432 A 16 16 0 0 0 208 448 L 304 448 A 16 16 0 0 0 320 432 A 16 16 0 0 0 304 416 L 208 416 z M 224 464 A 16 16 0 0 0 208 480 A 16 16 0 0 0 224 496 L 288 496 A 16 16 0 0 0 304 480 A 16 16 0 0 0 288 464 L 224 464 z "
+     id="path4" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 218.14258 224 A 16 16 0 0 0 205.16211 230.45117 A 16 16 0 0 0 208.45117 252.83789 C 208.45117 252.83789 214.71369 257.50791 223.23828 262.0918 C 231.76287 266.67568 242.58015 272 256 272 C 269.41985 272 280.23713 266.67568 288.76172 262.0918 C 297.28631 257.50791 303.54883 252.83789 303.54883 252.83789 A 16 16 0 0 0 306.83789 230.45117 A 16 16 0 0 0 284.45117 227.16211 C 284.45117 227.16211 279.95838 230.49209 273.60547 233.9082 C 267.25256 237.32432 259.07015 240 256 240 C 252.92985 240 244.74744 237.32432 238.39453 233.9082 C 232.04162 230.49209 227.54883 227.16211 227.54883 227.16211 A 16 16 0 0 0 218.14258 224 z "
+     id="path6" />
 </svg>

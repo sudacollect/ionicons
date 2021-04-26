@@ -1,35 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<title>ionicons-v5-k</title>
-<g>
-	<path d="M96,416c-2.4,0-4.8-0.5-7.1-1.7c-7.9-4-11.1-13.6-7.2-21.5l24-48c4-7.9,13.6-11.1,21.5-7.2c7.9,4,11.1,13.6,7.2,21.5
-		l-24,48C107.5,412.8,101.9,416,96,416z"/>
-</g>
-<g>
-	<path d="M120,480c-2.4,0-4.8-0.5-7.1-1.7c-7.9-4-11.1-13.6-7.2-21.5l16-32c4-7.9,13.6-11.1,21.5-7.2c7.9,4,11.1,13.6,7.2,21.5
-		l-16,32C131.5,476.8,125.9,480,120,480z"/>
-</g>
-<g>
-	<path d="M376,416c-2.4,0-4.8-0.5-7.1-1.7c-7.9-4-11.1-13.6-7.2-21.5l24-48c4-7.9,13.6-11.1,21.5-7.2c7.9,4,11.1,13.6,7.2,21.5
-		l-24,48C387.5,412.8,381.9,416,376,416z"/>
-</g>
-<g>
-	<path d="M400,480c-2.4,0-4.8-0.5-7.1-1.7c-7.9-4-11.1-13.6-7.2-21.5l16-32c4-7.9,13.6-11.1,21.5-7.2s11.1,13.6,7.2,21.5l-16,32
-		C411.5,476.8,405.9,480,400,480z"/>
-</g>
-<g>
-	<path d="M240,496c-1.6,0-3.3-0.2-4.9-0.8c-6.6-2.1-11.1-8.3-11.1-15.2v-64h-32c-4.7,0-9.2-2.1-12.2-5.7s-4.3-8.3-3.6-13l16-96
-		c1.5-8.7,9.7-14.6,18.4-13.2c8.7,1.5,14.6,9.7,13.2,18.4L210.9,384H240c8.8,0,16,7.2,16,16v30.1l32.9-46.1H272
-		c-4.9,0-9.6-2.3-12.6-6.2s-4.1-8.9-2.9-13.7l16-64c2.1-8.6,10.8-13.8,19.4-11.6c8.6,2.1,13.8,10.8,11.6,19.4l-11,44.1H320
-		c6,0,11.5,3.3,14.2,8.7s2.3,11.7-1.2,16.6l-80,112C250,493.6,245.1,496,240,496z"/>
-</g>
-<g>
-	<path d="M404.3,320H122.8C63.9,320,16,272.1,16,213.3c0-56.7,44.5-103.2,100.5-106.5C140.6,52.1,195.3,16,255.9,16
-		c0.1,0,0.1,0,0.1,0c37.7,0,74,13.8,102.2,39c24.4,21.8,41,50.5,47.6,81.9c49.9,0.8,90.2,41.6,90.2,91.5
-		C496,278.9,454.9,320,404.3,320z M122.8,138.7c-41.2,0-74.8,33.5-74.8,74.7c0,41.2,33.6,74.7,74.8,74.7h281.5
-		c32.9,0,59.7-26.7,59.7-59.6c0-32.8-26.8-59.5-59.7-59.5h-12.1c-8.2,0-15-6.1-15.9-14.2c-3.2-29.1-17.2-56-39.4-75.8
-		C314.6,59,285.9,48,256,48c0,0-0.1,0-0.1,0c-50.8,0-96.4,32.1-113.4,80c-2.3,6.4-8.3,10.6-15.1,10.6H122.8z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="thunderstorm-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">Thunderstorm</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 256 16 C 195.26775 15.94777 140.62182 52.031464 116.42969 106.99609 C 60.715581 110.34103 16 156.87646 16 213.33008 C 16 271.9396 64.146324 320 122.80078 320 L 189.11133 320 L 176.2168 397.36914 A 16.0016 16.0016 0 0 0 192 416 L 224 416 L 224 480 A 16.0016 16.0016 0 0 0 253.01953 489.30078 L 333.01953 377.30078 A 16.0016 16.0016 0 0 0 320 352 L 292.49219 352 L 300.49219 320 L 404.33008 320 C 454.70338 320 496 278.72579 496 228.43945 C 496 178.67147 455.52188 137.79302 405.8457 136.9668 C 391.41024 67.789689 329.26273 16.007427 256.01562 16 L 256 16 z M 255.98438 48 A 16.0016 16.0016 0 0 0 256 48 C 318.10274 48 369.70095 94.722528 376.29688 154.64062 A 16.0016 16.0016 0 0 0 392.19922 168.89062 L 404.33008 168.89062 C 437.29677 168.89062 464 195.61789 464 228.43945 C 464 261.27311 437.29677 288 404.33008 288 L 287.88281 288 L 207.95117 288 L 122.80078 288 C 81.575239 288 48 254.46056 48 213.33008 C 48 172.21135 81.575239 138.66992 122.80078 138.66992 L 127.36914 138.66992 A 16.0016 16.0016 0 0 0 142.44336 128.0332 C 159.54951 79.955321 204.95399 47.950879 255.98438 48 z M 221.55469 320 L 267.50781 320 L 256.47852 364.11914 A 16.0016 16.0016 0 0 0 272 384 L 288.9082 384 L 256 430.07227 L 256 400 A 16.0016 16.0016 0 0 0 240 384 L 210.88867 384 L 221.55469 320 z M 120.01758 336 A 16 16 0 0 0 105.68945 344.84375 L 81.689453 392.84375 A 16 16 0 0 0 88.84375 414.31055 A 16 16 0 0 0 110.31055 407.15625 L 134.31055 359.15625 A 16 16 0 0 0 127.15625 337.68945 A 16 16 0 0 0 120.01758 336 z M 400.01758 336 A 16 16 0 0 0 385.68945 344.84375 L 361.68945 392.84375 A 16 16 0 0 0 368.84375 414.31055 A 16 16 0 0 0 390.31055 407.15625 L 414.31055 359.15625 A 16 16 0 0 0 407.15625 337.68945 A 16 16 0 0 0 400.01758 336 z M 136.01758 416 A 16 16 0 0 0 121.68945 424.84375 L 105.68945 456.84375 A 16 16 0 0 0 112.84375 478.31055 A 16 16 0 0 0 134.31055 471.15625 L 150.31055 439.15625 A 16 16 0 0 0 143.15625 417.68945 A 16 16 0 0 0 136.01758 416 z M 416.01758 416 A 16 16 0 0 0 401.68945 424.84375 L 385.68945 456.84375 A 16 16 0 0 0 392.84375 478.31055 A 16 16 0 0 0 414.31055 471.15625 L 430.31055 439.15625 A 16 16 0 0 0 423.15625 417.68945 A 16 16 0 0 0 416.01758 416 z "
+     id="path4" />
 </svg>

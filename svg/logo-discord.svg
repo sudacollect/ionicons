@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="logo-discord.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title2">Logo Discord</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;stroke:none;opacity:1"
+     d="M 464,66.52 C 463.73722,39.1401 441.50109,17.064454 414.12,17 L 97.64,16 C 70.273653,16.005418 48.071654,38.153747 48,65.52 V 392 c 0,27.3 22.28,48 49.64,48 H 368 L 355,396 464,496 Z M 324.65,329.81 c 0,0 -8.72,-10.39 -16,-19.32 31.74,-8.94 43.85,-28.49 43.85,-28.49 -8.71753,5.78287 -18.06001,10.56314 -27.85,14.25 -11.30363,4.69336 -23.07262,8.17613 -35.11,10.39 -20.7407,3.8096 -42.00906,3.72822 -62.72,-0.24 -12.18254,-2.26245 -24.1061,-5.74671 -35.59,-10.4 -6.0751,-2.32688 -11.98246,-5.07005 -17.68,-8.21 -0.73,-0.48 -1.45,-0.72 -2.18,-1.21 -0.49,-0.24 -0.73,-0.48 -1,-0.48 -4.36,-2.42 -6.78,-4.11 -6.78,-4.11 0,0 11.62,19.09 42.38,28.26 -7.27,9.18 -16.23,19.81 -16.23,19.81 -53.51,-1.69 -73.85,-36.47 -73.85,-36.47 0,-77.06 34.87,-139.62 34.87,-139.62 34.87,-25.85 67.8,-25.12 67.8,-25.12 l 2.42,2.9 c -43.59,12.32 -63.44,31.4 -63.44,31.4 0,0 5.32,-2.9 14.28,-6.77 25.91,-11.35 46.5,-14.25 55,-15.21 1.35661,-0.28196 2.7351,-0.4459 4.12,-0.49 16.22617,-2.10543 32.64564,-2.26657 48.91,-0.48 25.53751,2.93351 50.27849,10.72341 72.89,22.95 0,0 -19.13,-18.15 -60.3,-30.45 l 3.39,-3.86 c 0,0 33.17,-0.73 67.81,25.16 0,0 34.87,62.56 34.87,139.62 0,-0.28 -20.35,34.5 -73.86,36.19 z"
+     id="path4" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;stroke:none;opacity:1"
+     d="m 212.05,218 c -13.8,0 -24.7,11.84 -24.7,26.57 0,14.73 11.14,26.57 24.7,26.57 13.8,0 24.7,-11.83 24.7,-26.57 C 237,229.81 225.85,218 212.05,218 Z m 88.38,0 c -13.8,0 -24.7,11.84 -24.7,26.57 0,14.73 11.14,26.57 24.7,26.57 13.81,0 24.7,-11.83 24.7,-26.57 C 325.13,229.83 314,218 300.43,218 Z"
+     id="path6" />
+</svg>

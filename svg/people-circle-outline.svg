@@ -1,11 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
-    <title>Artboard</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="people-circle-outline" transform="translate(48.000000, 48.000000)" fill="#000000" fill-rule="nonzero">
-            <path d="M208,0 C322.69,0 416,93.31 416,208 C416,322.69 322.69,416 208,416 C93.31,416 0,322.69 0,208 C0,93.31 93.31,0 208,0 Z M208,32 C111,32 32,111 32,208 C32,234.027102 37.6876814,258.758277 47.8846458,281.015126 C66.8934141,269.373302 92.0863856,262.97 115.82,262.97 C132.81,262.97 146.51,265.02 158.51,268.85 C161.278468,269.761181 163.332338,272.105874 163.871091,274.970209 C164.409844,277.834543 163.34822,280.76523 161.1,282.62 C137.75,301.64 122.7,325.16 115.63,353.37 L115.63,353.37 L115.334987,354.527975 C115.117219,355.403993 114.911051,356.282627 114.716518,357.163646 C122.532932,362.076041 130.761581,366.387837 139.336295,370.037898 C139.864574,366.751383 140.549803,363.69025 141.14,361.34 C148.25,332.91 165.89,309.33 192.14,293.16 C215.44,278.81 245.1,270.91 275.67,270.91 C306.83,270.91 335.69,278.49 359.15,292.82 C359.927173,293.295718 360.665328,293.774044 361.366083,294.254405 C375.772842,268.752902 384,239.318929 384,208 C384,110.95 305.05,32 208,32 Z M115.81,122.95 C132.74,122.95 147.93,129.39 158.88,141.09 C169.83,152.79 175.38,168.91 174.13,186.09 C171.69,219.86 145.53,247.36 115.82,247.36 C86.06,247.36 59.89,219.85 57.49,186.03 C56.26,168.71 61.64,152.7 72.66,140.95 C83.68,129.2 98.88,122.95 115.81,122.95 Z M275.67,96 C295.81,96 314.04,103.62 327,117.46 C339.816,131.146222 346.324537,150.034879 345.046047,170.286839 L345,170.97 C343.72867,190.077827 335.966554,208.177668 323,222.27 C309.86,236.28 293.06,244 275.67,244 C258.27,244 241.46,236.28 228.33,222.27 C215.342796,208.183091 207.577769,190.069402 206.33,170.95 C204.86,150.25 211.21,131.2 224.21,117.33 C237.21,103.46 255.38,96 275.67,96 Z" id="Combined-Shape"></path>
-        </g>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="people-circle-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="776"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="0.3"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="224"
+     inkscape:window-y="1153"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0" />
+  <title
+     id="title2">People Circle</title>
+  <path
+     id="path4"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;stroke:none;opacity:1"
+     d="M 256 48 C 141.31 48 48 141.31 48 256 C 48 370.69 141.31 464 256 464 C 370.69 464 464 370.69 464 256 C 464 141.31 370.69 48 256 48 z M 256 80 C 353.05 80 432 158.95 432 256 C 432 287.3213 423.76177 316.75051 409.35547 342.25586 C 408.65473 341.77551 407.92754 341.29602 407.15039 340.82031 C 383.69039 326.49031 354.82992 318.91016 323.66992 318.91016 C 293.09992 318.91016 263.44062 326.81016 240.14062 341.16016 C 213.89062 357.33016 196.25063 380.90984 189.14062 409.33984 C 188.55115 411.6872 187.87445 414.75898 187.34766 418.03906 C 178.77118 414.38887 170.54609 410.0697 162.72656 405.16016 C 163.0066 403.89223 163.30273 402.6265 163.63086 401.36914 C 170.70086 373.15914 185.74961 349.63914 209.09961 330.61914 C 213.95884 326.6103 212.49345 318.81901 206.50977 316.84961 C 194.50977 313.01961 180.81031 310.9707 163.82031 310.9707 C 140.08738 310.9707 114.89851 317.37686 95.892578 329.01562 C 85.694463 306.75774 80 282.02866 80 256 C 80 159 159 80 256 80 z M 323.66992 144 C 303.37992 144 285.21094 151.46008 272.21094 165.33008 C 259.21094 179.20008 252.86008 198.24922 254.33008 218.94922 C 255.57785 238.06862 263.34288 256.18262 276.33008 270.26953 C 289.46008 284.27953 306.26992 292 323.66992 292 C 341.05992 292 357.86 284.27953 371 270.26953 C 383.96655 256.1772 391.72867 238.07853 393 218.9707 C 394.47 198.4607 387.96 179.30094 375 165.46094 C 362.04 151.62094 343.80992 144 323.66992 144 z M 163.81055 170.94922 C 146.88055 170.94922 131.68016 177.19922 120.66016 188.94922 C 109.64016 200.69922 104.26023 216.7093 105.49023 234.0293 C 107.89023 267.8493 134.06031 295.35938 163.82031 295.35938 C 193.53031 295.35938 219.69086 267.85984 222.13086 234.08984 C 223.38086 216.90984 217.83086 200.78984 206.88086 189.08984 C 195.93086 177.38984 180.74055 170.94922 163.81055 170.94922 z " />
 </svg>

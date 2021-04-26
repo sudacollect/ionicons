@@ -1,20 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<title>ionicons-v5-m</title>
-<g>
-	<path d="M256,448c-6.3,0-12.5-1.9-18-5.6c-78.6-53.3-112.6-89.9-131.4-112.8c-40-48.7-59.2-98.8-58.6-153
-		C48.6,114.5,98.5,64,159.1,64c48.1,0,80,29.5,96.9,51c16.9-21.5,48.8-51,96.9-51c60.6,0,110.4,50.5,111.1,112.6
-		c0.5,54.2-18.6,104.3-58.6,153c-18.8,22.9-52.8,59.5-131.4,112.8C268.5,446.2,262.3,448,256,448z M159.1,96
-		c-43.1,0-78.6,36.3-79.1,81c-1.1,104.6,88.4,179.6,176,239c87.6-59.5,177.1-134.4,176-239c-0.5-44.6-35.9-81-79.1-81
-		c-22.3,0-42.7,9-60.9,26.7c-14.3,14-21.7,28.4-21.8,28.5c-2.7,5.4-8.2,8.8-14.3,8.8c-6.1,0-11.6-3.4-14.3-8.9
-		c0-0.1-7.4-14.5-21.8-28.5C201.8,105,181.3,96,159.1,96z"/>
-</g>
-<g>
-	<path d="M256,336c-0.5,0-0.9,0-1.4-0.1c-6.5-0.6-12.1-5.1-13.9-11.3l-36.4-121.4l-30,59.9c-2.7,5.4-8.3,8.8-14.3,8.8H48
-		c-8.8,0-16-7.2-16-16c0-8.8,7.2-16,16-16h102.1l43.6-87.2c2.9-5.9,9.2-9.3,15.7-8.8c6.5,0.6,12.1,5.1,13.9,11.3l36.4,121.4l30-59.9
-		c2.7-5.4,8.2-8.8,14.3-8.8s11.6,3.4,14.3,8.8l27.6,55.2H464c8.8,0,16,7.2,16,16s-7.2,16-16,16H336c-6.1,0-11.6-3.4-14.3-8.8
-		L304,259.8l-33.7,67.4C267.6,332.6,262,336,256,336z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="fitness-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title2">Fitness</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 159.08008 64 C 97.396146 64 48.625796 115.60822 48 176.64648 A 16.0016 16.0016 0 0 0 48 176.64844 C 47.406515 235.63546 71.126943 286.40014 106.61523 329.66406 C 142.09983 372.92349 189.30116 409.40537 238 442.45898 C 238.00317 442.46114 238.00659 442.46269 238.00977 442.46484 C 238.01171 442.46616 238.01368 442.46743 238.01562 442.46875 C 248.83536 449.82055 263.18361 449.81776 274 442.45898 C 322.69412 409.40522 369.89228 372.92358 405.37695 329.66406 C 440.865 286.40043 464.58809 235.63708 464 176.65039 A 16.0016 16.0016 0 0 0 464 176.64648 C 463.3742 115.60822 414.60385 64 352.91992 64 C 304.67574 64 272.82314 93.674999 256 115.1543 C 239.17686 93.674999 207.32426 64 159.08008 64 z M 159.08008 96 C 213.48457 96 241.68945 151.15625 241.68945 151.15625 A 16.0016 16.0016 0 0 0 270.31055 151.15625 C 270.31055 151.15625 298.51543 96 352.91992 96 C 396.75534 96 431.54479 132.67181 432 176.97266 C 432.50084 227.31424 412.85337 270.0913 380.63477 309.36914 C 348.41531 348.64801 303.57464 383.70844 256.01367 415.99219 A 16.0016 16.0016 0 0 0 256 416.00195 A 16.0016 16.0016 0 0 0 255.98438 415.99219 C 208.4186 383.70853 163.57663 348.64771 131.35742 309.36914 C 99.139061 270.0916 79.494559 227.31586 80 176.97461 L 80 176.97266 C 80.455215 132.67181 115.24466 96 159.08008 96 z "
+     id="path4" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 207.94727 144.00195 A 16.0016 16.0016 0 0 0 193.68945 152.84375 L 150.11133 240 L 48 240 A 16 16 0 0 0 32 256 A 16 16 0 0 0 48 272 L 160 272 A 16.0016 16.0016 0 0 0 174.31055 263.15625 L 204.26758 203.24219 L 240.67383 324.59766 A 16.0016 16.0016 0 0 0 270.31055 327.15625 L 304 259.77734 L 321.68945 295.15625 A 16.0016 16.0016 0 0 0 336 304 L 464 304 A 16 16 0 0 0 480 288 A 16 16 0 0 0 464 272 L 345.88867 272 L 318.31055 216.84375 A 16.0016 16.0016 0 0 0 289.68945 216.84375 L 259.73242 276.75781 L 223.32617 155.40234 A 16.0016 16.0016 0 0 0 207.94727 144.00195 z "
+     id="path6" />
 </svg>

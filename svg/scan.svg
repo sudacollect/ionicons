@@ -1,22 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<title>ionicons-v5-k</title>
-<g>
-	<path d="M388,466h-46c-12.2,0-22-9.8-22-22s9.8-22,22-22h46c18.7,0,34-15.3,34-34v-46c0-12.2,9.8-22,22-22s22,9.8,22,22v46
-		C466,431,431,466,388,466z"/>
-</g>
-<g>
-	<path d="M444,192c-12.2,0-22-9.8-22-22v-46c0-18.7-15.3-34-34-34h-46c-12.2,0-22-9.8-22-22s9.8-22,22-22h46c43,0,78,35,78,78v46
-		C466,182.2,456.2,192,444,192z"/>
-</g>
-<g>
-	<path d="M170,466h-46c-43,0-78-35-78-78v-46c0-12.2,9.8-22,22-22s22,9.8,22,22v46c0,18.7,15.3,34,34,34h46c12.2,0,22,9.8,22,22
-		S182.2,466,170,466z"/>
-</g>
-<g>
-	<path d="M68,192c-12.2,0-22-9.8-22-22v-46c0-43,35-78,78-78h46c12.2,0,22,9.8,22,22s-9.8,22-22,22h-46c-18.7,0-34,15.3-34,34v46
-		C90,182.2,80.2,192,68,192z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="scan.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">Scan</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 124 46 C 81.182371 46 46 81.182371 46 124 L 46 170 A 22 22 0 0 0 68 192 A 22 22 0 0 0 90 170 L 90 124 C 90 104.96174 104.96174 90 124 90 L 170 90 A 22 22 0 0 0 192 68 A 22 22 0 0 0 170 46 L 124 46 z M 342 46 A 22 22 0 0 0 320 68 A 22 22 0 0 0 342 90 L 388 90 C 407.03826 90 422 104.96174 422 124 L 422 170 A 22 22 0 0 0 444 192 A 22 22 0 0 0 466 170 L 466 124 C 466 81.182371 430.81763 46 388 46 L 342 46 z M 68 320 A 22 22 0 0 0 46 342 L 46 388 C 46 430.81763 81.182371 466 124 466 L 170 466 A 22 22 0 0 0 192 444 A 22 22 0 0 0 170 422 L 124 422 C 104.96174 422 90 407.03826 90 388 L 90 342 A 22 22 0 0 0 68 320 z M 444 320 A 22 22 0 0 0 422 342 L 422 388 C 422 407.03826 407.03826 422 388 422 L 342 422 A 22 22 0 0 0 320 444 A 22 22 0 0 0 342 466 L 388 466 C 430.81763 466 466 430.81763 466 388 L 466 342 A 22 22 0 0 0 444 320 z "
+     id="path4" />
 </svg>

@@ -1,11 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
-    <title>Artboard</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="arrow-undo-outline" transform="translate(64.000000, 88.000000)" fill="#000000" fill-rule="nonzero">
-            <path d="M164.952388,-11.5736887 L-11.0476119,156.426311 C-17.650796,162.729351 -17.650796,173.270649 -11.0476119,179.573689 L164.952388,347.573689 L165.259824,347.860188 C175.469822,357.147661 192,349.935038 192,336 L192,256.23 L193.303706,256.27077 C238.448503,257.733287 271.503579,265.136587 298.073272,278.872924 C324.09214,292.32449 344.732906,311.716635 371.390136,345.848417 C380.757397,357.842212 400,351.218301 400,336 C400,265.352175 386.705728,206.465938 356.353758,162.235699 L355.245651,160.638408 C321.051854,111.882714 267.365877,84.1055157 193.268448,80.4211807 L192,80.362 L192,-3.55271368e-15 C192,-14.0757957 175.134193,-21.2926843 164.952388,-11.5736887 Z M23.172,168 L160,37.391 L160,96 C160,104.836556 167.163444,112 176,112 C249.775572,112 299.490502,135.927555 329.968742,180.341801 L330.747381,181.487104 C349.849129,209.847569 361.208456,246.316845 365.72739,289.703895 L365.797,290.389 L365.767882,290.359414 C348.819504,273.067708 332.202517,260.493945 312.769228,250.447076 C277.85961,232.399058 234.90801,224 176,224 L175.685129,224.003036 C166.993901,224.170795 160,231.268641 160,240 L160,298.608 L23.172,168 Z" id="Path"></path>
-        </g>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="arrow-undo-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">Arrow Undo</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 239.90234 72.001953 A 16.0016 16.0016 0 0 0 228.95312 76.425781 L 52.953125 244.42578 A 16.0016 16.0016 0 0 0 52.953125 267.57422 L 228.95312 435.57422 A 16.0016 16.0016 0 0 0 256 424 L 256 344.29883 C 303.68734 345.73019 336.39804 353.59865 362.07422 366.87305 C 390.54984 381.59474 411.63021 403.42495 435.39062 433.84766 A 16.0016 16.0016 0 0 0 464 424 C 464 362.61498 454.14593 299.48014 420.35352 250.23633 C 388.65194 204.03939 335.1825 172.1488 256 168.37891 L 256 88 A 16.0016 16.0016 0 0 0 239.90234 72.001953 z M 224 125.39258 L 224 184 A 16.0016 16.0016 0 0 0 240 200 C 320.39082 200 365.86867 227.3931 393.96875 268.3418 C 414.59989 298.40641 425.37432 337.0781 429.67773 378.39062 C 414.04505 362.51092 397.10634 348.96125 376.76953 338.44727 C 342.49766 320.72896 299.74685 312 240 312 A 16.0016 16.0016 0 0 0 224 328 L 224 386.60742 L 87.171875 256 L 224 125.39258 z "
+     id="path4" />
 </svg>

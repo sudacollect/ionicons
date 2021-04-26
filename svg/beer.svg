@@ -1,1 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><title>ionicons-v5-g</title><path d="M392,208H368v-5.74A63.93,63.93,0,0,0,321.65,96a111,111,0,0,0-27.59-47.29A108.62,108.62,0,0,0,216,16c-29.91,0-57.78,12.28-79,34.68a56,56,0,0,0-67.51,77.54A63.91,63.91,0,0,0,80,231.39V440a56.06,56.06,0,0,0,56,56H312a56.06,56.06,0,0,0,56-56v-8h24a72.08,72.08,0,0,0,72-72V280A72.08,72.08,0,0,0,392,208ZM176,416a16,16,0,0,1-32,0V256a16,16,0,0,1,32,0Zm64,0a16,16,0,0,1-32,0V256a16,16,0,0,1,32,0Zm64,0a16,16,0,0,1-32,0V256a16,16,0,0,1,32,0Zm16-224c-8.33,0-20.55-5.18-26.69-11.31A16,16,0,0,0,282,176H160a16,16,0,0,0-15,10.53C138.17,205.21,121.4,208,112,208a32,32,0,0,1,0-64c.09,0,9.12.34,16.4,5.8a16,16,0,1,0,19.2-25.6A63.69,63.69,0,0,0,112,112a63.55,63.55,0,0,0-14,1.57A24,24,0,0,1,120,80a23.78,23.78,0,0,1,19.38,9.84,51.35,51.35,0,0,1,4.71,7.9A16,16,0,0,0,176,96c0-6.77-3.61-15.17-10.76-25-.46-.63-1-1.25-1.45-1.86C178.39,55.44,196.64,48,216,48a76.86,76.86,0,0,1,55.23,23.18A80.2,80.2,0,0,1,292.61,142a16,16,0,0,0,12.73,18.71,16.29,16.29,0,0,0,3,.28,16,16,0,0,0,15.7-13A111.78,111.78,0,0,0,326,128.57,32,32,0,0,1,320,192ZM432,360a40,40,0,0,1-40,40H368V240h24a40,40,0,0,1,40,40Z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="beer.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">Beer</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;stroke:none;opacity:1"
+     d="m 392,208 h -24 v -5.74 c 16.47172,-18.62784 20.64777,-45.1167 10.70603,-67.90871 C 368.76428,111.55928 346.50869,96.599759 321.65,96 316.54615,78.180264 307.06096,61.922394 294.06,48.71 273.53292,27.700827 245.37238,15.900529 216,16 186.09,16 158.22,28.28 137,50.68 115.71412,43.897844 92.433558,50.415983 77.763987,67.265022 63.094415,84.11406 59.842625,108.0702 69.49,128.22 36.858803,157.18197 42.198971,209.60301 80,231.39 V 440 c 0.03307,30.91424 25.08576,55.96693 56,56 h 176 c 30.91424,-0.0331 55.96693,-25.08576 56,-56 v -8 h 24 c 39.74623,-0.0441 71.95591,-32.25377 72,-72 v -80 c -0.0441,-39.74623 -32.25377,-71.95591 -72,-72 z M 176,416 c 0,8.83656 -7.16344,15.99999 -16,15.99999 -8.83656,0 -16,-7.16343 -16,-15.99999 V 256 c 0,-8.83656 7.16344,-15.99999 16,-15.99999 8.83656,0 16,7.16343 16,15.99999 z m 64,0 c 0,8.83656 -7.16344,15.99999 -16,15.99999 -8.83656,0 -16,-7.16343 -16,-15.99999 V 256 c 0,-8.83656 7.16344,-15.99999 16,-15.99999 8.83656,0 16,7.16343 16,15.99999 z m 64,0 c 0,8.83656 -7.16344,15.99999 -16,15.99999 -8.83656,0 -16,-7.16343 -16,-15.99999 V 256 c 0,-8.83656 7.16344,-15.99999 16,-15.99999 8.83656,0 16,7.16343 16,15.99999 z m 16,-224 c -8.33,0 -20.55,-5.18 -26.69,-11.31 -2.99907,-3.00103 -7.06729,-4.68803 -11.31,-4.69 H 160 c -6.71411,0.0151 -12.70463,4.22042 -15,10.53 -6.83,18.68 -23.6,21.47 -33,21.47 -17.673124,0 -31.999986,-14.32689 -31.999986,-32 0,-17.67311 14.326862,-32 31.999986,-32 0.09,0 9.12,0.34 16.4,5.8 7.06925,5.30194 17.09806,3.86924 22.39999,-3.2 5.30194,-7.06925 3.86926,-17.09806 -3.19999,-22.4 -10.36692,-7.55969 -22.77537,-11.81202 -35.6,-12.2 -4.71043,0.003 -9.40594,0.52943 -14,1.57 -6.890499,-15.847016 4.71976,-33.563209 22,-33.57 7.66874,-0.03682 14.88457,3.626944 19.38,9.84 1.80315,2.487144 3.37947,5.131081 4.71,7.9 0.90164,8.46796 8.27804,14.74588 16.78123,14.28221 C 169.37441,111.55855 176.02446,104.51579 176,96 c 0,-6.77 -3.61,-15.17 -10.76,-25 -0.46,-0.63 -1,-1.25 -1.45,-1.86 C 178.39,55.44 196.64,48 216,48 c 20.7871,-0.05987 40.71205,8.302623 55.23,23.18 18.2387,18.713811 26.21655,45.13995 21.38,70.82 -1.6524,8.68214 4.04748,17.05958 12.73,18.71 0.9892,0.18581 1.9935,0.27955 3,0.28 7.67363,-0.008 14.2612,-5.46246 15.7,-13 1.21834,-6.4038 1.87417,-12.9019 1.96,-19.42 16.20685,3.10054 27.3988,18.01608 25.84489,34.44351 C 350.29097,179.44094 336.50076,191.99335 320,192 Z m 112,168 c 0,22.09139 -17.90861,40 -40,40 H 368 V 240 h 24 c 22.09139,0 40,17.90861 40,40 z"
+     id="path4" />
+</svg>

@@ -1,1 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><title>ionicons-v5_logos</title><path d="M48.48,378.73a300.52,300.52,0,0,0,152.89,95.92,262.57,262.57,0,0,0,159.3-17.25,225.52,225.52,0,0,0,66.79-47,6.36,6.36,0,0,0-2-8.53,11.76,11.76,0,0,0-8-.05,401.92,401.92,0,0,1-116.55,39.34,358.13,358.13,0,0,1-127.29-8.83,446.73,446.73,0,0,1-119.1-60.49,5,5,0,0,0-6.06,6.9Z"/><path d="M387.15,388.44a168.11,168.11,0,0,1,48.94-2.23l.67.13a10,10,0,0,1,7.37,12.05A204.71,204.71,0,0,1,429,444.47a2.55,2.55,0,0,0,1.66,3.18,2.51,2.51,0,0,0,2.23-.37A83.31,83.31,0,0,0,464,382.86a12.44,12.44,0,0,0-10.22-13.22A95.75,95.75,0,0,0,384.91,384a2.55,2.55,0,0,0-.57,3.55A2.52,2.52,0,0,0,387.15,388.44Z"/><path d="M304.24,324.92a164,164,0,0,1-28.92,25.3A135.16,135.16,0,0,1,208.63,369a99.49,99.49,0,0,1-57.49-19.85,97.25,97.25,0,0,1-27.36-100.28,112.35,112.35,0,0,1,65.3-69.06,367.67,367.67,0,0,1,104.7-15.55V127A37.82,37.82,0,0,0,261,94.72a59.9,59.9,0,0,0-31.17,4.08,48.89,48.89,0,0,0-27.13,34.67,12,12,0,0,1-12.58,6.72l-50.9-4.5a11.38,11.38,0,0,1-8.38-10.16,103.66,103.66,0,0,1,36.61-63.45A143.86,143.86,0,0,1,257.85,32a146.24,146.24,0,0,1,84.27,27.67,86.82,86.82,0,0,1,30.7,70.22V258.8a84.46,84.46,0,0,0,8,31.28l15.87,23.23a13,13,0,0,1,0,11.23L349.7,364.25a12.5,12.5,0,0,1-12.68-.44A244.84,244.84,0,0,1,304.24,324.92Zm-10.6-116.83a257.68,257.68,0,0,0-44,2.89A63,63,0,0,0,208,242.54a63,63,0,0,0,3.07,54,40.6,40.6,0,0,0,47.11,12.19,78.61,78.61,0,0,0,35.46-55.58V208.09"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="logo-amazon.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title2">Logo Amazon</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;stroke:none;opacity:1"
+     d="m 48.48,378.73 c 39.931322,46.88352 93.30233,80.36738 152.89,95.92 53.6003,10.98811 109.2943,4.95722 159.3,-17.25 24.93819,-11.47131 47.5726,-27.39909 66.79,-47 1.71033,-2.92239 0.83107,-6.67242 -2,-8.53 -2.57888,-0.95107 -5.40943,-0.96877 -8,-0.05 -36.60125,19.01602 -75.91155,32.28472 -116.55,39.34 -42.61648,4.69989 -85.73063,1.7091 -127.29,-8.83 -42.50728,-14.0803 -82.65602,-34.47154 -119.1,-60.49 -4.172062,-1.35359 -7.940823,2.93758 -6.06,6.9 z"
+     id="path4" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;stroke:none;opacity:1"
+     d="m 387.15,388.44 c 16.11692,-3.12912 32.6053,-3.88043 48.94,-2.23 l 0.67,0.13 c 5.35846,1.29814 8.65526,6.68843 7.37,12.05 -3.19952,15.90528 -8.27849,31.37382 -15.13,46.08 -0.41179,1.33581 0.3286,2.75416 1.66,3.18 0.75995,0.23731 1.58741,0.10002 2.23,-0.37 19.53106,-15.70143 30.95665,-39.36059 31.11,-64.42 0.50041,-6.37931 -3.92029,-12.09767 -10.22,-13.22 -23.94715,-4.12586 -48.56721,1.00764 -68.87,14.36 -1.13385,0.82528 -1.3885,2.41125 -0.57,3.55 0.64741,0.87065 1.77941,1.22918 2.81,0.89 z m -82.91,-63.52 c -8.61533,9.53741 -18.32194,18.02901 -28.92,25.3 -20.22071,11.94806 -43.20588,18.42072 -66.69,18.78 -20.76556,-0.45336 -40.86852,-7.39446 -57.49,-19.85 -27.71748,-25.33993 -38.36752,-64.37449 -27.36,-100.28 10.47832,-31.54673 34.38865,-56.83382 65.3,-69.06 33.9673,-10.20617 69.23266,-15.44377 104.7,-15.55 V 127 C 291.40644,110.0672 277.96728,96.833027 261,94.72 c -10.56794,-1.439242 -21.32852,-0.03073 -31.17,4.08 -14.02921,6.60099 -24.09575,19.46522 -27.13,34.67 -2.26287,4.75928 -7.36601,7.48528 -12.58,6.72 l -50.9,-4.5 c -4.66834,-1.26211 -8.02916,-5.3368 -8.38,-10.16 4.07444,-24.90075 17.09118,-47.460494 36.61,-63.45 25.84215,-20.003348 57.72481,-30.612092 90.4,-30.08 30.27714,0.277045 59.72182,9.945188 84.27,27.67 20.56937,17.379081 31.91021,43.31895 30.7,70.22 V 258.8 c 0.63039,10.8441 3.34668,21.46478 8,31.28 l 15.87,23.23 c 1.70022,3.55027 1.70022,7.67973 0,11.23 l -46.99,39.71 c -3.99252,2.1687 -8.84741,2.00024 -12.68,-0.44 -12.24717,-11.79017 -23.23309,-24.82381 -32.78,-38.89 z m -10.6,-116.83 c -14.7223,-0.29564 -29.44285,0.67123 -44,2.89 -17.79372,3.99718 -32.98223,15.50893 -41.64,31.56 -7.14855,17.54591 -6.0211,37.37734 3.07,54 11.25891,14.06641 30.44143,19.03 47.11,12.19 19.39323,-12.43558 32.35531,-32.75235 35.46,-55.58 v -45.06"
+     id="path6" />
+</svg>

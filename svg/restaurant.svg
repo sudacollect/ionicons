@@ -1,1 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><title>ionicons-v5-p</title><path d="M357.57,223.94a79.48,79.48,0,0,0,56.58-23.44l77-76.95c6.09-6.09,6.65-16,.85-22.39a16,16,0,0,0-23.17-.56L400.2,169.18a12.29,12.29,0,0,1-17.37,0c-4.79-4.78-4.53-12.86.25-17.64l68.33-68.33a16,16,0,0,0-.56-23.16A15.62,15.62,0,0,0,440.27,56a16.71,16.71,0,0,0-11.81,4.9l-68.27,68.26a12.29,12.29,0,0,1-17.37,0c-4.78-4.78-4.53-12.86.25-17.64L411.4,43.21a16,16,0,0,0-.56-23.16A15.62,15.62,0,0,0,400.26,16a16.73,16.73,0,0,0-11.81,4.9L311.5,97.85a79.49,79.49,0,0,0-23.44,56.59v8.23A16,16,0,0,1,283.37,174l-35.61,35.62a4,4,0,0,1-5.66,0L68.82,36.33a16,16,0,0,0-22.58-.06C31.09,51.28,23,72.47,23,97.54c-.1,41.4,21.66,89,56.79,124.08l85.45,85.45A64.79,64.79,0,0,0,211,326a64,64,0,0,0,16.21-2.08,16.24,16.24,0,0,1,4.07-.53,15.93,15.93,0,0,1,10.83,4.25l11.39,10.52a16.12,16.12,0,0,1,4.6,11.23v5.54a47.73,47.73,0,0,0,13.77,33.65l90.05,91.57.09.1a53.29,53.29,0,0,0,75.36-75.37L302.39,269.9a4,4,0,0,1,0-5.66L338,228.63a16,16,0,0,1,11.32-4.69Z"/><path d="M211,358a97.32,97.32,0,0,1-68.36-28.25l-13.86-13.86a8,8,0,0,0-11.3,0l-85,84.56c-15.15,15.15-20.56,37.45-13.06,59.29a30.63,30.63,0,0,0,1.49,3.6C31,484,50.58,496,72,496a55.68,55.68,0,0,0,39.64-16.44L225,365.66a4.69,4.69,0,0,0,1.32-3.72l0-.26a4.63,4.63,0,0,0-5.15-4.27A97.09,97.09,0,0,1,211,358Z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="restaurant.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title2">Restaurant</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;stroke:none;opacity:1"
+     d="m 357.57,223.94 c 21.23393,0.0584 41.60834,-8.38236 56.58,-23.44 l 77,-76.95 c 6.09,-6.09 6.65,-16 0.85,-22.39 -6.14395,-6.774166 -16.70597,-7.029441 -23.17,-0.56 l -68.63,68.58 c -4.79832,4.79242 -12.57168,4.79242 -17.37,0 -4.79,-4.78 -4.53,-12.86 0.25,-17.64 l 68.33,-68.33 c 6.4624,-6.462986 6.20721,-17.016901 -0.56,-23.16 -2.89561,-2.626383 -6.67079,-4.071512 -10.58,-4.05 -4.4306,0.0031 -8.67862,1.765566 -11.81,4.9 l -68.27,68.26 c -4.79832,4.79242 -12.57168,4.79242 -17.37,0 -4.78,-4.78 -4.53,-12.86 0.25,-17.64 L 411.4,43.21 c 6.4624,-6.462986 6.20721,-17.016901 -0.56,-23.16 -2.89561,-2.626383 -6.67079,-4.071512 -10.58,-4.05 -4.43016,0.0052 -8.67738,1.767425 -11.81,4.9 L 311.5,97.85 c -15.05917,14.97473 -23.49992,35.35283 -23.44,56.59 v 8.23 c 0.003,4.24964 -1.68406,8.32604 -4.69,11.33 l -35.61,35.62 c -1.56246,1.5642 -4.09754,1.5642 -5.66,0 L 68.82,36.33 C 62.593606,30.096537 52.499433,30.069714 46.24,36.27 31.09,51.28 23,72.47 23,97.54 c -0.1,41.4 21.66,89 56.79,124.08 l 85.45,85.45 c 12.14499,12.12032 28.60182,18.92819 45.76,18.93 5.47002,0.002 10.91776,-0.69679 16.21,-2.08 1.32879,-0.34808 2.69638,-0.52617 4.07,-0.53 4.01671,6.2e-4 7.88492,1.51862 10.83,4.25 l 11.39,10.52 c 2.93763,3.00121 4.58805,7.03038 4.6,11.23 v 5.54 c -0.0292,12.59408 4.92029,24.6893 13.77,33.65 l 90.05,91.57 0.09,0.1 c 20.81286,20.8101 54.55489,20.80783 75.36498,-0.005 C 458.18507,459.43213 458.18286,425.6901 437.37,404.88 L 302.39,269.9 c -1.5642,-1.56246 -1.5642,-4.09754 0,-5.66 L 338,228.63 c 3.00152,-3.00348 7.07382,-4.69069 11.32,-4.69 z"
+     id="path4" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;stroke:none;opacity:1"
+     d="m 211,358 c -25.6166,-0.0528 -50.17939,-10.20344 -68.36,-28.25 l -13.86,-13.86 c -3.12262,-3.11507 -8.17738,-3.11507 -11.3,0 l -85,84.56 c -15.15,15.15 -20.56,37.45 -13.06,59.29 0.419765,1.2304 0.917439,2.43284 1.49,3.6 C 31,484 50.58,496 72,496 c 14.879185,0.0366 29.15404,-5.88367 39.64,-16.44 L 225,365.66 c 0.96579,-0.98545 1.44864,-2.3462 1.32,-3.72 v -0.26 c -0.18758,-2.63014 -2.53062,-4.57282 -5.15,-4.27 -3.37734,0.3745 -6.77201,0.57144 -10.17,0.59 z"
+     id="path6" />
+</svg>

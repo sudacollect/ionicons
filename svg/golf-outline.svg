@@ -1,15 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<title>ionicons-v5-l</title>
-<g>
-	<path d="M256,416c-8.8,0-16-7.2-16-16V192.4c0-0.2,0-0.5,0-0.7V32c0-5.4,2.8-10.5,7.3-13.5c4.6-2.9,10.3-3.4,15.3-1.1l176,80
-		c5.7,2.6,9.4,8.3,9.4,14.6s-3.7,12-9.4,14.6L272,202.3V400C272,408.8,264.8,416,256,416z M272,56.8v110.3L393.3,112L272,56.8z"/>
-</g>
-<g>
-	<path d="M432,496H80c-10,0-18.9-4-24.9-11.4c-6.1-7.4-8.4-17.2-6.4-27c8.6-42.7,35.1-78.5,76.8-103.5c36.6-22,83-34.1,130.5-34.1
-		s93.9,12.1,130.5,34.1c41.7,25,68.2,60.8,76.8,103.5c2,9.8-0.4,19.6-6.4,27C450.9,492,442,496,432,496z M80,464h352
-		c0,0,0-0.1,0-0.1C416.5,387,329.9,352,256,352c-73.9,0-160.5,35-176,111.9C80,463.9,80,464,80,464z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="golf-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title2">Golf</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 255.76172 16.001953 A 16.0016 16.0016 0 0 0 240 32 L 240 191.85742 L 240 400 A 16 16 0 0 0 256 416 A 16 16 0 0 0 272 400 L 272 202.30273 L 438.62109 126.56641 A 16.0016 16.0016 0 0 0 438.62109 97.433594 L 262.62109 17.433594 A 16.0016 16.0016 0 0 0 255.76172 16.001953 z M 272 56.849609 L 393.33203 112 L 272 167.15039 L 272 56.849609 z "
+     id="path4" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 256 320 C 209.85172 320 163.42137 331.2934 125.45117 354.07227 C 87.480972 376.85113 57.825906 411.91518 48.671875 457.5957 C 46.859751 466.63793 48.715715 476.24202 54.419922 483.74219 C 60.124128 491.24236 69.884883 496 80 496 L 432 496 C 442.11627 496 451.8787 491.24485 457.58594 483.74414 C 463.29317 476.24343 465.15001 466.63793 463.33789 457.5957 L 463.33789 457.59375 C 454.17839 411.91391 424.52008 376.85095 386.54883 354.07227 C 348.57758 331.29359 302.14828 320 256 320 z M 256 352 C 296.85172 352 338.07164 362.30735 370.08789 381.51367 C 402.10414 400.71999 424.77239 428.02461 431.96289 463.88477 C 431.97667 463.95352 431.96252 463.94261 431.9707 464 L 80.041016 464 C 80.049194 463.94257 80.035049 463.95352 80.048828 463.88477 L 80.048828 463.88281 C 87.234797 428.02333 109.89926 400.71981 141.91406 381.51367 C 173.92886 362.30754 215.14828 352 256 352 z "
+     id="path6" />
 </svg>

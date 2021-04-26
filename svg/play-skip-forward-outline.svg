@@ -1,15 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<title>ionicons-v5-c</title>
-<g>
-	<path d="M132.9,440c-6,0-12-1.6-17.5-4.7c-12-6.8-19.4-20-19.4-34.3V111c0-14.4,7.4-27.5,19.4-34.3c11.3-6.4,24.6-6.2,35.8,0.4
-		l247.9,148.4c10.6,6.3,16.9,17.7,16.9,30.5c0,12.8-6.3,24.2-16.9,30.5L151.2,434.9C145.5,438.3,139.2,440,132.9,440z M133,104
-		c-0.5,0-1.1,0.1-1.7,0.5c-1.6,0.9-3.2,3.1-3.2,6.5v290c0,3.4,1.7,5.6,3.2,6.5c1.6,0.9,2.7,0.4,3.6-0.1l247.9-148.4
-		c1-0.6,1.3-2,1.3-3.1s-0.3-2.5-1.3-3.1L134.8,104.6C134.3,104.3,133.7,104,133,104z"/>
-</g>
-<g>
-	<path d="M400,448c-8.8,0-16-7.2-16-16V80c0-8.8,7.2-16,16-16s16,7.2,16,16v352C416,440.8,408.8,448,400,448z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="play-skip-forward-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title2">Play Skip Forward</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 131.78125 72.175781 C 125.19688 72.403707 118.80526 74.39708 113.52148 77.835938 C 102.95393 84.713652 96 97.081223 96 111 L 96 401 C 96 414.91878 102.95393 427.28635 113.52148 434.16406 C 124.08904 441.04178 139.08416 442.13324 151.20312 434.89648 L 151.20898 434.89258 L 399.11328 286.52148 L 399.11719 286.51953 C 421.84515 272.92025 421.84515 239.07975 399.11719 225.48047 L 399.11328 225.47852 L 151.20898 77.107422 L 151.20312 77.103516 C 145.14364 73.48514 138.36562 71.947856 131.78125 72.175781 z M 132.71875 103.8457 C 133.25938 103.80238 133.85636 104.0165 134.79688 104.57812 L 134.7832 104.56836 L 382.68555 252.93945 L 382.68555 252.94141 C 384.19253 253.84286 384.19253 258.15714 382.68555 259.05859 L 382.68555 259.06055 L 134.7832 407.43164 L 134.79688 407.42188 C 132.91584 408.54512 132.41096 408.27799 130.97852 407.3457 C 129.54607 406.41342 128 404.52122 128 401 L 128 111 C 128 107.47878 129.54607 105.58658 130.97852 104.6543 C 131.69474 104.18815 132.17812 103.88903 132.71875 103.8457 z "
+     id="path4" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 400 64 A 16 16 0 0 0 384 80 L 384 432 A 16 16 0 0 0 400 448 A 16 16 0 0 0 416 432 L 416 80 A 16 16 0 0 0 400 64 z "
+     id="path6" />
 </svg>

@@ -1,1 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><title>ionicons-v5-d</title><path d="M416,160a64,64,0,1,0-96.27,55.24c-2.29,29.08-20.08,37-75,48.42-17.76,3.68-35.93,7.45-52.71,13.93V151.39a64,64,0,1,0-64,0V360.61a64,64,0,1,0,64.42.24c2.39-18,16-24.33,65.26-34.52,27.43-5.67,55.78-11.54,79.78-26.95,29-18.58,44.53-46.78,46.36-83.89A64,64,0,0,0,416,160ZM160,64a32,32,0,1,1-32,32A32,32,0,0,1,160,64Zm0,384a32,32,0,1,1,32-32A32,32,0,0,1,160,448ZM352,192a32,32,0,1,1,32-32A32,32,0,0,1,352,192Z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="git-branch.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">Git Branch</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;stroke:none;opacity:1"
+     d="m 416,160 c 0.0103,-22.83968 -12.15177,-43.95396 -31.91363,-55.40444 -19.76185,-11.450466 -44.12807,-11.501495 -63.93816,-0.13441 -19.81008,11.36708 -32.06142,32.42937 -32.14767,55.26873 -0.0863,22.83938 12.00566,43.99392 31.72946,55.51012 -2.29,29.08 -20.08,37 -75,48.42 -17.76,3.68 -35.93,7.45 -52.71,13.93 V 151.39 C 217.1059,136.90665 229.33649,107.37923 221.83905,79.401896 214.34167,51.42477 188.98623,31.97539 160.02,31.97539 c -28.96623,0 -54.32167,19.44938 -61.819051,47.426506 C 90.703512,107.37923 102.9341,136.90665 128.02,151.39 v 209.22 c -25.04576,14.46256 -37.279943,43.9255 -29.845243,71.87288 7.434643,27.94717 32.689933,47.43143 61.610813,47.53918 28.92088,0.10775 54.32064,-19.1878 61.96332,-47.0788 7.64273,-27.89121 -4.37159,-57.44448 -29.30889,-72.09326 2.39,-18 16,-24.33 65.26,-34.52 27.43,-5.67 55.78,-11.54 79.78,-26.95 29,-18.58 44.53,-46.78 46.36,-83.89 C 403.7232,204.08677 415.99008,182.92106 416,160 Z M 160,64 c 12.94278,0 24.61122,7.796593 29.56392,19.753946 4.9527,11.957329 2.21423,25.720434 -6.93765,34.872324 -9.15189,9.15188 -22.915,11.89035 -34.87232,6.93765 C 135.79659,120.61122 128,108.94278 128,96 128,78.326888 142.32689,64 160,64 Z m 0,384 c -12.94278,0 -24.61122,-7.79659 -29.56392,-19.75395 -4.9527,-11.95732 -2.21423,-25.72043 6.93765,-34.87232 9.15189,-9.15188 22.915,-11.89035 34.87232,-6.93765 C 184.20341,391.38878 192,403.05722 192,416 c 0,17.67311 -14.32689,32 -32,32 z M 352,192 c -12.94278,0 -24.61122,-7.79659 -29.56392,-19.75395 -4.9527,-11.95732 -2.21423,-25.72043 6.93765,-34.87232 9.15189,-9.15188 22.915,-11.89035 34.87232,-6.93765 C 376.20341,135.38878 384,147.05722 384,160 c 0,17.67311 -14.32689,32 -32,32 z"
+     id="path4" />
+</svg>

@@ -1,11 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
-    <title>Artboard</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="basketball-outline" transform="translate(48.000000, 48.000000)" fill="#000000" fill-rule="nonzero">
-            <path d="M208,0 C322.7,0 416,93.3 416,208 C416,264.868935 393.06467,316.477248 355.957233,354.061714 C355.653986,354.416039 355.336103,354.763897 355,355.1 C354.652351,355.447649 354.293383,355.776433 353.924225,356.086212 C316.354728,393.119083 264.801435,416 208,416 C151.413155,416 100.034874,393.29164 62.498618,356.508385 C61.9444013,356.077073 61.4087349,355.608735 60.9,355.1 C60.3965133,354.596513 59.9339136,354.066648 59.5122008,353.514688 C22.7152331,315.980677 0,264.595408 0,208 C0,151.187483 22.8898458,99.6251559 59.9323687,62.0501872 C60.2388865,61.6917648 60.5601277,61.3398723 60.9,61 C61.2361029,60.6638971 61.5839609,60.3460143 61.9422993,60.0463517 C99.5227524,22.9353303 151.131065,0 208,0 Z M208.004,230.65 L173.653337,265.01426 C202.022961,298.161202 219.357092,339.604265 222.933706,383.368276 C259.875725,380.24879 293.615902,365.650819 320.563413,343.16801 L208.004,230.65 Z M150.885792,287.791061 L95.4868676,343.209944 C121.86852,365.204151 154.754343,379.64378 190.778507,383.163 C187.31538,347.999807 173.368547,314.778065 150.885792,287.791061 Z M265.037176,173.598097 L230.573,208.073 L343.120183,320.620713 C365.621986,293.673475 380.236017,259.926302 383.368069,222.973401 L383.7,223 C339.789419,219.494165 298.260196,202.084275 265.037176,173.598097 Z M32.8335505,225.176979 L32.840024,225.252424 C36.366861,261.288743 50.8216028,294.183326 72.8345064,320.566429 L128.238743,265.161262 C101.182545,242.634675 67.9840293,228.656024 32.8335505,225.176979 Z M32.840024,190.747576 L32.6396849,192.974467 C76.3806005,196.562912 117.817767,213.917928 151.025836,242.376436 L185.373,208.027 L72.7908943,95.4858618 C50.8025113,121.860133 36.3645313,154.735061 32.840024,190.747576 Z M343.16801,95.4365874 L287.804836,150.820733 C314.761514,173.309809 347.926292,187.239446 383.155381,190.710407 C379.623087,154.689452 365.171744,121.809886 343.16801,95.4365874 Z M193.074313,32.6316892 L190.747576,32.840024 C154.686538,36.3692803 121.771547,50.8414386 95.3792871,72.8798169 L207.95,185.45 L242.428394,150.974129 C213.982946,117.757214 196.662331,76.3483379 193.074313,32.6316892 Z M225.278484,32.8425764 L225.295512,33.02354 C228.796373,68.0861615 242.667635,101.250075 265.188184,128.212493 L320.566429,72.8345064 C294.189685,50.8269092 261.304602,36.3738304 225.278484,32.8425764 Z" id="Combined-Shape"></path>
-        </g>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="basketball-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title2">Basketball</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 256 48 C 141.31429 48 48 141.31429 48 256 C 48 370.68571 141.31429 464 256 464 C 370.68571 464 464 370.68571 464 256 C 464 141.31429 370.68571 48 256 48 z M 256 80 C 353.39163 80 432 158.60837 432 256 C 432 353.39163 353.39163 432 256 432 C 158.60837 432 80 353.39163 80 256 C 80 158.60837 158.60837 80 256 80 z "
+     id="circle4" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 256.6543 58.349609 A 16 16 0 0 0 255.74023 58.375 A 16 16 0 0 0 240.6543 75.240234 C 243.27782 122.32294 261.66693 165.18443 290.52734 198.8457 L 256 233.37305 L 131.55273 108.92578 A 16 16 0 0 0 108.92578 108.92578 A 16 16 0 0 0 108.92578 131.55273 L 233.37305 256 L 198.77344 290.59961 C 165.12316 261.73988 122.26735 243.34785 75.183594 240.71484 A 16 16 0 0 0 58.314453 255.79688 A 16 16 0 0 0 73.396484 272.66602 C 112.46093 274.85057 148.05558 289.68919 176.21875 313.1543 L 108.92578 380.44727 A 16 16 0 0 0 108.92578 403.07422 A 16 16 0 0 0 131.55273 403.07422 L 198.81641 335.81055 C 221.47219 363.02103 236.13882 397.17797 239.04688 434.8418 A 16 16 0 0 0 256.23242 449.5625 A 16 16 0 0 0 270.95312 432.37891 C 267.44447 386.93642 249.40032 345.66108 221.50195 313.125 L 256 278.62695 L 380.44727 403.07422 A 16 16 0 0 0 403.07422 403.07422 A 16 16 0 0 0 403.07422 380.44727 L 278.62695 256 L 313.04883 221.57812 C 345.4247 249.34695 386.45802 267.36265 431.6582 270.99805 A 16 16 0 0 0 448.88867 256.33203 A 16 16 0 0 0 434.22266 239.10156 C 396.76326 236.08875 362.81081 221.44043 335.73633 198.89062 L 403.07422 131.55273 A 16 16 0 0 0 403.07422 108.92578 A 16 16 0 0 0 380.44727 108.92578 L 313.08594 176.28711 C 289.62204 148.11551 274.78202 112.52004 272.60547 73.458984 A 16 16 0 0 0 256.6543 58.349609 z "
+     id="path6" />
 </svg>

@@ -1,1 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><title>ionicons-v5-h</title><path d="M388,448a92,92,0,1,1,92-92A92.1,92.1,0,0,1,388,448Zm0-152a60,60,0,1,0,60,60A60.07,60.07,0,0,0,388,296Z"/><path d="M124,448a92,92,0,1,1,92-92A92.1,92.1,0,0,1,124,448Zm0-152a60,60,0,1,0,60,60A60.07,60.07,0,0,0,124,296Z"/><path d="M320,128a31.89,31.89,0,0,0,32-32.1A31.55,31.55,0,0,0,320.2,64a32,32,0,1,0-.2,64Z"/><path d="M367.55,192H323.79a4,4,0,0,1-3.51-2.08l-31.74-58.17h0A31,31,0,0,0,239.16,124h0L169.3,194.4a32.56,32.56,0,0,0-9.3,22.4c0,17.4,12.6,23.6,18.5,27.1C207,260.32,227.07,272.33,238.08,279a4,4,0,0,1,1.92,3.41v69.12c0,8.61,6.62,16,15.23,16.43A16,16,0,0,0,272,352V266a16,16,0,0,0-6.66-13l-37-26.61a4,4,0,0,1-.58-6l42-44.79a4,4,0,0,1,6.42.79L298,215.77A16,16,0,0,0,312,224h56a16,16,0,0,0,16-16.77C383.58,198.62,376.16,192,367.55,192Z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="bicycle.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title2">Bicycle</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;stroke:none;opacity:1"
+     d="m 388,448 c -37.21049,0 -70.75725,-22.4152 -84.99628,-56.7926 -14.239,-34.37732 -6.36591,-73.94625 19.94576,-100.25792 26.31167,-26.31167 65.8806,-34.18476 100.25792,-19.94576 C 457.5848,285.24275 480,318.78951 480,356 c -0.0551,50.78735 -41.21265,91.94489 -92,92 z m 0,-152 c -24.26771,0 -46.14603,14.61861 -55.43236,37.03865 -9.2863,22.41999 -4.15168,48.22581 13.00811,65.3856 17.15979,17.15979 42.96561,22.29441 65.3856,13.00811 C 433.38139,402.14603 448,380.26771 448,356 447.96143,322.87891 421.12109,296.03857 388,296 Z M 124,448 C 86.789514,448 53.242751,425.5848 39.003721,391.2074 24.764719,356.83008 32.637807,317.26115 58.949481,290.94948 85.261155,264.63781 124.83008,256.76472 159.2074,271.00372 193.5848,285.24275 216,318.78951 216,356 c -0.0551,50.78735 -41.21265,91.94489 -92,92 z m 0,-152 c -24.267709,0 -46.146032,14.61861 -55.432356,37.03865 -9.286305,22.41999 -4.151683,48.22581 13.008104,65.3856 17.159788,17.15979 42.965612,22.29441 65.385602,13.00811 C 169.38139,402.14603 184,380.26771 184,356 183.96143,322.87891 157.12109,296.03857 124,296 Z M 320,128 c 17.7377,0.0616 32.11691,-14.36258 32,-32.1 C 352.19648,78.240567 337.85996,63.858966 320.2,64 302.52688,63.944771 288.15524,78.226888 288.10001,95.9 288.04478,113.57311 302.32688,127.94477 320,128 Z"
+     id="path4" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;stroke:none;opacity:1"
+     d="m 367.55,192 h -43.76 c -1.46223,3.4e-4 -2.80813,-0.79723 -3.51,-2.08 L 288.54,131.75 C 278.92008,113.15476 254.01398,109.24585 239.16,124 l -69.86,70.4 c -5.86905,5.99036 -9.2004,14.01428 -9.3,22.4 0,17.4 12.6,23.6 18.5,27.1 28.5,16.42 48.57,28.43 59.58,35.1 1.19029,0.72462 1.91768,2.01649 1.92,3.41 v 69.12 c 0,8.61 6.62,16 15.23,16.43 9.11986,0.43941 16.75775,-6.82957 16.77,-15.96 v -86 c 0.003,-5.15297 -2.47613,-9.99195 -6.66,-13 l -37,-26.61 c -1.97182,-1.41087 -2.24507,-4.23756 -0.58,-6 l 42,-44.79 c 1.85359,-1.98354 5.10258,-1.58374 6.42,0.79 L 298,215.77 c 2.82418,5.08378 8.18444,8.23484 14,8.23 h 56 c 9.14621,0.0106 16.44017,-7.63438 16,-16.77 C 383.58,198.62 376.16,192 367.55,192 Z"
+     id="path6" />
+</svg>

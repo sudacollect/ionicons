@@ -1,1 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><title>ionicons-v5-b</title><path d="M256,48C141.13,48,48,141.13,48,256s93.13,208,208,208,208-93.13,208-208S370.87,48,256,48Zm83.69,282.65a112.24,112.24,0,0,1-195-61.29,16,16,0,0,1-20.13-24.67l23.6-23.6a16,16,0,0,1,22.37-.25l24.67,23.6a16,16,0,0,1-18,26,80.25,80.25,0,0,0,138.72,38.83,16,16,0,0,1,23.77,21.41Zm47.76-63.34-23.6,23.6a16,16,0,0,1-22.37.25l-24.67-23.6a16,16,0,0,1,17.68-26.11A80.17,80.17,0,0,0,196,202.64a16,16,0,1,1-23.82-21.37,112.17,112.17,0,0,1,194.88,61.57,16,16,0,0,1,20.39,24.47Z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="sync-circle.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">Sync Circle</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;stroke:none;opacity:1"
+     d="M 256,48 C 141.13,48 48,141.13 48,256 48,370.87 141.13,464 256,464 370.87,464 464,370.87 464,256 464,141.13 370.87,48 256,48 Z m 83.69,282.65 C 310.3031,363.44383 264.45476,376.02429 222.44652,362.82078 180.43828,349.61726 150.0314,313.0692 144.69,269.36 c -6.85424,4.53548 -16.02994,3.1401 -21.22605,-3.22791 -5.19611,-6.36801 -4.72231,-15.6371 1.09605,-21.44209 l 23.6,-23.6 c 6.14966,-6.14872 16.08446,-6.25975 22.37,-0.25 l 24.67,23.6 c 5.72364,5.43179 6.63263,14.22535 2.14112,20.71308 -4.49151,6.48774 -13.04224,8.73226 -20.14112,5.28692 5.59079,30.08284 27.80185,54.36859 57.26721,62.61643 29.46536,8.24783 61.05679,-0.97772 81.45279,-23.78643 5.96743,-6.31133 15.88034,-6.70898 22.33414,-0.89594 6.45381,5.81304 7.09111,15.71343 1.43586,22.30594 z m 47.76,-63.34 -23.6,23.6 c -6.14966,6.14872 -16.08446,6.25975 -22.37,0.25 l -24.67,-23.6 c -5.60921,-5.39908 -6.51792,-14.05198 -2.15272,-20.49855 4.36521,-6.44658 12.73704,-8.8153 19.83272,-5.61145 -5.60539,-30.0145 -27.77348,-54.23911 -57.17428,-62.47829 -29.40079,-8.23919 -60.9292,0.93768 -81.31572,23.66829 -5.90117,6.57772 -16.01728,7.12616 -22.595,1.22499 -6.57771,-5.90116 -7.12617,-16.01727 -1.225,-22.59499 29.41125,-32.79237 75.29346,-45.33485 117.29654,-32.06448 42.00308,13.27037 72.35095,49.89683 77.58346,93.63448 6.80876,-4.64213 16.02977,-3.35349 21.30506,2.97737 5.27529,6.33087 4.87925,15.63306 -0.91506,21.49263 z"
+     id="path4" />
+</svg>

@@ -1,26 +1,67 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<title>ionicons-v5-m</title>
-<g>
-	<path d="M336.8,496c-30.8,0-47.2-9.4-59.1-16.3c-8.3-4.8-13.3-7.7-21.7-7.7c-8.4,0-13.4,2.9-21.7,7.7c-12,6.9-28.3,16.3-59.1,16.3
-		c-40.2,0-74.3-51.8-87.2-74C63,378.5,48,328.4,48,288c0-51.2,8.8-92.2,26.2-121.9c18.8-32,47.9-50.7,84.3-54.1
-		c20.3-1.9,39.1,3.3,57.4,8.4c14.1,3.9,27.4,7.6,40.1,7.6c12.7,0,26-3.7,40.2-7.6c18.2-5,37.1-10.2,57.2-8.4
-		c38.1,3.4,66.9,21.7,85.6,54.2c16.8,29.3,25,69.1,25,121.7c0,40.4-15,90.5-40,134C411.1,444.2,377,496,336.8,496z M256,440
-		c16.9,0,28,6.3,37.7,11.9c10.8,6.2,20.9,12.1,43.1,12.1c13,0,36.4-17.9,59.4-58c22.1-38.3,35.8-83.5,35.8-118
-		c0-46.2-7-81.8-20.8-105.8c-13.4-23.3-33.2-35.8-60.7-38.3h0c-14.4-1.3-29.7,2.9-45.9,7.4c-15.6,4.3-31.7,8.7-48.7,8.7
-		c-17,0-33-4.4-48.6-8.7c-16.2-4.5-31.5-8.7-45.9-7.3c-26.4,2.5-46,15-59.7,38.4C87.3,207,80,242.5,80,288
-		c0,34.5,13.7,79.7,35.8,118c23.1,40.1,46.5,58,59.4,58c22.2,0,32.4-5.9,43.1-12.1C228,446.3,239.1,440,256,440z"/>
-</g>
-<g>
-	<path d="M323.9,83.1c-21,21-45.7,27-58.8,28.8c-4.4,0.6-8.4-2.4-9.1-6.8c-0.1-0.6-0.1-1.3,0-2c2.4-22.5,12.5-43.5,28.6-59.3
-		c22-22,46-26.9,58.7-27.9c4.4-0.4,8.3,2.8,8.7,7.2c0.1,0.6,0,1.1,0,1.7C349.5,47,339.6,67.5,323.9,83.1z"/>
-</g>
-<g>
-	<ellipse cx="216" cy="304" rx="24" ry="48"/>
-</g>
-<g>
-	<ellipse cx="296" cy="304" rx="24" ry="48"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="nutrition-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg12" />
+  <title
+     id="title2">Nutrition</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 172.9707 111.70117 C 168.26229 111.51621 163.44481 111.61001 158.51758 112.06836 L 158.51172 112.06836 L 158.50586 112.07031 C 121.98229 115.4944 92.355753 135.23224 74.203125 166.14844 C 56.050497 197.06463 48 238.22222 48 288 C 48 332.26667 64.909961 381.85898 88.037109 421.98828 C 99.600684 442.05293 112.73977 459.69169 127.01758 472.9668 C 141.29538 486.24191 157.07154 496 175.19922 496 C 201.51108 496 218.763 488.43074 230.30664 481.95312 C 241.85028 475.47551 246.0052 472 256 472 C 265.9948 472 270.14452 475.47513 281.6875 481.95312 C 293.23048 488.43112 310.48449 496 336.80078 496 C 354.92962 496 370.70779 486.24405 384.98633 472.96875 C 399.26486 459.69345 412.40381 442.05306 423.9668 421.98828 C 447.09277 381.85872 464 332.266 464 288 C 464 238.38889 456.80331 197.32977 439.00586 166.29102 C 421.20841 135.25226 391.2854 115.45469 353.42773 112.06445 C 314.0673 108.53836 281.70333 128 256 128 C 233.54167 128 205.92958 112.9959 172.9707 111.70117 z M 161.48242 143.93164 C 186.56456 141.59842 217.66667 160 256 160 C 294.29667 160 325.4127 141.68164 350.57227 143.93555 C 379.7146 146.54531 397.79159 158.74774 411.24414 182.20898 C 424.69669 205.67023 432 241.61111 432 288 C 432 323.734 416.91176 370.14128 396.24023 406.01172 C 385.90447 423.94694 374.19467 439.30655 363.19727 449.53125 C 352.19986 459.75595 342.27694 464 336.80078 464 C 315.90707 464 307.18913 459.56888 297.34961 454.04688 C 287.51009 448.52487 274.8652 440 256 440 C 237.1348 440 224.4898 448.52449 214.64844 454.04688 C 204.80708 459.56926 196.08735 464 175.19922 464 C 169.7269 464 159.80384 459.75809 148.80664 449.5332 C 137.80945 439.30831 126.09814 423.94707 115.76172 406.01172 C 95.088867 370.14102 80 323.73333 80 288 C 80 241.77778 87.949503 205.93537 101.79688 182.35156 C 115.64219 158.77126 134.01278 146.51005 161.48242 143.93164 z "
+     id="path4" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;stroke:none;opacity:1"
+     d="m 323.92,83.14 c -21,21 -45.66,27 -58.82,28.79 -5.15076,0.74241 -9.62809,-3.55287 -9.1,-8.73 2.37353,-22.494429 12.48644,-43.466086 28.61,-59.33 22,-22 46,-26.9 58.72,-27.85 5.06988,-0.462626 9.27652,3.865314 8.67,8.92 -2.51081,22.016736 -12.4092,42.532622 -28.08,58.2 z"
+     id="path6" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;stroke:none;opacity:1"
+     d="m 240,304 c 0,26.50967 -10.74517,48 -24,48 -13.25483,0 -24,-21.49033 -24,-48 0,-26.50967 10.74517,-48 24,-48 13.25483,0 24,21.49033 24,48 z"
+     id="ellipse8" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;stroke:none;opacity:1"
+     d="m 320,304 c 0,26.50967 -10.74517,48 -24,48 -13.25483,0 -24,-21.49033 -24,-48 0,-26.50967 10.74517,-48 24,-48 13.25483,0 24,21.49033 24,48 z"
+     id="ellipse10" />
 </svg>

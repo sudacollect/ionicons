@@ -1,1 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><title>ionicons-v5-n</title><path d="M256,48C141.31,48,48,141.31,48,256s93.31,208,208,208,208-93.31,208-208S370.69,48,256,48ZM399,352H353.78a8,8,0,0,1-6.91-4l-16.14-27.68a8,8,0,0,1-.86-6l14.86-59.92a8,8,0,0,1,4.65-5.45l28.1-11.9a8,8,0,0,1,8.34,1.3l41.63,35.82a8,8,0,0,1,2.69,7.26,174.75,174.75,0,0,1-24.28,66.68A8,8,0,0,1,399,352ZM134.52,237.13l28.1,11.9a8,8,0,0,1,4.65,5.45l14.86,59.92a8,8,0,0,1-.86,6L165.13,348a8,8,0,0,1-6.91,4H113a8,8,0,0,1-6.82-3.81,174.75,174.75,0,0,1-24.28-66.68,8,8,0,0,1,2.69-7.26l41.63-35.82A8,8,0,0,1,134.52,237.13Zm256.94-87.24-18.07,51.38A8,8,0,0,1,369,206l-29.58,12.53a8,8,0,0,1-8.26-1.24l-56.26-47.19A8,8,0,0,1,272,164V130.42a8,8,0,0,1,3.56-6.65l42.83-28.54a8,8,0,0,1,7.66-.67A176.92,176.92,0,0,1,390,142,8,8,0,0,1,391.46,149.89ZM193.6,95.23l42.84,28.54a8,8,0,0,1,3.56,6.65V164a8,8,0,0,1-2.86,6.13l-56.26,47.19a8,8,0,0,1-8.26,1.24L143,206a8,8,0,0,1-4.43-4.72l-18.07-51.38A8,8,0,0,1,122,142a176.92,176.92,0,0,1,64-47.48A8,8,0,0,1,193.6,95.23Zm17.31,327.46L191.18,373a8,8,0,0,1,.52-7l15.17-26a8,8,0,0,1,6.91-4h84.44a8,8,0,0,1,6.91,4l15.18,26a8,8,0,0,1,.53,7l-19.59,49.67a8,8,0,0,1-5.69,4.87,176.58,176.58,0,0,1-79,0A8,8,0,0,1,210.91,422.69Z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="football.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">Football</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;stroke:none;opacity:1"
+     d="M 256,48 C 141.31,48 48,141.31 48,256 48,370.69 141.31,464 256,464 370.69,464 464,370.69 464,256 464,141.31 370.69,48 256,48 Z m 143,304 h -45.22 c -2.85162,-0.006 -5.48419,-1.53041 -6.91,-4 l -16.14,-27.68 c -1.06256,-1.80978 -1.37142,-3.96462 -0.86,-6 l 14.86,-59.92 c 0.6045,-2.44796 2.32773,-4.46766 4.65,-5.45 l 28.1,-11.9 c 2.80103,-1.18781 6.03337,-0.68397 8.34,1.3 l 41.63,35.82 c 2.08597,1.79605 3.10206,4.53837 2.69,7.26 -3.44773,23.65332 -11.71142,46.34783 -24.28,66.68 -1.44432,2.41195 -4.04867,3.88876 -6.86,3.89 z m -264.48,-114.87 28.1,11.9 c 2.32227,0.98234 4.0455,3.00204 4.65,5.45 l 14.86,59.92 c 0.51142,2.03538 0.20256,4.19022 -0.86,6 L 165.13,348 c -1.42581,2.46959 -4.05838,3.99351 -6.91,4 H 113 c -2.78104,0.002 -5.36343,-1.44091 -6.82,-3.81 -12.568584,-20.33217 -20.832274,-43.02668 -24.28,-66.68 -0.412059,-2.72163 0.604035,-5.46395 2.69,-7.26 l 41.63,-35.82 c 2.29821,-1.96806 5.51011,-2.47113 8.3,-1.3 z m 256.94,-87.24 -18.07,51.38 c -0.7343,2.12312 -2.32745,3.83966 -4.39,4.73 l -29.58,12.53 c -2.76769,1.1709 -5.95811,0.69195 -8.26,-1.24 L 274.9,170.1 c -1.81971,-1.50557 -2.88116,-3.73828 -2.9,-6.1 v -33.58 c 0.002,-2.6721 1.33721,-5.16698 3.56,-6.65 l 42.83,-28.54 c 2.27158,-1.516211 5.15969,-1.768827 7.66,-0.67 24.64447,10.74867 46.51498,26.97286 63.95,47.44 1.86577,2.17816 2.4228,5.18843 1.46,7.89 z M 193.6,95.23 l 42.84,28.54 c 2.22279,1.48302 3.5584,3.9779 3.56,6.65 V 164 c -8e-5,2.36569 -1.0472,4.61004 -2.86,6.13 l -56.26,47.19 c -2.30189,1.93195 -5.49231,2.4109 -8.26,1.24 L 143,206 c -2.07569,-0.87896 -3.68424,-2.59282 -4.43,-4.72 L 120.5,149.9 c -0.95592,-2.71156 -0.38326,-5.72753 1.5,-7.9 17.445,-20.48777 39.33352,-36.72632 64,-47.48 2.49019,-1.065083 5.35018,-0.7979 7.6,0.71 z M 210.91,422.69 191.18,373 c -0.91422,-2.28886 -0.72238,-4.87135 0.52,-7 l 15.17,-26 c 1.42581,-2.46959 4.05838,-3.99351 6.91,-4 h 84.44 c 2.85162,0.006 5.48419,1.53041 6.91,4 l 15.18,26 c 1.24566,2.12707 1.4412,4.70962 0.53,7 l -19.59,49.67 c -0.97274,2.46573 -3.10366,4.28956 -5.69,4.87 -25.9954,5.96622 -53.0046,5.96622 -79,0 -2.56678,-0.58825 -4.67967,-2.40197 -5.65,-4.85 z"
+     id="path4" />
+</svg>

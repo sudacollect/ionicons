@@ -1,1 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><title>ionicons-v5-m</title><path d="M340,480H106c-29.5,0-54.92-7.83-73.53-22.64C11.23,440.44,0,415.35,0,384.8c0-29.44,12.09-54.25,35-71.74,12.1-9.26,27.2-16.17,43.33-20.05A16,16,0,0,0,90.14,280.8c7.15-32.54,22.25-60.49,44.33-81.75A139.82,139.82,0,0,1,232,160c32.33,0,62.15,10.65,86.24,30.79a142.22,142.22,0,0,1,37.65,49.54,16.06,16.06,0,0,0,11.12,9c24,5.22,45.42,15.78,61.62,30.56C451.77,301,464,329.82,464,363.2c0,32.85-13.13,62.87-37,84.52C404.11,468.54,373.2,480,340,480Z"/><path d="M510.53,209.79a16.34,16.34,0,0,0-1.35-15.8,16,16,0,0,0-19.57-5.58c-10.7,4.65-24.48,7.17-39.92,7.28-55.3.4-101.38-45-101.38-100.31,0-15.75,2.48-29.84,7.18-40.76a16.3,16.3,0,0,0-1.85-16.33,16,16,0,0,0-19.1-5c-38.63,16.82-66.18,51.51-75.27,92.54a4,4,0,0,0,3.19,4.79,162.54,162.54,0,0,1,76.31,35.59,172.58,172.58,0,0,1,39.64,47.84,16.35,16.35,0,0,0,9.54,7.64c23.89,7.17,45.1,18.9,62.25,34.54q4.44,4.07,8.48,8.42a4,4,0,0,0,5.16.57A129.12,129.12,0,0,0,510.53,209.79Z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="cloudy-night.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">Cloudy Night</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;stroke:none;opacity:1"
+     d="M 340,480 H 106 C 76.5,480 51.08,472.17 32.47,457.36 11.23,440.44 0,415.35 0,384.8 c 0,-29.44 12.09,-54.25 35,-71.74 12.1,-9.26 27.2,-16.17 43.33,-20.05 5.950567,-1.47167 10.537275,-6.21373 11.81,-12.21 7.15,-32.54 22.25,-60.49 44.33,-81.75 26.19788,-25.19972 61.17989,-39.20616 97.53,-39.05 32.33,0 62.15,10.65 86.24,30.79 16.05284,13.53184 28.91054,30.45004 37.65,49.54 2.09205,4.57639 6.20808,7.90771 11.12,9 24,5.22 45.42,15.78 61.62,30.56 23.14,21.11 35.37,49.93 35.37,83.31 0,32.85 -13.13,62.87 -37,84.52 C 404.11,468.54 373.2,480 340,480 Z M 510.53,209.79 c 2.30701,-5.14669 1.7967,-11.11929 -1.35,-15.8 -4.34768,-6.30325 -12.55186,-8.64251 -19.57,-5.58 -10.7,4.65 -24.48,7.17 -39.92,7.28 -55.3,0.4 -101.38,-45 -101.38,-100.31 0,-15.75 2.48,-29.84 7.18,-40.76 2.37337,-5.378649 1.66646,-11.618601 -1.85,-16.33 -4.45679,-5.864417 -12.34141,-7.928454 -19.1,-5 -38.63,16.82 -66.18,51.51 -75.27,92.54 -0.48388,2.21172 0.9627,4.38385 3.19,4.79 28.12124,4.95448 54.44106,17.2297 76.31,35.59 15.99857,13.41738 29.4295,29.62665 39.64,47.84 2.07278,3.68418 5.49192,6.42236 9.54,7.64 23.89,7.17 45.1,18.9 62.25,34.54 2.96,2.71333 5.78667,5.52 8.48,8.42 1.34636,1.43193 3.53356,1.67354 5.16,0.57 20.5359,-13.64044 36.73753,-32.87488 46.69,-55.43 z"
+     id="path4" />
+</svg>

@@ -1,1 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><title>ionicons-v5-i</title><path d="M415.7,427.13c-8.74-76.89-43.83-108.76-69.46-132C328.52,279,320,270.61,320,256c0-14.41,8.49-22.64,26.16-38.44,25.93-23.17,61.44-54.91,69.56-132.84a47,47,0,0,0-12-36.26A50.3,50.3,0,0,0,366.39,32H145.61a50.34,50.34,0,0,0-37.39,16.46A47.05,47.05,0,0,0,96.28,84.72c8.09,77.68,43.47,109.19,69.3,132.19C183.42,232.8,192,241.09,192,256c0,15.1-8.6,23.56-26.5,39.75C140,318.85,105,350.48,96.3,427.13A46.59,46.59,0,0,0,108,463.33,50.44,50.44,0,0,0,145.61,480H366.39A50.44,50.44,0,0,0,404,463.33,46.59,46.59,0,0,0,415.7,427.13ZM343.3,432H169.13c-15.6,0-20-18-9.06-29.16C186.55,376,240,356.78,240,326V224c0-19.85-38-35-61.51-67.2-3.88-5.31-3.49-12.8,6.37-12.8H327.59c8.41,0,10.22,7.43,6.4,12.75C310.82,189,272,204.05,272,224V326c0,30.53,55.71,47,80.4,76.87C362.35,414.91,358.87,432,343.3,432Z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="hourglass.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">Hourglass</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;stroke:none;opacity:1"
+     d="M 415.7,427.13 C 406.96,350.24 371.87,318.37 346.24,295.13 328.52,279 320,270.61 320,256 c 0,-14.41 8.49,-22.64 26.16,-38.44 25.93,-23.17 61.44,-54.91 69.56,-132.84 1.31276,-13.240357 -3.04788,-26.416735 -12,-36.26 C 394.16024,37.946772 380.59971,31.967501 366.39,32 H 145.61 c -14.22954,-0.04445 -27.81321,5.935415 -37.39,16.46 -8.924905,9.856485 -13.262514,23.029158 -11.94,36.26 8.09,77.68 43.47,109.19 69.3,132.19 17.84,15.89 26.42,24.18 26.42,39.09 0,15.1 -8.6,23.56 -26.5,39.75 -25.5,23.1 -60.5,54.73 -69.2,131.38 -1.428729,13.18179 2.826618,26.3479 11.7,36.2 9.59804,10.64893 23.27402,16.71057 37.61,16.67 h 220.78 c 14.33598,0.0406 28.01196,-6.02107 37.61,-16.67 8.87338,-9.8521 13.12873,-23.01821 11.7,-36.2 z M 343.3,432 H 169.13 c -15.6,0 -20,-18 -9.06,-29.16 C 186.55,376 240,356.78 240,326 V 224 c 0,-19.85 -38,-35 -61.51,-67.2 -3.88,-5.31 -3.49,-12.8 6.37,-12.8 h 142.73 c 8.41,0 10.22,7.43 6.4,12.75 C 310.82,189 272,204.05 272,224 v 102 c 0,30.53 55.71,47 80.4,76.87 9.95,12.04 6.47,29.13 -9.1,29.13 z"
+     id="path4" />
+</svg>

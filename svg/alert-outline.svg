@@ -1,12 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
-    <title>Artboard</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="alert-outline" transform="translate(239.000000, 80.000000)" fill="#000000" fill-rule="nonzero">
-            <path d="M16.4669327,-15.9955054 C-0.922042318,-15.7022474 -15.8590319,-1.09694713 -14.9954561,16.5310959 L-14.984,16.715 L-6.996,232.396 L-6.98768534,232.775773 C-6.59042258,245.272127 3.37016984,255.396199 15.8816192,255.974126 L16.50641,255.994326 L17,256 L17.3968839,255.996785 C30.3366246,255.786987 40.7869865,245.336625 40.9967847,232.396884 L48.984,16.715 L48.9640703,17.0716621 C50.1757297,-0.977885032 34.7934955,-16 17,-16 L16.4669327,-15.9955054 Z" id="Path"></path>
-            <path d="M17,304 C-0.673111994,304 -15,318.326888 -15,336 C-15,353.673112 -0.673111994,368 17,368 C34.673112,368 49,353.673112 49,336 C49,318.326888 34.673112,304 17,304 Z" id="Oval"></path>
-        </g>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg839"
+   sodipodi:docname="alert-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata845">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs843" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="776"
+     inkscape:window-height="480"
+     id="namedview841"
+     showgrid="false"
+     inkscape:zoom="0.3"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="408"
+     inkscape:window-y="1219"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg839"
+     inkscape:document-rotation="0" />
+  <title
+     id="title833">Alert</title>
+  <path
+     id="path858"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:32;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+     d="M 256 64 C 238.27457 64 222.76252 78.114343 224.03516 97.072266 L 224.01172 96.591797 L 232.01172 312.5918 L 232 312 C 232 325.06532 242.93468 336 256 336 C 269.06532 336 280 325.06532 280 312 L 279.98828 312.5918 L 287.98828 96.591797 L 287.96484 97.072266 C 289.23742 78.114343 273.72543 64 256 64 z M 256 384 C 238.5164 384 224 398.5164 224 416 C 224 433.4836 238.5164 448 256 448 C 273.4836 448 288 433.4836 288 416 C 288 398.5164 273.4836 384 256 384 z " />
 </svg>

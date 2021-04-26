@@ -1,11 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
-    <title>Artboard</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="cash-outline" transform="translate(16.000000, 64.000000)" fill="#000000" fill-rule="nonzero">
-            <path d="M400,352 C408.8,352 416,359.2 416,368 C416,376.8 408.8,384 400,384 L80,384 C71.2,384 64,376.8 64,368 C64,359.2 71.2,352 80,352 L400,352 Z M432,304 C440.8,304 448,311.2 448,320 C448,328.8 440.8,336 432,336 L48,336 C39.2,336 32,328.8 32,320 C32,311.2 39.2,304 48,304 L432,304 Z M32,288 C14.4,288 0,273.6 0,256 L0,32 C0,14.4 14.4,0 32,0 L448,0 C465.6,0 480,14.4 480,32 L480,256 C480,273.6 465.6,288 448,288 L32,288 Z M32.0013962,210.023479 L32,256 L77.9767784,255.999603 C72.1779313,233.537237 54.4636211,215.82268 32.0013962,210.023479 Z M402.023222,255.999603 L448,256 L448,256 L447.999603,210.023222 C425.536904,215.822155 407.822155,233.536904 402.023222,255.999603 Z M369.335998,32.0016122 L110.664002,32.0016122 C103.893745,72.1177172 72.1177172,103.893745 32.0016122,110.664002 L32.0016122,177.335998 C72.1180509,184.106312 103.894273,215.882812 110.664171,255.999389 L369.335829,255.999389 C376.105783,215.882478 407.882478,184.105783 447.999389,177.335829 L447.999389,110.664171 C407.882812,103.894273 376.106312,72.1180509 369.335998,32.0016122 Z M240,48 C292.9,48 336,91.1 336,144 C336,196.9 292.9,240 240,240 C187.1,240 144,196.9 144,144 C144,91.1 187.1,48 240,48 Z M240,80 C204.7,80 176,108.7 176,144 C176,179.3 204.7,208 240,208 C275.3,208 304,179.3 304,144 C304,108.7 275.3,80 240,80 Z M448,32 L402.023479,32.0013962 C407.82268,54.4636211 425.537237,72.1779313 447.999603,77.9767784 L448,32 Z M77.9765205,32.0013962 L32,32 L32.0013962,77.9765205 C54.4632882,72.1774062 72.1774062,54.4632882 77.9765205,32.0013962 Z" id="Combined-Shape"></path>
-        </g>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="cash-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="776"
+     inkscape:window-height="480"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="0.3"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="361"
+     inkscape:window-y="1232"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg12"
+     inkscape:document-rotation="0" />
+  <title
+     id="title2">Cash</title>
+  <path
+     id="rect4"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 48 64 C 30.54876 64 16 78.54876 16 96 L 16 160 L 16 256 L 16 320 C 16 337.45124 30.54876 352 48 352 L 112 352 L 400 352 L 464 352 C 481.45124 352 496 337.45124 496 320 L 496 256 L 496 160 L 496 96 C 496 78.54876 481.45124 64 464 64 L 400 64 L 112 64 L 48 64 z M 48 96 L 94.009766 96 C 88.264011 118.59967 70.599668 136.26401 48 142.00977 L 48 96 z M 126.65234 96 L 385.34766 96 C 392.13323 136.06671 423.93329 167.86677 464 174.65234 L 464 241.34766 C 423.93329 248.13323 392.13323 279.93329 385.34766 320 L 126.65234 320 C 119.86677 279.93329 88.066709 248.13323 48 241.34766 L 48 174.65234 C 88.066709 167.86677 119.86677 136.06671 126.65234 96 z M 417.99023 96 L 464 96 L 464 142.00977 C 441.40033 136.26401 423.73599 118.59967 417.99023 96 z M 256 112 C 203.17018 112 160 155.17018 160 208 C 160 260.82982 203.17018 304 256 304 C 308.82982 304 352 260.82982 352 208 C 352 155.17018 308.82982 112 256 112 z M 256 144 C 291.53574 144 320 172.46426 320 208 C 320 243.53574 291.53574 272 256 272 C 220.46426 272 192 243.53574 192 208 C 192 172.46426 220.46426 144 256 144 z M 48 273.99023 C 70.599668 279.73599 88.264011 297.40033 94.009766 320 L 48 320 L 48 273.99023 z M 464 273.99023 L 464 320 L 417.99023 320 C 423.73599 297.40033 441.40033 279.73599 464 273.99023 z M 64 368 A 16 16 0 0 0 48 384 A 16 16 0 0 0 64 400 L 448 400 A 16 16 0 0 0 464 384 A 16 16 0 0 0 448 368 L 64 368 z M 96 416 A 16 16 0 0 0 80 432 A 16 16 0 0 0 96 448 L 416 448 A 16 16 0 0 0 432 432 A 16 16 0 0 0 416 416 L 96 416 z " />
 </svg>

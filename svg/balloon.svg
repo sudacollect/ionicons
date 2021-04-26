@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="balloon.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">Balloon</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;stroke:none;opacity:1"
+     d="M 391,307.27 C 423.75,260.92 437.59,205.64 430,151.59 416.462,55.433718 327.5359,-11.540683 231.38,2 135.38,15.49 68.24,104.58 81.73,200.58 c 7.57,53.89 36.12,103.16 80.37,138.74 24.58,19.68 52.31,33.5 78.62,39.68 4.13091,0.99259 6.76547,5.04103 6,9.22 l -4.87,26.38 c -0.70765,3.58956 -0.18632,7.31284 1.48,10.57 2.75683,5.29398 8.23122,8.61331 14.2,8.61 0.74625,0.001 1.4916,-0.052 2.23,-0.16 l 17.81,-2.5 c 0.8716,-0.12117 1.71999,0.34159 2.09,1.14 16.72,36.31 45.46,63.85 82.15,78.36 8.4707,3.34666 18.02247,-1.04261 21,-9.65 2.83,-8.18 -1.64,-17.07 -9.68,-20.28 -25.10256,-10.02816 -46.02501,-28.33266 -59.3,-51.88 -0.72828,-1.23081 0.0331,-2.80604 1.45,-3 l 7.4,-1 c 3.87193,-0.4991 7.44252,-2.3517 10.08,-5.23 4.3656,-4.88453 5.31252,-11.9369 2.39,-17.8 l -12.06,-24.23 c -1.90359,-3.82309 -0.46851,-8.46726 3.26,-10.55 23.59,-13.17 46.45,-34 64.65,-59.73 z m -154.9,16.78 c -2.013,-1.2e-4 -4.00791,-0.3801 -5.88,-1.12 -41.26,-16.32 -76.3,-52.7 -91.45,-94.94 -3.10754,-8.35177 1.207,-17.63293 9.59522,-20.64066 8.38823,-3.00772 17.61729,1.41716 20.52478,9.84066 14.5,40.44 47.27,65.77 73.1,76 7.14613,2.82433 11.27539,10.32984 9.83571,17.87777 -1.43968,7.54794 -8.0417,13.00658 -15.72571,13.00223 z"
+     id="path4" />
+</svg>

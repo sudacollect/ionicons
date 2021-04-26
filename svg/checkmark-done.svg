@@ -1,18 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<title>ionicons-v5-e</title>
-<g>
-	<path d="M240,400c-4.2,0-8.3-1.7-11.3-4.7l-96-96c-6.2-6.2-6.2-16.4,0-22.6c6.2-6.2,16.4-6.2,22.6,0l83.9,83.9L452,117.5
-		c5.8-6.6,15.9-7.3,22.6-1.5c6.7,5.8,7.3,15.9,1.5,22.6l-224,256c-2.9,3.3-7.1,5.3-11.5,5.5C240.4,400,240.2,400,240,400z"/>
-</g>
-<g>
-	<path d="M144,400c-4.1,0-8.2-1.6-11.3-4.7l-96-96c-6.2-6.2-6.2-16.4,0-22.6c6.2-6.2,16.4-6.2,22.6,0l96,96c6.2,6.2,6.2,16.4,0,22.6
-		C152.2,398.4,148.1,400,144,400z"/>
-</g>
-<g>
-	<path d="M232,300c-3.7,0-7.5-1.3-10.5-3.9c-6.7-5.8-7.4-15.9-1.5-22.6l136-156c5.8-6.7,15.9-7.4,22.6-1.5
-		c6.7,5.8,7.4,15.9,1.5,22.6l-136,156C240.9,298.1,236.5,300,232,300z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="checkmark-done.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">Checkmark Done</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 368.03516 112 A 16 16 0 0 0 355.93945 117.48633 L 219.93945 273.48633 A 16 16 0 0 0 221.48633 296.06055 A 16 16 0 0 0 244.06055 294.51367 L 380.06055 138.51367 A 16 16 0 0 0 378.51367 115.93945 A 16 16 0 0 0 368.03516 112 z M 464.06445 112 A 16 16 0 0 0 451.95898 117.46484 L 239.22266 360.59375 L 155.31445 276.68555 A 16 16 0 0 0 132.68555 276.68555 A 16 16 0 0 0 132.68555 299.31445 L 228.68555 395.31445 A 16.0016 16.0016 0 0 0 252.04102 394.53516 L 476.04102 138.53516 A 16 16 0 0 0 474.53516 115.95898 A 16 16 0 0 0 464.06445 112 z M 48.121094 272 A 16 16 0 0 0 36.685547 276.68555 A 16 16 0 0 0 36.685547 299.31445 L 132.68555 395.31445 A 16 16 0 0 0 155.31445 395.31445 A 16 16 0 0 0 155.31445 372.68555 L 59.314453 276.68555 A 16 16 0 0 0 48.121094 272 z "
+     id="path4" />
 </svg>

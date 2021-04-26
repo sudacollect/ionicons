@@ -1,18 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<title>ionicons-v5-o</title>
-<g>
-	<path d="M280.2,463.6c-49.3,0-98.9-19.2-136.9-53.9c-29.4-26.9-69.8-81.6-95.1-189.7C32.5,152.7,28.9,88.9,34.5,66.2
-		c2.4-9.7,7.4-15.6,14.8-17.6c6.5-1.7,13.4,0.4,18.3,5.7c44.9,47.5,92,55.5,141.8,63.8c39.5,6.6,80.3,13.5,121.1,39.9l0,0
-		c45.8,29.6,77,69.3,90.5,114.9c12.9,43.8,7.7,89-14.8,127.3c-19.1,32.5-54.9,54.9-98.3,61.5C298.8,462.9,289.5,463.6,280.2,463.6z
-		 M64,94.8c0,23.7,3.2,64,14.2,112.8c18.1,80.6,48.9,144,86.6,178.5c19.3,17.6,42.7,30.9,67.7,38.3c23.5,7,47.9,8.9,70.6,5.5
-		c34.3-5.2,61.1-21.5,75.5-46c17.9-30.5,22.1-66.8,11.7-102c-11.2-38.1-37.9-71.7-77.2-97l0,0c-35.3-22.8-71.1-28.8-109.1-35.2
-		C157.9,141.9,110.2,133.9,64,94.8z M44.4,76.2C44.4,76.2,44.4,76.2,44.4,76.2C44.4,76.2,44.4,76.2,44.4,76.2z"/>
-</g>
-<g>
-	<path d="M465,416c-0.8,0-1.6-0.1-2.5-0.2C346.8,398,254.1,351.4,162,264.6c-6.4-6.1-6.7-16.2-0.7-22.6c6.1-6.4,16.2-6.7,22.6-0.7
-		c87.1,82,174.5,126.1,283.5,142.8c8.7,1.3,14.7,9.5,13.4,18.2C479.6,410.3,472.8,416,465,416z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="leaf-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">Leaf</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 53.867188 48.111328 C 49.786434 48.251025 45.522792 49.747439 42.939453 51.726562 C 36.050549 57.004225 35.759752 61.391957 34.697266 65.412109 C 32.572293 73.452414 32.034949 82.637705 32.011719 94.644531 C 31.965258 118.65818 34.977398 152.45048 41.994141 190.17188 C 56.027626 265.61466 85.146214 356.59912 143.30859 409.73242 A 16.0016 16.0016 0 0 0 143.31445 409.73828 C 185.45676 448.20214 238.88781 465.33936 287.90039 463.44727 C 335.4202 461.6128 379.83463 441.54343 404.01758 403.66602 C 422.84781 408.59524 442.28914 412.69487 462.56641 415.81445 A 16 16 0 0 0 480.81445 402.43359 A 16 16 0 0 0 467.43359 384.18555 C 450.39817 381.56471 434.07302 378.22985 418.23047 374.32422 C 444.69255 301.32889 414.92477 212.46066 330.57227 157.98047 L 330.57031 157.98047 C 282.54667 126.95932 234.1346 122.74577 190.34375 114.79492 C 146.55568 106.84458 107.32186 96.255018 67.640625 54.244141 C 65.694055 52.179597 62.82064 49.605596 57.818359 48.457031 C 56.567789 48.16989 55.227439 48.064762 53.867188 48.111328 z M 65.955078 73.115234 C 66.094171 73.088834 65.970649 73.475779 65.566406 74.076172 C 65.587432 73.987031 65.614468 73.66469 65.634766 73.587891 C 65.712308 73.294491 65.85835 73.133594 65.955078 73.115234 z M 64.011719 94.6875 C 103.68957 127.94645 145.47274 139.16994 184.62891 146.2793 C 230.31012 154.57337 272.34309 158.46136 313.20898 184.85938 A 16.0016 16.0016 0 0 0 313.20898 184.86133 C 388.49663 233.48619 410.46006 306.81148 387.33594 365.75977 C 311.15277 341.74527 247.30158 301.00236 183.9707 241.35352 A 16 16 0 0 0 161.35352 242.0293 A 16 16 0 0 0 162.0293 264.64648 C 226.24954 325.13299 293.24865 368.10692 371.60938 394.07617 C 353.13579 416.71065 322.23713 430.09946 286.66602 431.47266 C 246.05109 433.04056 200.53442 418.6377 164.88672 386.10156 L 164.89062 386.10742 C 116.65301 342.04072 86.821593 256.17557 73.455078 184.31836 C 66.771821 148.38975 63.97068 115.91838 64.011719 94.707031 C 64.011733 94.699461 64.011703 94.695068 64.011719 94.6875 z "
+     id="path4" />
 </svg>

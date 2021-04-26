@@ -1,18 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<title>ionicons-v5-j</title>
-<g>
-	<path d="M424,432H216c-30.9,0-56-25.1-56-56v-40c0-8.8,7.2-16,16-16s16,7.2,16,16v40c0,13.2,10.8,24,24,24h208
-		c13.2,0,24-10.8,24-24V136c0-13.2-10.8-24-24-24H216c-13.2,0-24,10.8-24,24v40c0,8.8-7.2,16-16,16s-16-7.2-16-16v-40
-		c0-30.9,25.1-56,56-56h208c30.9,0,56,25.1,56,56v240C480,406.9,454.9,432,424,432z"/>
-</g>
-<g>
-	<path d="M272,352c-4.1,0-8.2-1.6-11.3-4.7c-6.2-6.2-6.2-16.4,0-22.6l68.7-68.7l-68.7-68.7c-6.2-6.2-6.2-16.4,0-22.6
-		c6.2-6.2,16.4-6.2,22.6,0l80,80c6.2,6.2,6.2,16.4,0,22.6l-80,80C280.2,350.4,276.1,352,272,352z"/>
-</g>
-<g>
-	<path d="M336,272H48c-8.8,0-16-7.2-16-16c0-8.8,7.2-16,16-16h288c8.8,0,16,7.2,16,16C352,264.8,344.8,272,336,272z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="enter-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title2">Enter</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 216 80 C 185.26157 80 160 105.26157 160 136 L 160 176 A 16 16 0 0 0 176 192 A 16 16 0 0 0 192 176 L 192 136 C 192 122.55565 202.55565 112 216 112 L 424 112 C 437.44435 112 448 122.55565 448 136 L 448 376 C 448 389.44435 437.44435 400 424 400 L 216 400 C 202.55565 400 192 389.44435 192 376 L 192 336 A 16 16 0 0 0 176 320 A 16 16 0 0 0 160 336 L 160 376 C 160 406.73843 185.26157 432 216 432 L 424 432 C 454.73843 432 480 406.73843 480 376 L 480 136 C 480 105.26157 454.73843 80 424 80 L 216 80 z "
+     id="path4" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 272.12109 160 A 16 16 0 0 0 260.68555 164.68555 A 16 16 0 0 0 260.68555 187.31445 L 313.37109 240 L 48 240 A 16 16 0 0 0 32 256 A 16 16 0 0 0 48 272 L 313.37109 272 L 260.68555 324.68555 A 16 16 0 0 0 260.68555 347.31445 A 16 16 0 0 0 283.31445 347.31445 L 363.31445 267.31445 A 16.0016 16.0016 0 0 0 363.31445 244.68555 L 283.31445 164.68555 A 16 16 0 0 0 272.12109 160 z "
+     id="path6" />
 </svg>

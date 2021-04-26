@@ -1,5 +1,8 @@
 # ionicons icon font version
-Ionicons v5.0 icon font version
+Ionicons v5.4.0 icon font version
+
+
+last update 2021-04-27 
 
 
 # Ionicons

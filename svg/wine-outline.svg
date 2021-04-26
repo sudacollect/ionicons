@@ -1,11 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
-    <title>Artboard</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="wine-outline" transform="translate(96.000000, 64.000000)" fill="#000000" fill-rule="nonzero">
-            <path d="M303.5,0 C312.3,0 319.5,7.2 319.5,16 L319.5,30.9 C321,42.3 329.1,121.6 282.6,175.6 C257.755076,204.39141 222.291002,220.47202 177.001497,223.481049 L176.999936,352 L257,352 C265.8,352 273,359.2 273,368 C273,376.8 265.8,384 257,384 L65,384 C56.2,384 49,376.8 49,368 C49,359.2 56.2,352 65,352 L144.999936,352 L144.999503,223.481115 C99.70952,220.472257 64.245107,204.391622 39.4,175.6 C-7.2,121.7 1,42.3 2.4,30.9 L2.4,16 C2.4,7.2 9.6,0 18.4,0 L303.5,0 Z M281.181145,112.000048 L40.7385429,112.00049 C45.345074,126.992507 52.5309509,141.997918 63.6,154.8 C85,179.5 117.7,192 160.9,192 C204.1,192 236.8,179.5 258.2,154.8 C269.335832,142.013379 276.557408,127.00346 281.181145,112.000048 Z M287.5,32 L34.4,32 C34.4,32.8 34.3,33.6 34.2,34.3 C34.1483928,34.6612502 31.433486,54.544487 34.2607669,79.9990074 L287.668486,79.99864 C290.490346,54.5507789 287.751581,34.6610656 287.7,34.3 C287.6,33.5 287.5,32.8 287.5,32 Z" id="Combined-Shape"></path>
-        </g>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="wine-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg10" />
+  <title
+     id="title2">Wine</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 113.42969 64 A 16.0016 16.0016 0 0 0 97.429688 80 L 97.429688 95.234375 C 96.82732 99.457635 91.090265 143.00468 106.34375 189.0332 C 114.35797 213.21669 128.53612 238.2879 152.83203 257.14062 C 174.15234 273.68439 202.92777 284.94614 240 287.45898 L 240 432 L 272 432 L 272 287.45898 C 309.07223 284.94614 337.84766 273.68439 359.16797 257.14062 C 383.46388 238.2879 397.64203 213.21669 405.65625 189.0332 C 420.90974 143.00468 415.17268 99.457635 414.57031 95.234375 L 414.57031 80 A 16.0016 16.0016 0 0 0 398.57031 64 L 113.42969 64 z M 129.42969 96 L 382.57031 96 A 16.0016 16.0016 0 0 0 382.74023 98.332031 C 382.74023 98.332031 388.41532 139.33377 375.28125 178.9668 C 368.71422 198.78331 357.78073 217.7121 339.54883 231.85938 C 321.31693 246.00665 295.33697 256 256 256 C 216.66303 256 190.68307 246.00665 172.45117 231.85938 C 154.21927 217.7121 143.28578 198.78331 136.71875 178.9668 C 123.58468 139.33377 129.25977 98.332031 129.25977 98.332031 A 16.0016 16.0016 0 0 0 129.42969 96 z "
+     id="path4" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 160 416 A 16 16 0 0 0 144 432 A 16 16 0 0 0 160 448 L 352 448 A 16 16 0 0 0 368 432 A 16 16 0 0 0 352 416 L 160 416 z "
+     id="path6" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 112 144 L 112 176 L 400 176 L 400 144 L 112 144 z "
+     id="path8" />
 </svg>

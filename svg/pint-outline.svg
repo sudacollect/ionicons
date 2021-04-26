@@ -1,11 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
-    <title>Artboard</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="pint-outline" transform="translate(112.000000, 16.000000)" fill="#000000" fill-rule="nonzero">
-            <path d="M251.8,0.1 C268.7,0.1 282.7,13.3 283.7,30.1 L286.6,76.7 C286.7,79 286.9,81.2 287,83.4 C288.3,102.6 289.2,116.6 283.3,149.1 C281.7,157.7 278.3,170.1 273.9,185.7 C261.2,231.2 239.9,307.4 239.9,384.5 L239.9,456 C239.9,469.2 229.1,480 215.9,480 L72.1,480 C58.9,480 48.1,469.2 48.1,456 L48.1,384.4 C48.1,317.2 27,236.8 14.4,188.8 C9.97758621,171.896552 6.42440547,158.470036 4.78453657,149.374698 L4.7,148.9 C-1.3,116.4 -0.3,102.5 1,83.3 C1.1,81.2 1.3,79 1.4,76.7 L4.3,30.1 C5.4,13.3 19.4,0.1 36.2,0.1 L251.8,0.1 Z M255.730872,96.0006342 L32.3565485,96.0004377 C31.7381665,108.743897 32.0885017,120.209547 36.1428243,142.250225 L36.3,143.1 L36.3,143.1 C37.8,151 41.2,164.1 45.5,180.6 C58.5,230.1 80.2,312.9 80.2,384.3 L80.2,448 L207.8,448 L207.8,384.4 C207.8,302.9 229.8,224.1 243,177 C247.2,162.2 250.4,150.4 251.8,143.2 C255.928501,120.493244 256.337968,108.880555 255.730872,96.0006342 Z M251.8,32 L36.3,32 L34.3087637,64 L253.786764,64 L251.8,32 Z" id="Combined-Shape"></path>
-        </g>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="pint-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">Pint</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 148.18164 16 C 131.46163 16.030014 117.34576 29.31265 116.30078 46 A 16.0016 16.0016 0 0 0 116.30078 46.003906 L 113.39062 92.613281 A 16.0016 16.0016 0 0 0 113.39062 92.617188 C 112.00056 114.97565 110.24184 129.73185 116.69141 164.87891 C 116.69171 164.88058 116.69305 164.88309 116.69336 164.88477 C 116.69363 164.88623 116.69309 164.88721 116.69336 164.88867 C 120.27362 184.4615 131.01279 219.68433 141.02734 262.89648 C 151.04329 306.11464 160.12391 356.29597 160.11914 400.36914 L 160.11914 472 C 160.11914 485.06532 171.05382 496 184.11914 496 L 327.85938 496 C 340.92469 496 351.85938 485.06532 351.85938 472 L 351.85938 400.38086 C 351.85938 349.77393 361.02504 299.40795 371.04883 257.67188 C 381.07262 215.9358 391.7865 184.11709 395.30664 164.94922 A 16.0016 16.0016 0 0 0 395.30664 164.94727 C 401.76838 129.73339 399.99945 114.99027 398.59961 92.613281 L 398.59961 92.611328 L 395.68945 46.003906 A 16.0016 16.0016 0 0 0 395.68945 46 C 394.64448 29.31265 380.5286 16.030014 363.80859 16 A 16.0016 16.0016 0 0 0 363.7793 16 L 148.21094 16 A 16.0016 16.0016 0 0 0 148.18164 16 z M 148.23828 48 L 363.75195 48 L 365.74805 80 L 146.24023 80 L 148.23828 48 z M 144.25391 112 L 367.74219 112 C 368.42007 124.77636 368.12581 135.77252 363.83203 159.17188 L 363.83398 159.16992 C 361.42413 172.29206 350.2823 207.1103 339.93359 250.19922 C 329.58489 293.28814 319.85938 345.93779 319.85938 400.38086 L 319.85938 464 L 192.11914 464 L 192.11914 400.37109 L 192.11914 400.36914 C 192.12412 351.97286 182.47509 300.00313 172.20117 255.67188 C 161.92712 211.34003 150.82116 173.6199 148.16992 159.12109 A 16.0016 16.0016 0 0 0 148.16797 159.11133 C 143.88338 135.76579 143.58314 124.76527 144.25391 112 z "
+     id="path4" />
 </svg>

@@ -1,1 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><title>ionicons-v5-g</title><path d="M256,400a48,48,0,1,0,48,48,48,48,0,0,0-48-48Z"/><path d="M256,272a48,48,0,1,0,48,48,48,48,0,0,0-48-48Z"/><path d="M256,144a48,48,0,1,0,48,48,48,48,0,0,0-48-48Z"/><path d="M256,16a48,48,0,1,0,48,48,48,48,0,0,0-48-48Z"/><path d="M384,272a48,48,0,1,0,48,48,48,48,0,0,0-48-48Z"/><path d="M384,144a48,48,0,1,0,48,48,48,48,0,0,0-48-48Z"/><path d="M384,16a48,48,0,1,0,48,48,48,48,0,0,0-48-48Z"/><path d="M128,272a48,48,0,1,0,48,48,48,48,0,0,0-48-48Z"/><path d="M128,144a48,48,0,1,0,48,48,48,48,0,0,0-48-48Z"/><path d="M128,16a48,48,0,1,0,48,48,48,48,0,0,0-48-48Z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="keypad.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">Keypad</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;stroke:none;opacity:1"
+     d="m 256,400 c -19.41417,0 -36.91683,11.69489 -44.34588,29.63092 -7.42905,17.93599 -3.32135,38.58065 10.40648,52.30848 13.72783,13.72783 34.37249,17.83553 52.30848,10.40648 C 292.30511,484.91683 304,467.41417 304,448 c 0,-26.50967 -21.49033,-48 -48,-48 z m 0,-128 c -19.41417,0 -36.91683,11.69489 -44.34588,29.63092 -7.42905,17.93599 -3.32135,38.58065 10.40648,52.30848 13.72783,13.72783 34.37249,17.83553 52.30848,10.40648 C 292.30511,356.91683 304,339.41417 304,320 c 0,-26.50967 -21.49033,-48 -48,-48 z m 0,-128 c -19.41417,0 -36.91683,11.69489 -44.34588,29.63092 -7.42905,17.93599 -3.32135,38.58065 10.40648,52.30848 13.72783,13.72783 34.37249,17.83553 52.30848,10.40648 C 292.30511,228.91683 304,211.41417 304,192 c 0,-26.50967 -21.49033,-48 -48,-48 z m 0,-128 c -19.41417,0 -36.91683,11.694889 -44.34588,29.630919 -7.42905,17.935993 -3.32135,38.580652 10.40648,52.308482 13.72783,13.727829 34.37249,17.835529 52.30848,10.406479 C 292.30511,100.91683 304,83.414167 304,64 304,37.490332 282.50967,16 256,16 Z m 128,256 c -19.41417,0 -36.91683,11.69489 -44.34588,29.63092 -7.42905,17.93599 -3.32135,38.58065 10.40648,52.30848 13.72783,13.72783 34.37249,17.83553 52.30848,10.40648 C 420.30511,356.91683 432,339.41417 432,320 c 0,-26.50967 -21.49033,-48 -48,-48 z m 0,-128 c -19.41417,0 -36.91683,11.69489 -44.34588,29.63092 -7.42905,17.93599 -3.32135,38.58065 10.40648,52.30848 13.72783,13.72783 34.37249,17.83553 52.30848,10.40648 C 420.30511,228.91683 432,211.41417 432,192 c 0,-26.50967 -21.49033,-48 -48,-48 z m 0,-128 c -19.41417,0 -36.91683,11.694889 -44.34588,29.630919 -7.42905,17.935993 -3.32135,38.580652 10.40648,52.308482 13.72783,13.727829 34.37249,17.835529 52.30848,10.406479 C 420.30511,100.91683 432,83.414167 432,64 432,37.490332 410.50967,16 384,16 Z M 128,272 c -19.41417,0 -36.916825,11.69489 -44.345885,29.63092 -7.429044,17.93599 -3.321346,38.58065 10.406484,52.30848 13.727831,13.72783 34.372491,17.83553 52.308481,10.40648 C 164.30511,356.91683 176,339.41417 176,320 c 0,-26.50967 -21.49033,-48 -48,-48 z m 0,-128 c -19.41417,0 -36.916825,11.69489 -44.345885,29.63092 -7.429044,17.93599 -3.321346,38.58065 10.406484,52.30848 13.727831,13.72783 34.372491,17.83553 52.308481,10.40648 C 164.30511,228.91683 176,211.41417 176,192 176,165.49033 154.50967,144 128,144 Z M 128,16 C 108.58583,16 91.083175,27.694889 83.654115,45.630919 76.225071,63.566912 80.332769,84.211571 94.060599,97.939401 107.78843,111.66723 128.43309,115.77493 146.36908,108.34588 164.30511,100.91683 176,83.414167 176,64 176,37.490332 154.50967,16 128,16 Z"
+     id="path4" />
+</svg>

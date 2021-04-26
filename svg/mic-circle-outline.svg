@@ -1,25 +1,63 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<title>ionicons-v5-g</title>
-<g>
-	<path d="M256,464c-114.7,0-208-93.3-208-208S141.3,48,256,48s208,93.3,208,208S370.7,464,256,464z M256,80c-97,0-176,79-176,176
-		s79,176,176,176s176-79,176-176S353,80,256,80z"/>
-</g>
-<g>
-	<path d="M288,384h-64c-8.8,0-16-7.2-16-16s7.2-16,16-16h64c8.8,0,16,7.2,16,16S296.8,384,288,384z"/>
-</g>
-<g>
-	<path d="M256,335.7c-23.1,0-46.8-9-65.2-24.8c-19.9-17.1-30.8-39.3-30.8-62.7v-23.9c0-8.8,7.2-16,16-16s16,7.2,16,16v23.9
-		c0,25.7,28,55.5,64,55.5c29.6,0,64-24.2,64-55.5v-23.9c0-8.8,7.2-16,16-16s16,7.2,16,16v23.9c0,23.4-10.9,45.6-30.8,62.7
-		C302.8,326.7,279.1,335.7,256,335.7z"/>
-</g>
-<g>
-	<path d="M256,384c-8.8,0-16-7.2-16-16v-48c0-8.8,7.2-16,16-16c8.8,0,16,7.2,16,16v48C272,376.8,264.8,384,256,384z"/>
-</g>
-<g>
-	<path d="M256,128L256,128c26.5,0,48,21.5,48,48v64c0,26.5-21.5,48-48,48l0,0c-26.5,0-48-21.5-48-48v-64
-		C208,149.5,229.5,128,256,128z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="mic-circle-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg10" />
+  <title
+     id="title2">Mic Circle</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 256 48 C 141.34591 48 48 141.34591 48 256 C 48 370.65409 141.34591 464 256 464 C 370.65409 464 464 370.65409 464 256 C 464 141.34591 370.65409 48 256 48 z M 256 80 C 353.34591 80 432 158.65409 432 256 C 432 353.34591 353.34591 432 256 432 C 158.65409 432 80 353.34591 80 256 C 80 158.65409 158.65409 80 256 80 z "
+     id="path4" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 176 208.30078 A 16 16 0 0 0 160 224.30078 L 160 248.2207 C 160 273.42098 172.89201 295.50793 190.79492 310.88086 C 204.68177 322.80526 221.80056 331.09822 240 334.24805 L 240 352 L 224 352 A 16 16 0 0 0 208 368 A 16 16 0 0 0 224 384 L 256 384 L 288 384 A 16 16 0 0 0 304 368 A 16 16 0 0 0 288 352 L 272 352 L 272 334.24805 C 290.19944 331.09822 307.31823 322.80526 321.20508 310.88086 C 339.10799 295.50793 352 273.42098 352 248.2207 L 352 224.30078 A 16 16 0 0 0 336 208.30078 A 16 16 0 0 0 320 224.30078 L 320 248.2207 C 320 262.44043 312.60146 276.09144 300.35938 286.60352 C 288.11729 297.11559 271.37244 303.69922 256 303.69922 C 240.62756 303.69922 223.88271 297.11559 211.64062 286.60352 C 199.39854 276.09144 192 262.44043 192 248.2207 L 192 224.30078 A 16 16 0 0 0 176 208.30078 z "
+     id="path6" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;stroke:none;opacity:1"
+     d="m 256,128 c 26.592,0 48,21.408 48,48 v 64 c 0,26.592 -21.408,48 -48,48 -26.592,0 -48,-21.408 -48,-48 v -64 c 0,-26.592 21.408,-48 48,-48 z"
+     id="rect8" />
 </svg>

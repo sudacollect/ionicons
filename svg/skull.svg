@@ -1,1 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><title>ionicons-v5-l</title><path d="M402,76.94C362.61,37.63,310.78,16,256,16h-.37A208,208,0,0,0,48,224V324.67A79.62,79.62,0,0,0,98.29,399L122,408.42a15.92,15.92,0,0,1,9.75,11.72l10,50.13A32.09,32.09,0,0,0,173.12,496H184a8,8,0,0,0,8-8V448.45c0-8.61,6.62-16,15.23-16.43A16,16,0,0,1,224,448v40a8,8,0,0,0,8,8h0a8,8,0,0,0,8-8V448.45c0-8.61,6.62-16,15.23-16.43A16,16,0,0,1,272,448v40a8,8,0,0,0,8,8h0a8,8,0,0,0,8-8V448.45c0-8.61,6.62-16,15.23-16.43A16,16,0,0,1,320,448v40a8,8,0,0,0,8,8h10.88a32.09,32.09,0,0,0,31.38-25.72l10-50.14A16,16,0,0,1,390,408.42L413.71,399A79.62,79.62,0,0,0,464,324.67v-99C464,169.67,442,116.86,402,76.94ZM171.66,335.88a56,56,0,1,1,52.22-52.22A56,56,0,0,1,171.66,335.88ZM281,397.25A16.37,16.37,0,0,1,271.7,400H240.3a16.37,16.37,0,0,1-9.28-2.75,16,16,0,0,1-6.6-16.9l15.91-47.6C243,326,247.25,321,254,320.13c8.26-1,14,2.87,17.61,12.22l16,48A16,16,0,0,1,281,397.25Zm66.68-61.37a56,56,0,1,1,52.22-52.22A56,56,0,0,1,347.66,335.88Z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="skull.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">Skull</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;stroke:none;opacity:1"
+     d="M 402,76.94 C 362.61,37.63 310.78,16 256,16 h -0.37 C 140.89929,16.204089 47.999818,109.26911 48,224 v 100.67 c -0.127094,32.76397 19.829749,62.26073 50.29,74.33 l 23.71,9.42 c 5.03088,1.9954 8.70344,6.41 9.75,11.72 l 10,50.13 c 3.02037,14.93753 16.13022,25.69037 31.37,25.73 H 184 c 4.41828,0 8,-3.58172 8,-8 v -39.55 c 0,-8.61 6.62,-16 15.23,-16.43 9.12773,-0.43978 16.76917,6.84168 16.77,15.98 v 40 c 0,4.41828 3.58172,8 8,8 4.41828,0 8,-3.58172 8,-8 v -39.55 c 0,-8.61 6.62,-16 15.23,-16.43 9.12773,-0.43978 16.76917,6.84168 16.77,15.98 v 40 c 0,4.41828 3.58172,8 8,8 4.41828,0 8,-3.58172 8,-8 v -39.55 c 0,-8.61 6.62,-16 15.23,-16.43 9.12773,-0.43978 16.76917,6.84168 16.77,15.98 v 40 c 0,4.41828 3.58172,8 8,8 h 10.88 c 15.24047,-0.0339 28.35473,-10.78277 31.38,-25.72 l 10,-50.14 c 1.05831,-5.30121 4.72192,-9.70958 9.74,-11.72 L 413.71,399 c 30.46025,-12.06927 50.41709,-41.56603 50.29,-74.33 v -99 c 0,-56 -22,-108.81 -62,-148.73 z M 171.66,335.88 c -23.26832,1.52411 -45.04611,-11.52991 -54.66857,-32.76928 -9.62244,-21.23931 -5.07524,-46.21784 11.4131,-62.70619 16.48835,-16.48834 41.46688,-21.03554 62.70619,-11.4131 21.23937,9.62246 34.29339,31.40025 32.76928,54.66857 -1.83694,28.04422 -24.17578,50.38306 -52.22,52.22 z M 281,397.25 c -2.75108,1.83497 -5.9934,2.79372 -9.3,2.75 h -31.4 c -3.29981,0.0397 -6.53457,-0.9189 -9.28,-2.75 -5.48999,-3.72099 -8.11525,-10.44323 -6.6,-16.9 l 15.91,-47.6 C 243,326 247.25,321 254,320.13 c 8.26,-1 14,2.87 17.61,12.22 l 16,48 c 1.51319,6.45891 -1.11625,13.18168 -6.61,16.9 z m 66.68,-61.37 c -23.26832,1.52411 -45.04611,-11.52991 -54.66857,-32.76928 -9.62244,-21.23931 -5.07524,-46.21784 11.4131,-62.70619 16.48835,-16.48834 41.46688,-21.03554 62.70619,-11.4131 21.23937,9.62246 34.29339,31.40025 32.76928,54.66857 -1.83807,28.05132 -24.18798,50.39267 -52.24,52.22 z"
+     id="path4" />
+</svg>

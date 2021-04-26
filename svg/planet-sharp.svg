@@ -1,1 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><title>ionicons-v5-p</title><path d="M81,274.71C90.36,363,165.26,432,256,432a174.91,174.91,0,0,0,71.49-15.19c-40.3-16.53-84.05-38.17-127.77-63.36C157,328.86,115.84,301.5,81,274.71Z"/><path d="M492.72,339.51c-8.5-11.31-20-23.8-34-37a205.25,205.25,0,0,1-11,34c28.72,29.5,33.2,45.34,32.17,48.45-2,2.23-17.05,6.89-58.15-3.53q-8.83-2.24-19.32-5.46-6.76-2.08-13.79-4.49h0a176.76,176.76,0,0,0,19.54-27.25c.17-.29.35-.58.52-.88A175.39,175.39,0,0,0,432,256,178.87,178.87,0,0,0,431,237C421.43,148.83,346.6,80,256,80A175.37,175.37,0,0,0,149.6,115.89a177.4,177.4,0,0,0-45.83,51.84c-.16.29-.34.58-.51.87a175.48,175.48,0,0,0-13.83,30.52q-5.59-4.87-10.79-9.67c-5.39-5-10.17-9.63-14.42-14C34.65,145.19,31.13,129.84,32.06,127c2.16-2.43,18.1-6.54,58.13,3.55a209.88,209.88,0,0,1,24-26.56c-18.86-5.61-35.79-9.35-50.05-11C33.41,89.47,13.3,95.52,4.35,111,1.11,116.58-2,126.09,1.63,139.6,7,159.66,26.14,184,53.23,209.5c8.63,8.13,18.06,16.37,28.12,24.64,7.32,6,15,12.06,22.9,18.08q7.91,6,16.15,12T137.1,276c25.41,17.61,52.26,34.52,78.59,49.69q14.34,8.26,28.64,16t28.37,14.81c21.9,11,43.35,20.92,63.86,29.43q13.19,5.48,25.81,10.16c11.89,4.42,23.37,8.31,34.31,11.59l1.1.33c25.73,7.66,47.42,11.69,64.48,12H464c21.64,0,36.3-6.38,43.58-19C516.67,385.39,511.66,364.69,492.72,339.51Z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="planet-sharp.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">Planet</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;stroke:none;opacity:1"
+     d="M 81,274.71 C 90.36,363 165.26,432 256,432 c 24.63378,0.0274 48.99553,-5.14894 71.49,-15.19 C 287.19,400.28 243.44,378.64 199.72,353.45 157,328.86 115.84,301.5 81,274.71 Z m 411.72,64.8 c -8.5,-11.31 -20,-23.8 -34,-37 -2.67122,11.63158 -6.35183,23.00802 -11,34 28.72,29.5 33.2,45.34 32.17,48.45 -2,2.23 -17.05,6.89 -58.15,-3.53 -5.88667,-1.49333 -12.32667,-3.31333 -19.32,-5.46 -4.50667,-1.38667 -9.10333,-2.88333 -13.79,-4.49 7.36213,-8.44362 13.90489,-17.568 19.54,-27.25 0.17,-0.29 0.35,-0.58 0.52,-0.88 15.26969,-26.57941 23.3067,-56.69664 23.31,-87.35 0.004,-6.34659 -0.32983,-12.68889 -1,-19 -9.57,-88.17 -84.4,-157 -175,-157 -38.44167,-0.02163 -75.82553,12.5884 -106.4,35.89 -18.53123,14.10433 -34.10406,31.71934 -45.83,51.84 -0.16,0.29 -0.34,0.58 -0.51,0.87 -5.572952,9.7089 -10.204058,19.92882 -13.83,30.52 -3.726667,-3.24667 -7.323333,-6.47 -10.79,-9.67 -5.39,-5 -10.17,-9.63 -14.42,-14 C 34.65,145.19 31.13,129.84 32.06,127 c 2.16,-2.43 18.1,-6.54 58.13,3.55 7.229012,-9.52066 15.25821,-18.40631 24,-26.56 C 95.33,98.38 78.4,94.64 64.14,92.99 33.41,89.47 13.3,95.52 4.35,111 1.11,116.58 -2,126.09 1.63,139.6 7,159.66 26.14,184 53.23,209.5 c 8.63,8.13 18.06,16.37 28.12,24.64 7.32,6 15,12.06 22.9,18.08 5.27333,4 10.65667,8 16.15,12 5.49333,4 11.06,7.92667 16.7,11.78 25.41,17.61 52.26,34.52 78.59,49.69 9.56,5.50667 19.10667,10.84 28.64,16 9.53333,5.16 18.99,10.09667 28.37,14.81 21.9,11 43.35,20.92 63.86,29.43 8.79333,3.65333 17.39667,7.04 25.81,10.16 11.89,4.42 23.37,8.31 34.31,11.59 l 1.1,0.33 c 25.73,7.66 47.42,11.69 64.48,12 H 464 c 21.64,0 36.3,-6.38 43.58,-19 9.09,-15.62 4.08,-36.32 -14.86,-61.5 z"
+     id="path4" />
+</svg>

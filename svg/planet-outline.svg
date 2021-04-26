@@ -1,17 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<title>ionicons-v5-p</title>
-<g>
-	<path d="M464,420c-0.6,0-1.2,0-1.8,0c-17.3-0.3-39.4-4.4-65.6-12.3c-52.2-15.7-116.4-44.8-181-82C119.1,270,15.4,190.9,1.6,139.6
-		c-3.6-13.5-0.5-23,2.7-28.6c8.9-15.5,29.1-21.5,59.8-18c24,2.8,55.7,11.5,91.4,25.1L144.1,148C63.6,117.2,35,123.7,32.1,127
-		c-1.1,3.3,3.7,22.9,46.6,62.5c37.8,34.9,92.2,73.5,153,108.5c60.9,35.1,121.5,62.8,170.8,78c55.8,17.3,75.2,11.5,77.5,9
-		c1.4-4.3-7.6-32.8-76.5-88.1l20-25c30.5,24.4,54.4,47.8,69.2,67.5c18.9,25.2,23.9,45.9,14.9,61.5C500.4,413.6,485.7,420,464,420z"
-		/>
-</g>
-<g>
-	<path d="M256,432c-97,0-176-79-176-176S159,80,256,80s176,79,176,176S353,432,256,432z M256,112c-79.4,0-144,64.6-144,144
-		c0,79.4,64.6,144,144,144c79.4,0,144-64.6,144-144C400,176.6,335.4,112,256,112z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="planet-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title2">Planet</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 46.333984 91.992188 C 40.718026 92.071456 35.403632 92.610794 30.332031 93.728516 C 20.18883 95.963958 10.031092 101.19267 4.3632812 110.98438 L 4.3613281 110.98633 L 4.359375 110.98828 C -0.17314267 118.82364 -0.75530788 127.98935 0.82617188 136.09961 C 2.4076516 144.20987 5.8818995 151.8664 10.603516 159.73633 C 20.046748 175.47619 34.810537 192.21374 54.064453 210.28516 C 92.572286 246.428 149.16048 287.38018 215.70117 325.72266 C 282.24228 364.06537 346.0732 392.4967 396.6875 407.70312 C 421.99465 415.30634 443.9008 419.69551 462.27148 419.98438 C 471.45683 420.12881 479.82876 419.3007 487.64453 416.61523 C 495.4603 413.92977 503.10552 408.85805 507.63867 401.02344 L 507.64062 401.01953 L 507.64258 401.01758 C 513.37774 391.09525 512.75547 379.52589 509.50781 369.50977 C 506.26016 359.49364 500.47412 349.79003 492.73633 339.50195 C 477.26075 318.92579 453.59484 296.13465 423.49414 271.98047 L 403.4668 296.93945 C 432.2361 320.02527 454.37519 341.73499 467.16211 358.73633 C 473.55557 367.237 477.5157 374.59034 479.06836 379.37891 C 480.61791 384.15787 479.85591 385.14251 479.9375 385 C 480.00611 384.88755 479.9549 385.42083 477.24609 386.35156 C 474.51894 387.2886 469.48926 388.09385 462.77539 387.98828 C 449.34764 387.77714 429.46613 384.13843 405.89453 377.05664 C 358.75133 362.89306 296.45663 335.32338 231.67773 297.99609 C 166.89842 260.66857 111.82701 220.61279 75.964844 186.95312 C 58.03376 170.12329 44.935987 154.76068 38.042969 143.27148 C 34.59646 137.52689 32.782426 132.78517 32.234375 129.97461 C 31.687652 127.17086 32.130395 126.89058 32.060547 127.01367 C 32.060377 127.01397 32.060723 127.01141 32.060547 127.01172 C 31.976174 127.15553 32.437797 126.03218 37.21875 124.97852 C 42.013674 123.92177 50.163972 123.61923 60.490234 124.80664 C 81.14276 127.18147 110.40423 135.13589 144.13477 148.03516 L 155.56445 118.14648 C 120.23499 104.63575 89.257006 95.903299 64.144531 93.015625 C 57.866413 92.293707 51.949943 91.912919 46.333984 91.992188 z "
+     id="path4" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 256 80 C 158.9874 80 80 158.9874 80 256 C 80 353.0126 158.9874 432 256 432 C 353.0126 432 432 353.0126 432 256 C 432 158.9874 353.0126 80 256 80 z M 256 112 C 335.71852 112 400 176.28148 400 256 C 400 335.71852 335.71852 400 256 400 C 176.28148 400 112 335.71852 112 256 C 112 176.28148 176.28148 112 256 112 z "
+     id="circle6" />
 </svg>

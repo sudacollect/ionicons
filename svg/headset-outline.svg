@@ -1,26 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<title>ionicons-v5-i</title>
-<g>
-	<path d="M429,400c-1.9,0-3.9-0.3-5.8-1.1c-8.2-3.2-12.3-12.5-9.1-20.7c28-72.4,33.9-106.4,33.9-122.2c0-50.3-21-98.5-59.2-135.6
-		C352,84.6,303.6,64,256,64c-47.6,0-96,20.6-132.8,56.4C85,157.5,64,205.7,64,256c0,23.3,12,66.7,33.9,122.1
-		c3.2,8.2-0.8,17.5-9,20.8c-8.2,3.2-17.5-0.8-20.8-9C51.6,348,32,290.9,32,256c0-59,24.4-115.3,68.8-158.5
-		C143.6,55.9,200.1,32,256,32c55.9,0,112.4,23.9,155.2,65.5C455.6,140.7,480,197,480,256c0,27.3-11.8,71.1-36.1,133.8
-		C441.5,396.1,435.4,400,429,400z"/>
-</g>
-<g>
-	<path d="M176.2,480c-6.1,0-12.5-0.9-18.9-2.6c-29.9-8-59.7-33.9-79.8-69.2C44.3,350,48.3,286.8,86.6,264.3l14.1-8.2
-		c7.4-4.2,16-5.2,24.1-3c8.2,2.3,15,7.6,19.1,15l86.9,152.5c8.6,15.1,3.4,34.6-11.5,43.5l-0.1,0.1l-13.7,8
-		C196.7,477.4,186.8,480,176.2,480z M116.2,284.1l-13.4,7.8c-5.6,3.3-15.1,12.3-15.7,35.7c-0.5,19.9,6.1,43.5,18.2,64.8
-		c15.7,27.6,38.8,48.3,60.3,54.1c9.4,2.5,17.4,1.9,23.8-1.9l13.6-7.9c0.1,0,0.1-0.1,0-0.2L116.2,284.1z M116.4,284L116.4,284
-		C116.4,284,116.4,284,116.4,284L116.4,284z"/>
-</g>
-<g>
-	<path d="M335.8,480c-10.6,0-20.5-2.6-29.3-7.7l-13.8-8.1c-14.9-8.9-20.1-28.4-11.5-43.5l86.9-152.6c8.6-15.2,28-20.6,43.2-12
-		l0.4,0.2l13.7,8c38.4,22.4,42.4,85.7,9.2,143.9c-20.1,35.3-50,61.2-79.8,69.2C348.3,479.1,341.9,480,335.8,480z M309.1,436.7
-		l13.6,7.9c6.4,3.8,14.4,4.4,23.8,1.9c21.5-5.8,44.6-26.5,60.3-54.1c12.1-21.3,18.7-44.9,18.2-64.8c-0.6-23.4-10.1-32.4-15.7-35.7
-		l-13.4-7.8L309,436.5C309,436.5,309,436.6,309.1,436.7z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="headset-outline.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title2">Headset</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 256 32 C 140.01829 32 32 131.71146 32 256 C 32 297.4064 54.930512 356.40128 68.113281 389.86523 A 16 16 0 0 0 88.865234 398.88672 A 16 16 0 0 0 97.886719 378.13477 C 85.069488 345.59872 64 283.8536 64 256 C 64 150.52854 158.64171 64 256 64 C 353.35829 64 448 150.52854 448 256 C 448 283.54558 425.95463 347.54365 414.07812 378.22461 A 16 16 0 0 0 423.22461 398.92188 A 16 16 0 0 0 443.92188 389.77539 C 456.04537 358.45635 480 297.71442 480 256 C 480 131.71146 371.98171 32 256 32 z "
+     id="path4" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;opacity:1"
+     d="M 118.51953 252.16797 C 112.36032 251.703 106.02248 253.00246 100.35352 256.29492 L 100.33594 256.30469 L 100.31836 256.31641 L 86.621094 264.31836 L 86.615234 264.32227 C 65.394859 276.74703 55.764922 301.06482 55.060547 326.75781 C 54.356172 352.4508 61.948117 381.05266 77.412109 408.24023 C 92.882571 435.43919 113.55255 456.45322 135.96875 468.72852 C 158.38225 481.00233 184.27105 484.67732 205.49219 472.26367 L 219.24023 464.23047 L 219.29688 464.19727 C 234.18596 455.32986 239.36459 435.73958 230.80078 420.67383 L 230.79688 420.66797 L 143.93164 268.13086 C 138.55813 258.61733 128.78489 252.94291 118.51953 252.16797 z M 393.48047 252.16797 C 383.21511 252.94291 373.44187 258.61733 368.06836 268.13086 L 281.20312 420.6582 L 281.19922 420.66406 C 272.63541 435.72981 277.81404 455.32009 292.70312 464.1875 L 292.75977 464.2207 L 306.5 472.25 C 327.71991 484.66747 353.60713 480.99214 376.01758 468.7168 C 398.42803 456.44146 419.09352 435.43057 434.58203 408.23828 C 450.06987 381.04718 457.66535 352.44083 456.95508 326.74609 C 456.24481 301.05135 446.60128 276.73808 425.38086 264.32031 L 425.37695 264.31836 L 411.66406 256.30469 L 411.64648 256.29492 C 405.97752 253.00246 399.63968 251.703 393.48047 252.16797 z M 116.19922 284.09766 L 202.98047 436.48828 C 203.10874 436.71035 203.14952 436.56871 202.92383 436.70312 L 189.34375 444.63867 L 189.33984 444.64062 C 180.33241 449.9116 167.33419 449.42181 151.33789 440.66211 C 135.34159 431.90241 118.07805 415.01097 105.22852 392.41992 C 92.372508 369.8175 86.53875 346.16928 87.046875 327.63477 C 87.555 309.10026 93.775532 297.21274 102.78516 291.9375 L 116.19922 284.09766 z M 395.80078 284.09766 L 409.22656 291.94336 C 418.23218 297.21775 424.45471 309.10369 424.9668 327.62891 C 425.47902 346.15917 419.6495 369.80149 406.77734 392.40039 C 393.90586 414.99811 376.63658 431.89268 360.64453 440.65234 C 344.65248 449.412 331.67024 449.90339 322.66016 444.63086 L 322.65625 444.62891 L 309.07617 436.69141 C 308.85682 436.56281 308.89235 436.69869 309.01953 436.47852 C 309.02062 436.47663 309.01843 436.4785 309.01953 436.47656 L 395.80078 284.09766 z "
+     id="path6" />
 </svg>

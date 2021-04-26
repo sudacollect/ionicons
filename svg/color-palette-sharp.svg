@@ -1,1 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><title>ionicons-v5-m</title><path d="M416,352c-12.6-.84-21-4-28-12-14-16-14-36,5.49-52.48l32.82-29.14c50.27-44.41,50.27-117.21,0-161.63C389.26,64.14,339.54,48,287.86,48c-60.34,0-123.39,22-172,65.11-90.46,80-90.46,210.92,0,290.87,45,39.76,105.63,59.59,165.64,60h1.84c60,0,119.07-19.5,161.2-56.77C464,390,464,385,444.62,355.56,440,348,431,353,416,352ZM112,208a32,32,0,1,1,32,32A32,32,0,0,1,112,208Zm40,135a32,32,0,1,1,32-32A32,32,0,0,1,152,343Zm40-199a32,32,0,1,1,32,32A32,32,0,0,1,192,144Zm64,271a48,48,0,1,1,48-48A48,48,0,0,1,256,415Zm72-239a32,32,0,1,1,32-32A32,32,0,0,1,328,176Z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="ionicon"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="color-palette-sharp.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="689"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="1.3027344"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="44"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">Color Palette</title>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1;stroke:none;opacity:1"
+     d="m 416,352 c -12.6,-0.84 -21,-4 -28,-12 -14,-16 -14,-36 5.49,-52.48 l 32.82,-29.14 c 50.27,-44.41 50.27,-117.21 0,-161.63 C 389.26,64.14 339.54,48 287.86,48 c -60.34,0 -123.39,22 -172,65.11 -90.46,80 -90.46,210.92 0,290.87 45,39.76 105.63,59.59 165.64,60 h 1.84 c 60,0 119.07,-19.5 161.2,-56.77 C 464,390 464,385 444.62,355.56 440,348 431,353 416,352 Z M 112,208 c 0,-12.94278 7.79659,-24.61122 19.75395,-29.56392 11.95732,-4.9527 25.72043,-2.21423 34.87232,6.93765 9.15188,9.15189 11.89035,22.915 6.93765,34.87232 C 168.61122,232.20341 156.94278,240 144,240 c -17.67311,0 -32,-14.32689 -32,-32 z m 40,135 c -12.94278,0 -24.61122,-7.79659 -29.56392,-19.75395 -4.9527,-11.95732 -2.21423,-25.72043 6.93765,-34.87232 9.15189,-9.15188 22.915,-11.89035 34.87232,-6.93765 C 176.20341,286.38878 184,298.05722 184,311 c 0,17.67311 -14.32689,32 -32,32 z m 40,-199 c 0,-12.94278 7.79659,-24.61122 19.75395,-29.56392 11.95732,-4.9527 25.72043,-2.21423 34.87232,6.93765 9.15188,9.15189 11.89035,22.915 6.93765,34.87232 C 248.61122,168.20341 236.94278,176 224,176 c -17.67311,0 -32,-14.32689 -32,-32 z m 64,271 c -19.41417,0 -36.91683,-11.69489 -44.34588,-29.63092 -7.42905,-17.93599 -3.32135,-38.58065 10.40648,-52.30848 13.72783,-13.72783 34.37249,-17.83553 52.30848,-10.40648 C 292.30511,330.08317 304,347.58583 304,367 c 0,26.50967 -21.49033,48 -48,48 z m 72,-239 c -12.94278,0 -24.61122,-7.79659 -29.56392,-19.75395 -4.9527,-11.95732 -2.21423,-25.72043 6.93765,-34.87232 9.15189,-9.15188 22.915,-11.89035 34.87232,-6.93765 C 352.20341,119.38878 360,131.05722 360,144 c 0,17.67311 -14.32689,32 -32,32 z"
+     id="path4" />
+</svg>
