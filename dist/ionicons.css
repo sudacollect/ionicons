@@ -1,10 +1,10 @@
 @font-face {
     font-family: "ionicons";
-    src: url("./ionicons.eot?77efd1eb6348053f10e2a062ff750f5f?#iefix") format("embedded-opentype"),
-url("./ionicons.woff2?77efd1eb6348053f10e2a062ff750f5f") format("woff2"),
-url("./ionicons.woff?77efd1eb6348053f10e2a062ff750f5f") format("woff"),
-url("./ionicons.ttf?77efd1eb6348053f10e2a062ff750f5f") format("truetype"),
-url("./ionicons.svg?77efd1eb6348053f10e2a062ff750f5f#ionicons") format("svg");
+    src: url("./ionicons.eot?6d31ef124529136babba43deeb36c79a?#iefix") format("embedded-opentype"),
+url("./ionicons.woff2?6d31ef124529136babba43deeb36c79a") format("woff2"),
+url("./ionicons.woff?6d31ef124529136babba43deeb36c79a") format("woff"),
+url("./ionicons.ttf?6d31ef124529136babba43deeb36c79a") format("truetype"),
+url("./ionicons.svg?6d31ef124529136babba43deeb36c79a#ionicons") format("svg");
 }
 
 i[class^="ion-"]:before, i[class*=" ion-"]:before {
